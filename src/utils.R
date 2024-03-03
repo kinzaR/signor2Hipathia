@@ -20,6 +20,7 @@ getPathwayData<-function(api_url="https://signor.uniroma2.it/getPathwayData.php?
   stop("Failed to retrieve pathway data. Check the API endpoint and parameters.")
 }
 getSignorData<-function(api_url){
+  print(api_url)
   if(nchar(api_url)==0) stop("Empty URL")
   # Make a GET request to the API
   response <- GET(paste0("https://signor.uniroma2.it/",api_url))
