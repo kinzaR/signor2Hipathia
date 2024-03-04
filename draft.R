@@ -32,7 +32,7 @@ metaginfo <- local_create_metaginfo_object(pathigraphs, "hsa", by.user = TRUE)
 
 visNetwork::visIgraph(metaginfo$pathigraphs$hsapath1$graph)
 visNetwork::visIgraph(metaginfo$pathigraphs$hsapath2$graph)
-
+metaginfo$eff.norm
 # Drug  afect (A, B, C , D) 
 A<- 0.8
 B<- 0.8
