@@ -1,8 +1,8 @@
 ## get data
 source("src/configs.R")
 source("src/utils.R")
-complexes <- getSignorData(complexes_path) %>%.[,c(1:3)] %>% 
-  rename("SIG_ID"= 1, "LABEL"=2, "COMPONENTS"=3) %>%
+complexes <- getSignorData(complexes_path) %>% .[,c(1:3)] %>% 
+  rename_("SIG_ID"= 1, "LABEL"=2, "COMPONENTS"=3) %>%
   mutate(TYPE = "complexe")
 fusionProteins <- getSignorData(fusionProteins_path) %>%.[,c(1:3)] %>%
   rename("SIG_ID"= 1, "LABEL"=2, "COMPONENTS"=3) %>%

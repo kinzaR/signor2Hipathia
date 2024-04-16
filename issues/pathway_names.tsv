@@ -1,0 +1,95 @@
+SIGNOR-AML	Acute Myeloid Leukemia
+SIGNOR-AC	Adipogenesis
+SIGNOR-AD	Alzheimer
+SIGNOR-AMPK	AMPK Signaling
+SIGNOR-AAAM	Aspartate and asparagine metabolism
+SIGNOR-Autophagy	Autophagy
+SIGNOR-AG	Axon guidance
+SIGNOR-B-cell	B-cell activation
+SIGNOR-CB	Carnitine biosynthesis
+SIGNOR-CM	Catecholamine metabolism
+SIGNOR-G1-S_trans	Cell cycle: G1/S phase transition
+SIGNOR-G2-M_trans	Cell cycle: G2/M phase transition
+SIGNOR-CC	Circadian clock
+SIGNOR-CAC	Citric acid cycle
+SIGNOR-CRC	Colorectal Carcinoma
+SIGNOR-CS	Complement Signaling
+SIGNOR-CCN	COVID-19 Causal Network
+SIGNOR-DR	Death Receptor Signaling
+SIGNOR-DS	Dopaminergic Synapse
+SIGNOR-EI	EBV infection
+SIGNOR-EGF	EGFR Signaling
+SIGNOR-FattyAcidSynthesis	Fatty Acid Synthesis
+SIGNOR-Fibrosis	Fibrosis
+SIGNOR-FSGS	Focal segmental glomerulosclerosis
+SIGNOR-GSP	GABAergic synapse 
+SIGNOR-GBM	Glioblastoma Multiforme
+SIGNOR-GCR	Glucocorticoid receptor Signaling
+SIGNOR-GS	Glutamatergic synapse
+SIGNOR-GP	Glutamine metabolism
+SIGNOR-G	Glycogenesis
+SIGNOR-Glycogenolysis	Glycogenolysis
+SIGNOR-Glycolysis	Glycolysis and Gluconeogenesis
+SIGNOR-HT	Hepatocellular Tumor
+SIGNOR-HPP	Hippo Signaling
+SIGNOR-IL1R	IL1 Signaling 
+SIGNOR-IL6	IL6 Signaling
+SIGNOR-Inflammosome	Inflammosome Activation
+SIGNOR-IOA	Inhibition of Apoptosis
+SIGNOR-IoT	Initiation of Translation
+SIGNOR-IIS	Innate Immune Response
+SIGNOR-INSR	Insulin Signaling
+SIGNOR-IS	Integrin Signaling
+SIGNOR-LR	Leptin Signaling
+SIGNOR-LBC	Luminal Breast Cancer
+SIGNOR-M1M2	Macrophage polarization
+SIGNOR-MM	Malignant Melanoma
+SIGNOR-MCAPO	Mitochondrial Control of Apoptosis
+SIGNOR-MD	Mitochondrial dynamics in T cell exhaustion
+SIGNOR-mRNA_Maturation	mRNA maturation
+SIGNOR-mRNA_MAT	mRNA maturation
+SIGNOR-MS	MTOR Signaling
+SIGNOR-MSP	Multiple sclerosis
+SIGNOR-NR	Neurotransmitters release
+SIGNOR-NFKBC	NF-KB Canonical
+SIGNOR-NFKBNC	NF-KB Non Canonical
+SIGNOR-NSCLCN	Non-small-cell lung cancer (NSCLC)
+SIGNOR-NS	Noonan syndrome
+SIGNOR-NOTCH	NOTCH Signaling
+SIGNOR-NM	Nucleotide Biosynthesis
+SIGNOR-FM	One-carbon Metabolism
+SIGNOR-OS	Oxytocin signaling
+SIGNOR-P38	P38 Signaling
+SIGNOR-PDAP	Pancreatic ductal adenocarcinoma (PDA)
+SIGNOR-PD	Parkinson
+SIGNOR-PPP	Pentose phosphate pathway
+SIGNOR-PI3K-AKT	PI3K/AKT Signaling
+SIGNOR-PC	Prostate Cancer
+SIGNOR-RAM	Retinoic Acid Metabolism
+SIGNOR-RAS	Retinoic acid Signaling
+SIGNOR-RMS	Rhabdomyosarcoma
+SIGNOR-SAPK-JNK	SAPK/JNK Signaling
+SIGNOR-SARS-COV-APOPTOSIS	SARS-COV APOPTOSIS
+SIGNOR-SCAAE	SARS-CoV ATTACHMENT AND ENTRY
+SIGNOR-SCCS	SARS-CoV CYTOKINE STORM
+SIGNOR-SCUP	SARS-CoV ER STRESS
+SIGNOR-SCFI	SARS-CoV FIBROSIS
+SIGNOR-SCIR	SARS-CoV INFLAMMATORY RESPONSE
+SIGNOR-SCISOVG	SARS-CoV INNATE RESPONSE TO dsRNA
+SIGNOR-SARS-CoV-MAPK-Pathway	SARS-CoV MAPK PERTURBATION
+SIGNOR-SCSG	SARS-CoV STRESS GRANULES
+SIGNOR-SHB	Sex Hormone Biosynthesis
+SIGNOR-Hedgehog	Sonic Hedgehog
+SIGNOR-TCA	T cell activation
+SIGNOR-TGFb	TGF-beta Signaling
+SIGNOR-TC	Thyroid cancer
+SIGNOR-THM	Thyroid Hormone Metabolism
+SIGNOR-TA	TNF-alpha Signaling
+SIGNOR-TLR	Toll like receptors
+SIGNOR-TI	Transcription initiation
+SIGNOR-TEAT	Translation elongation and termination
+SIGNOR-PU	Ubiquitin activation
+SIGNOR-VEGF	VEGF Signaling
+SIGNOR-VDM	Vitamin-D Metabolism
+SIGNOR-VKC	Vitamin-K cycle
+SIGNOR-WNT	WNT Signaling
