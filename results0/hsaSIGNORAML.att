@@ -1,0 +1,134 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsaSIGNORAML-1	MCL1	0	0	white	rectangle	protein	0.5	black	46	17	4170	NA
+N-hsaSIGNORAML-2	NOTCH	0	0	white	rectangle	proteinfamily	0.5	black	46	17	4854,4855,4851,4853	NA
+N-hsaSIGNORAML-3	JAK2	0	0	white	rectangle	protein	0.5	black	46	17	3717	NA
+N-hsaSIGNORAML-4 5 6 7 8 9 10	AMPK	0	0	white	rectangle	complex	0.5	black	46	17	5563,/,5564,/,5571,/,53632,/,51422,/,5565,/,5562	NA
+N-hsaSIGNORAML-11	RARA	0	0	white	rectangle	protein	0.5	black	46	17	5914	NA
+N-hsaSIGNORAML-12	NOTCH1	0	0	white	rectangle	protein	0.5	black	46	17	4851	NA
+N-hsaSIGNORAML-13	CDKN2A	0	0	white	rectangle	protein	0.5	black	46	17	1029	NA
+N-hsaSIGNORAML-14	PML-RARalpha	0	0	white	rectangle	fusion protein	0.5	black	46	17	5371,5914	NA
+N-hsaSIGNORAML-15	PTPN11	0	0	white	rectangle	protein	0.5	black	46	17	5781	NA
+N-hsaSIGNORAML-16 17	CSF2RA/CSF2RB	0	0	white	rectangle	complex	0.5	black	46	17	1439,/,1438	NA
+N-hsaSIGNORAML-18	SH2B3	0	0	white	rectangle	protein	0.5	black	46	17	10019	NA
+N-hsaSIGNORAML-19	MYC	0	0	white	rectangle	protein	0.5	black	46	17	4609	NA
+N-hsaSIGNORAML-20	NRAS	0	0	white	rectangle	protein	0.5	black	46	17	4893	NA
+N-hsaSIGNORAML-21	CBLB	0	0	white	rectangle	protein	0.5	black	46	17	868	NA
+N-hsaSIGNORAML-22	EZH2	0	0	white	rectangle	protein	0.5	black	46	17	2146	NA
+N-hsaSIGNORAML-23 24 25	NFY	0	0	white	rectangle	complex	0.5	black	46	17	4801,/,4800,/,4802	NA
+N-hsaSIGNORAML-26	NCOA1	0	0	white	rectangle	protein	0.5	black	46	17	8648	NA
+N-hsaSIGNORAML-27	FLT3	0	0	white	rectangle	protein	0.5	black	46	17	2322	NA
+N-hsaSIGNORAML-28	PIP3	0	0	white	rectangle	smallmolecule	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-29	AML1-ETO	0	0	white	rectangle	fusion protein	0.5	black	46	17	861,862	NA
+N-hsaSIGNORAML-30	MDM2	0	0	white	rectangle	protein	0.5	black	46	17	4193	NA
+N-hsaSIGNORAML-31	KIT	0	0	white	rectangle	protein	0.5	black	46	17	3815	NA
+N-hsaSIGNORAML-32 33	PI3K	0	0	white	rectangle	complex	0.5	black	46	17	5295,/,5290	NA
+N-hsaSIGNORAML-34	PDPK1	0	0	white	rectangle	protein	0.5	black	46	17	5170	NA
+N-hsaSIGNORAML-35	ERK1/2	0	0	white	rectangle	proteinfamily	0.5	black	46	17	5594,5595	NA
+N-hsaSIGNORAML-36	AKT	0	0	white	rectangle	proteinfamily	0.5	black	46	17	208,10000,207	NA
+N-hsaSIGNORAML-37	MAPK8	0	0	white	rectangle	protein	0.5	black	46	17	5599	NA
+N-hsaSIGNORAML-38	SP1	0	0	white	rectangle	protein	0.5	black	46	17	6667	NA
+N-hsaSIGNORAML-39	EP300	0	0	white	rectangle	protein	0.5	black	46	17	2033	NA
+N-hsaSIGNORAML-40	DOT1L	0	0	white	rectangle	protein	0.5	black	46	17	84444	NA
+N-hsaSIGNORAML-41	USP22	0	0	white	rectangle	protein	0.5	black	46	17	23326	NA
+N-hsaSIGNORAML-42	DNMT3A	0	0	white	rectangle	protein	0.5	black	46	17	1788	NA
+N-hsaSIGNORAML-43	DVL1	0	0	white	rectangle	protein	0.5	black	46	17	1855	NA
+N-hsaSIGNORAML-44	FOXO	0	0	white	rectangle	proteinfamily	0.5	black	46	17	NA,2308,2309,4303	NA
+N-hsaSIGNORAML-45	TET2	0	0	white	rectangle	protein	0.5	black	46	17	54790	NA
+N-hsaSIGNORAML-46	KDM5A	0	0	white	rectangle	protein	0.5	black	46	17	5927	NA
+N-hsaSIGNORAML-47	CEBPA	0	0	white	rectangle	protein	0.5	black	46	17	1050	NA
+N-hsaSIGNORAML-48	miR-199a	0	0	white	rectangle	mirna	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-49	RAD21	0	0	white	rectangle	protein	0.5	black	46	17	5885	NA
+N-hsaSIGNORAML-50	ASXL1	0	0	white	rectangle	protein	0.5	black	46	17	171023	NA
+N-hsaSIGNORAML-51	all-trans-retinoic acid	0	0	white	rectangle	smallmolecule	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-52 53	NUP98 Fusion	0	0	white	rectangle	fusion protein	0.5	black	46	17	4928,/,64324,5927,1662,3205	NA
+N-hsaSIGNORAML-54	BCR-ABL	0	0	white	rectangle	fusion protein	0.5	black	46	17	25,613	NA
+N-hsaSIGNORAML-55	PTEN	0	0	white	rectangle	protein	0.5	black	46	17	5728	NA
+N-hsaSIGNORAML-56	STAT5A	0	0	white	rectangle	protein	0.5	black	46	17	6776	NA
+N-hsaSIGNORAML-57	GSK3B	0	0	white	rectangle	protein	0.5	black	46	17	2932	NA
+N-hsaSIGNORAML-58	RUNX1	0	0	white	rectangle	protein	0.5	black	46	17	861	NA
+N-hsaSIGNORAML-59	SPI1	0	0	white	rectangle	protein	0.5	black	46	17	6688	NA
+N-hsaSIGNORAML-60	CBL	0	0	white	rectangle	protein	0.5	black	46	17	867	NA
+N-hsaSIGNORAML-61	MEIS1	0	0	white	rectangle	protein	0.5	black	46	17	4211	NA
+N-hsaSIGNORAML-62	SOX4	0	0	white	rectangle	protein	0.5	black	46	17	6659	NA
+N-hsaSIGNORAML-63	KRAS	0	0	white	rectangle	protein	0.5	black	46	17	3845	NA
+N-hsaSIGNORAML-64	GRB2	0	0	white	rectangle	protein	0.5	black	46	17	2885	NA
+N-hsaSIGNORAML-65	CCNA1	0	0	white	rectangle	protein	0.5	black	46	17	8900	NA
+N-hsaSIGNORAML-66	CUX1	0	0	white	rectangle	protein	0.5	black	46	17	1523	NA
+N-hsaSIGNORAML-67	ETV6	0	0	white	rectangle	protein	0.5	black	46	17	2120	NA
+N-hsaSIGNORAML-68	FZD4	0	0	white	rectangle	protein	0.5	black	46	17	8322	NA
+N-hsaSIGNORAML-69 70	NfKb-p65/p50	0	0	white	rectangle	complex	0.5	black	46	17	5970,/,4790	NA
+N-hsaSIGNORAML-71	KITLG	0	0	white	rectangle	protein	0.5	black	46	17	4254	NA
+N-hsaSIGNORAML-72	CDK1	0	0	white	rectangle	protein	0.5	black	46	17	983	NA
+N-hsaSIGNORAML-73	CDKN1B	0	0	white	rectangle	protein	0.5	black	46	17	1027	NA
+N-hsaSIGNORAML-74	MLL-AF4	0	0	white	rectangle	fusion protein	0.5	black	46	17	4297,4299	NA
+N-hsaSIGNORAML-75	TP53	0	0	white	rectangle	protein	0.5	black	46	17	7157	NA
+N-hsaSIGNORAML-76	CTBP1	0	0	white	rectangle	protein	0.5	black	46	17	1487	NA
+N-hsaSIGNORAML-77	CTNNB1	0	0	white	rectangle	protein	0.5	black	46	17	1499	NA
+N-hsaSIGNORAML-78	RXRA	0	0	white	rectangle	protein	0.5	black	46	17	6256	NA
+N-hsaSIGNORAML-79	MLL Fusion	0	0	white	rectangle	fusion protein	0.5	black	46	17	4297,4299,4300,4298	NA
+N-hsaSIGNORAML-80	FLT3LG	0	0	white	rectangle	protein	0.5	black	46	17	2323	NA
+N-hsaSIGNORAML-81	2-oxoglutarate(2-)	0	0	white	rectangle	smallmolecule	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-82	BAD	0	0	white	rectangle	protein	0.5	black	46	17	572	NA
+N-hsaSIGNORAML-83	MIR1-1	0	0	white	rectangle	mirna	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-84	SOS1	0	0	white	rectangle	protein	0.5	black	46	17	6654	NA
+N-hsaSIGNORAML-85	JUN	0	0	white	rectangle	protein	0.5	black	46	17	3725	NA
+N-hsaSIGNORAML-86	INPP5D	0	0	white	rectangle	protein	0.5	black	46	17	3635	NA
+N-hsaSIGNORAML-87	PIM1	0	0	white	rectangle	protein	0.5	black	46	17	5292	NA
+N-hsaSIGNORAML-88	PTPRC	0	0	white	rectangle	protein	0.5	black	46	17	5788	NA
+N-hsaSIGNORAML-85 89	AP1	0	0	white	rectangle	complex	0.5	black	46	17	2353,/,3725	NA
+N-hsaSIGNORAML-90	miR-155	0	0	white	rectangle	mirna	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-91	MLL-ENL	0	0	white	rectangle	fusion protein	0.5	black	46	17	4298,4297	NA
+N-hsaSIGNORAML-92	WT1	0	0	white	rectangle	protein	0.5	black	46	17	7490	NA
+N-hsaSIGNORAML-93	IDH1	0	0	white	rectangle	protein	0.5	black	46	17	3417	NA
+N-hsaSIGNORAML-94	STAT3	0	0	white	rectangle	protein	0.5	black	46	17	6774	NA
+N-hsaSIGNORAML-95	HOXA9	0	0	white	rectangle	protein	0.5	black	46	17	3205	NA
+N-hsaSIGNORAML-96	TWIST1	0	0	white	rectangle	protein	0.5	black	46	17	7291	NA
+N-hsaSIGNORAML-97	EGFR	0	0	white	rectangle	protein	0.5	black	46	17	1956	NA
+N-hsaSIGNORAML-98	MTOR	0	0	white	rectangle	protein	0.5	black	46	17	2475	NA
+N-hsaSIGNORAML-99	SRSF2	0	0	white	rectangle	protein	0.5	black	46	17	6427	NA
+N-hsaSIGNORAML-100	BAK1	0	0	white	rectangle	protein	0.5	black	46	17	578	NA
+N-hsaSIGNORAML-101	PTGS2	0	0	white	rectangle	protein	0.5	black	46	17	5743	NA
+N-hsaSIGNORAML-102	BRAF	0	0	white	rectangle	protein	0.5	black	46	17	673	NA
+N-hsaSIGNORAML-103	IDH2	0	0	white	rectangle	protein	0.5	black	46	17	3418	NA
+N-hsaSIGNORAML-104	prostaglandin E2(1-)	0	0	white	rectangle	smallmolecule	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-105	PIM	0	0	white	rectangle	proteinfamily	0.5	black	46	17	415116,11040,5292	NA
+N-hsaSIGNORAML-106	RAC1	0	0	white	rectangle	protein	0.5	black	46	17	5879	NA
+N-hsaSIGNORAML-107	NCOR2	0	0	white	rectangle	protein	0.5	black	46	17	9612	NA
+N-hsaSIGNORAML-108	PTPRJ	0	0	white	rectangle	protein	0.5	black	46	17	5795	NA
+N-hsaSIGNORAML-109	KAT5	0	0	white	rectangle	protein	0.5	black	46	17	10524	NA
+N-hsaSIGNORAML-110	PHF6	0	0	white	rectangle	protein	0.5	black	46	17	84295	NA
+N-hsaSIGNORAML-111	CBFbeta-MYH11	0	0	white	rectangle	fusion protein	0.5	black	46	17	4629,865	NA
+N-hsaSIGNORAML-112	CDK6	0	0	white	rectangle	protein	0.5	black	46	17	1021	NA
+N-hsaSIGNORAML-113	CCND1	0	0	white	rectangle	protein	0.5	black	46	17	595	NA
+N-hsaSIGNORAML-114	NPM1	0	0	white	rectangle	protein	0.5	black	46	17	4869	NA
+N-hsaSIGNORAML-115	FBXW7	0	0	white	rectangle	protein	0.5	black	46	17	55294	NA
+N-hsaSIGNORAML-116	BCL2	0	0	white	rectangle	protein	0.5	black	46	17	596	NA
+N-hsaSIGNORAML-117	MEK1/2	0	0	white	rectangle	proteinfamily	0.5	black	46	17	5605,5604	NA
+N-hsaSIGNORAML-118	PTPN6	0	0	white	rectangle	protein	0.5	black	46	17	5777	NA
+N-hsaSIGNORAML-119	ID1	0	0	white	rectangle	protein	0.5	black	46	17	3397	NA
+N-hsaSIGNORAML-120	KLF2	0	0	white	rectangle	protein	0.5	black	46	17	10365	NA
+N-hsaSIGNORAML-121	PIK3IP1	0	0	white	rectangle	protein	0.5	black	46	17	113791	NA
+N-hsaSIGNORAML-122	BCORL1	0	0	white	rectangle	protein	0.5	black	46	17	63035	NA
+N-hsaSIGNORAML-123	BAX	0	0	white	rectangle	protein	0.5	black	46	17	581	NA
+N-hsaSIGNORAML-124	SHC1	0	0	white	rectangle	protein	0.5	black	46	17	6464	NA
+N-hsaSIGNORAML-125	ASXL2	0	0	white	rectangle	protein	0.5	black	46	17	55252	NA
+N-hsaSIGNORAML-126	MLL-AF9	0	0	white	rectangle	fusion protein	0.5	black	46	17	4297,4300	NA
+N-hsaSIGNORAML-127	SNW1	0	0	white	rectangle	protein	0.5	black	46	17	22938	NA
+N-hsaSIGNORAML-128	diarsenic trioxide	0	0	white	rectangle	chemical	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-129	SIRT1	0	0	white	rectangle	protein	0.5	black	46	17	23411	NA
+N-hsaSIGNORAML-130	HES1	0	0	white	rectangle	protein	0.5	black	46	17	3280	NA
+N-hsaSIGNORAML-131	Differentiation	0	0	white	rectangle	phenotype	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-132	BCL2L1	0	0	white	rectangle	protein	0.5	black	46	17	598	NA
+N-hsaSIGNORAML-133	Proliferation	0	0	white	rectangle	phenotype	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-134	Apoptosis	0	0	white	rectangle	phenotype	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-135	HHEX	0	0	white	rectangle	protein	0.5	black	46	17	3087	NA
+N-hsaSIGNORAML-136 137 138 139 140	AEP complex	0	0	white	rectangle	complex	0.5	black	46	17	27125,/,4299,/,904,/,1025,/,4298	NA
+N-hsaSIGNORAML-141	PAX7	0	0	white	rectangle	protein	0.5	black	46	17	5081	NA
+N-hsaSIGNORAML-89	FOS	0	0	white	rectangle	protein	0.5	black	46	17	2353	NA
+N-hsaSIGNORAML-142	IGF1	0	0	white	rectangle	protein	0.5	black	46	17	3479	NA
+N-hsaSIGNORAML-143	mir-10b	0	0	white	rectangle	mirna	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-144	CEBPB	0	0	white	rectangle	protein	0.5	black	46	17	1051	NA
+N-hsaSIGNORAML-145	hsa-mir-223	0	0	white	rectangle	mirna	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-146	UBTF	0	0	white	rectangle	protein	0.5	black	46	17	7343	NA
+N-hsaSIGNORAML-147	mir-143	0	0	white	rectangle	mirna	0.5	black	46	17	NA	NA
+N-hsaSIGNORAML-148	miR-338	0	0	white	rectangle	mirna	0.5	black	46	17	NA	NA

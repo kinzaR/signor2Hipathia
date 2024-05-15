@@ -1,0 +1,3 @@
+SIGNORAML	Acute Myeloid Leukemia
+SIGNORLBC	Luminal Breast Cancer
+SIGNORPDAP	Pancreatic ductal adenocarcinoma (PDA)
