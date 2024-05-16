@@ -58,10 +58,19 @@ write_Sif_Att_FromRow <- function(pathway_tsv, spe="hsa",
     mutate(COMPONENTS=stringr::str_replace_all(COMPONENTS,pattern = c(",or,"=",","and"="/")))# some correction in the original mappers
   complexes <- getSignorData(complexes_path) %>% rowwise() %>%
     mutate(COMPONENTS=stringr::str_replace_all(COMPONENTS,pattern = c(",or,"=",","and"="/")))# some correction in the original mappers
-  
+  # Check for phenotypes:
+  pheno_as_in <- pathway_tsv %>% filter(typea=="phenotype") %>% dim() %>% .[1] != 0
+  if(pheno_as_in)
+    stop("!------> Phenotype as In was found in ", pathway_tsv$pathway_id %>% unique)
+  pheno_as_out <- pathway_tsv %>% filter(typeb=="phenotype") %>% select(entitya, ida, entityb)
+  pathway_tsv <- pathway_tsv %>% filter(typeb!="phenotype")
   graph<-list()
   graph$att <- get_hi_att(pathway_tsv,path_id, proteinFamilies, fusionProteins, complexes,spe, verbose) # get the att file of hipathia
   graph$sif <- get_hi_sif(pathway_tsv, graph$att ,verbose)
+  graph <- add_layout2att(graph, verbose)
+  # graph$att %>% filter(label %in% pheno_as_out$entitya) %%
+  # pheno_as_out$genesList <- 
+  
   if(!is.null(output_folder)) write_sif_att_files(graph, spe, path_id, output_folder,verbose)
   return(graph)
 }
@@ -112,6 +121,7 @@ get_hi_att <- function(pathway_tsv, path_id, proteinFamilies, fusionProteins, co
                                                                 hi_ids%>% filter(value %in% (strsplit(x = id_indicator, split = ",/,")[[1]])) %>% select(ids) %>% pull() %>% paste0(collapse = " ")
                                                                 )) %>%
     mutate(hi_id= paste0("N-",spe,path_id,"-",hi_id))
+  
   att <- tibble(ID = all_nodes$hi_id,
                 label	=all_nodes$node_label,
                 X=0,
@@ -167,7 +177,15 @@ getEntrezFromComposed <- function(sigID, sigMapper,sep=",", verbose=F){
   if(length(uniprots)>1) stop("Not a unique entry fro signor IDS")
   return(new_genesList)
 }
-
+add_layout2att <-function(graph, verbose=F){
+  ig <- graph_from_data_frame(graph$sif[, c(1, 3)], directed = TRUE)
+  l <- layout_nicely(graph = ig,dim = 2)
+  rownames(l) <- vertex_attr(ig,name = "name")
+  graph$att <- graph$att %>% rowwise() %>% mutate(X = round(l[ID,1]+abs(min(l[,1])), digits = 0)*100,
+                                                  Y = round(l[ID,2]+abs(min(l[,2])), digits = 0)*50)
+  if(verbose) message("layout added for ", strsplit(x = graph$att$ID[1], split = "-")[[1]][2])
+  return(graph)  
+}
 ## write sif and att files
 write_sif_att_files<- function(graph,spe, path_id,output_folder,verbose){
   file_pre <- paste0(spe,path_id)
