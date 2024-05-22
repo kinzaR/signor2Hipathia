@@ -18,7 +18,9 @@ pathways_description_path <- "getPathwayData.php?description"
 proteinFamilies_path <- "getDataInternal.php?proteinFamilies=all"
 fusionProteins_path <- "getDataInternal.php?fusionProteins"
 complexes_path <- "getDataInternal.php?complexes=all"
-
+stimuli_path <- "getDataInternal.php?stimuli=all" # !!!
+# rename ids for hipathia compatibility!
+pattern4ids <- "-|/"
 # separators between components
 easy_sep <- "," #OR
 proteinFamilies_sep <- "," #OR

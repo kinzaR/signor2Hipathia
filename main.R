@@ -1,10 +1,12 @@
-#!/usr/bin/env /opt/R/4.3.1/bin/Rscript
+#!/usr/bin/env /opt/R/4.1.2/bin/Rscript
+#  #!/usr/bin/env /opt/R/4.1.2/bin/Rscript
 ## # !/usr/bin/env /opt/R/4.3.1/bin/Rscript <- new version  is imcompatible with web !
 # Load needed lirbrary
 print(version)
 suppressPackageStartupMessages(library(magrittr))
 suppressPackageStartupMessages(library(optparse))
 suppressPackageStartupMessages(library(hipathia))
+# suppressPackageStartupMessages(library(dplyr))
 # Source my utils 
 source("src/utils.R")
 ## here I have declared constants
@@ -34,7 +36,8 @@ if(!opt$readySifs){# get data from API
   pathwayData <- pathwayData %>% filter(tax_id == switch (opt$spe,"hsa" = "9606","mmu"= "10090","rno" ="10116"),
                                         score >= opt$score)
   # filter if pathway list avail
-  if(!is.null(opt$pathways_list)) pathwayData <- pathwayData %>% filter(pathway_id %in% strsplit(opt$pathways_list, ",")[[1]])
+  print(opt$pathways_list)
+  if(!is.null(opt$pathways_list) & opt$pathways_list != "all") pathwayData <- pathwayData %>% filter(pathway_id %in% strsplit(opt$pathways_list, ",")[[1]])
   if(any(!pathwayData$effect %in% c(activation_effect,inhibition_effect,avoided_effect))){
     paths_new_effect<- pathwayData %>% filter(!effect %in% c(activation_effect,inhibition_effect,avoided_effect)) %>%
       select(pathway_id, pathway_name) %>% unique
@@ -44,7 +47,9 @@ if(!opt$readySifs){# get data from API
          setdiff(pathwayData$effect, c(activation_effect,inhibition_effect,avoided_effect)))
     stop()
   }
-  
+  if(any(duplicated(gsub(pattern = pattern4ids, replacement = "0", x = unique(pathwayData$pathway_id)))))
+    stop("re-check IDs of pathways!")
+  pathwayData <-pathwayData %>% mutate(pathway_id = gsub(pattern = pattern4ids, replacement = "0", x = pathway_id))
   # save pathnames and ids in a separate var to save the pathway_names tsv file later
   path_names <- pathwayData %>% select(pathway_id, pathway_name) %>% unique()
   # select only relevant columns
@@ -54,27 +59,55 @@ if(!opt$readySifs){# get data from API
                                         effect) %>% unique
   pathways_tsv <- split(pathwayData, pathwayData$pathway_id)
   # here a function for all using lapply
+  # read annot files from signor APIs before
+  # NOTE: here I have to add the geneslist instead of calculating if evry time, this will reduce /optimize time 
+  proteinFamilies <- getSignorData(proteinFamilies_path) %>% rowwise() %>%
+    mutate(COMPONENTS=stringr::str_replace_all(COMPONENTS,pattern = c(",or,"=",","and"="/")))# some correction in the original mappers
+  fusionProteins <- getSignorData(fusionProteins_path) %>% rename(SIG_ID=FP_SIG_ID)%>% rowwise() %>%
+    mutate(COMPONENTS=stringr::str_replace_all(COMPONENTS,pattern = c(",or,"=",","and"="/")))# some correction in the original mappers
+  complexes <- getSignorData(complexes_path) %>% rowwise() %>%
+    mutate(COMPONENTS=stringr::str_replace_all(COMPONENTS,pattern = c(",or,"=",","and"="/")))# some correction in the original mappers
   
   graphs <- lapply(pathways_tsv, write_Sif_Att_FromRow,
          spe=opt$spe,
          activation_effect = activation_effect,
          inhibition_effect = inhibition_effect,
          avoided_effect = avoided_effect,
-         proteinFamilies_path = proteinFamilies_path,
-         fusionProteins_path = fusionProteins_path,
-         complexes_path = complexes_path,
+         proteinFamilies = proteinFamilies,
+         fusionProteins = fusionProteins,
+         complexes = complexes,
          output_folder=opt$output_folder, verbose=opt$verbose)
-  path_names <- path_names %>% mutate(pathway_id= gsub(pattern = "-", replacement = "", x = pathway_id))
+  ## Here check only parced pathways with a good id
+  write.table(x = names(graphs[sapply(graphs, is.null)]), file = file.path(opt$output_folder,"not_parsed.tsv"), append = F, quote = F, sep = "\t", row.names = F, col.names = F)
+  graphs[sapply(graphs, is.null)] <- NULL
+  path_names <- path_names %>% filter(pathway_id %in% names(graphs))
+    
   write.table(path_names, file = file.path(opt$output_folder,paste0("name.pathways_",opt$spe,".txt")), append = F, quote = F, sep = "\t", col.names = F,row.names = F)
+  ### Here I have to write annotations 
+  all_pheno_as_out <- do.call(rbind,lapply(graphs, function(g){g$pheno_as_out})) %>% as_tibble()
+  all_stimulus_as_out <- do.call(rbind,lapply(graphs, function(g){g$stimulus_as_out})) %>% as_tibble()
+  write.table(all_pheno_as_out, file = file.path(opt$output_folder,paste0("phenotypes_annot_",opt$spe,".tsv")), append = F, quote = F,  sep = "\t", col.names = T,row.names = F)
+  write.table(all_stimulus_as_out, file = file.path(opt$output_folder,paste0("stimuli_as_out_",opt$spe,".tsv")), append = F, quote = F,  sep = "\t", col.names = T,row.names = F)
   message("Sifs and Atts ready for parsing to mgi!")
 }
 ### from sif/att files to MGIs
 cat("hipathia version is : ",package.version("hipathia"))
+if(!exists("all_pheno_as_out"))
+  all_pheno_as_out <- read_table(file = file.path(opt$output_folder,paste0("phenotypes_annot_",opt$spe,".tsv")), show_col_types = F)
+annotations <- get_annots(signor_annot = all_pheno_as_out, spe=opt$spe, db = "uniprot")
 if(package.version("hipathia")=="2.10.0"){
-  mgi <- hipathia::mgi_from_sif(sif.folder = opt$output_folder, spe = opt$spe)
+  mgi <- hipathia::mgi_from_sif(sif.folder = opt$output_folder, spe = opt$spe, entrez_symbol = as.data.frame(annotations$signor_entrez_hgnc), dbannot = as.data.frame(annotations$signor_annot))
 }else{
-  mgi <- mgi_from_sif_patched(sif.folder = opt$output_folder, spe = opt$spe, verbose=opt$verbose,entrez_symbol = NULL, dbannot = NULL )
+  mgi <- mgi_from_sif_patched(sif.folder = opt$output_folder, spe = opt$spe, verbose=opt$verbose, entrez_symbol = as.data.frame(annotations$signor_entrez_hgnc), dbannot = as.data.frame(annotations$signor_annot))
 }
-
-saveRDS(object = mgi, file = file.path(opt$output_folder,paste0(format(Sys.time(), "%Y_%d_%b_%a_%H_%M"),"Vhi_",package.version("hipathia"),"_mgi.RDS")))
+now <-format(Sys.time(), "%Y_%d_%b_%a_%H_%M")
+saveRDS(object = mgi, file = file.path(opt$output_folder,paste0(now,"Vhi_",package.version("hipathia"),"_mgi.RDS")))
 message("DONE! Results are in ",opt$output_folder, " folder.")
+### to json 
+library(jsonlite)
+path_j_list<-sapply(mgi$pathigraphs, function(p){
+  c(id = p$path.id,
+                          name = p$path.name)
+}) %>% as_tibble()
+paths_j <- toJSON(path_j_list)
+write(paths_j, file = file.path(opt$output_folder,paste0(now,"Vhi_",package.version("hipathia"),opt$spe,"_pathway_list_signor")))

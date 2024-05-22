@@ -9,4 +9,17 @@ complexes  sep with/
 - smallmolecule, chemical and mirna were keep with NA inm genesLists
 - ,or, were replaced by a simpl ","
 ,and is /
+Annotations from Uniprot to entrez:
 -this protein (uniprot: A8MYZ6) has no entrez ID
+-P0DP23  has more than 1 entrez gene id  801 805 808 , first one has been chosen!
+-P0DOX3  has no entrez gene id, NA has been returned!
+P0DOX8  has no entrez gene id, NA has been returned!
+P0DOX6  has no entrez gene id, NA has been returned!
+P0DOX8  has no entrez gene id, NA has been returned!
+P0DOX7  has no entrez gene id, NA has been returned!
+P0DOX6  has no entrez gene id, NA has been returned!
+P0DOX3  has no entrez gene id, NA has been returned!
+P0DOX7  has no entrez gene id, NA has been returned!
+
+replace Mututes by joins 
+-Stimuli : can I concider stimulus_as_out as phenotype?othercase will be circular !

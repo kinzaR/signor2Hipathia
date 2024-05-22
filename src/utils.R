@@ -26,7 +26,7 @@ getSignorData<-function(api_url){
   # Check if the request was successful (status code 200)
   if (httr::status_code(response) == 200) {
     # Read the TSV data from the response content and Convert it to a dataframe
-    data_df <- content(response, as = "text", encoding = "UTF-8") %>% read_tsv(show_col_types = F)
+    data_df <- content(response, as = "text", encoding = "UTF-8") %>% read_tsv(show_col_types = F,skip_empty_rows = T) %>% select_if(~sum(!is.na(.)) > 0)
     return(data_df)
   }
   stop("Failed to retrieve data. Check the API endpoint and parameters.")
@@ -44,33 +44,47 @@ write_Sif_Att_FromRow <- function(pathway_tsv, spe="hsa",
                                                  "down-regulates activity",
                                                  "down-regulates quantity by destabilization"),
                           avoided_effect = c("form complex", "unknown"),
-                          proteinFamilies_path,
-                          fusionProteins_path,
-                          complexes_path,
+                          proteinFamilies,
+                          fusionProteins,
+                          complexes,
                           output_folder=NULL,
                           verbose=F){
-  path_id <- pathway_tsv$pathway_id %>% unique %>% gsub(pattern = "-", replacement = "", x = .)
+  log_file <- file.path(output_folder,"log.txt")
+  path_id <- pathway_tsv$pathway_id %>% unique
+  dir.create(output_folder, showWarnings = FALSE)
+  write(x = c("* path_id : ", path_id), file = log_file, append = T, sep = "\t", ncolumns = 2)
   if(verbose) cat("Parsing the ",pathway_tsv$pathway_id %>% unique, "...")
   pathway_tsv <- add_hi_effect(pathway_tsv)# Change the interaction to hipathia standard 
-  proteinFamilies <- getSignorData(proteinFamilies_path)%>% rowwise() %>%
-    mutate(COMPONENTS=stringr::str_replace_all(COMPONENTS,pattern = c(",or,"=",","and"="/")))# some correction in the original mappers
-  fusionProteins <- getSignorData(fusionProteins_path) %>% rename(SIG_ID=FP_SIG_ID)%>% rowwise() %>%
-    mutate(COMPONENTS=stringr::str_replace_all(COMPONENTS,pattern = c(",or,"=",","and"="/")))# some correction in the original mappers
-  complexes <- getSignorData(complexes_path) %>% rowwise() %>%
-    mutate(COMPONENTS=stringr::str_replace_all(COMPONENTS,pattern = c(",or,"=",","and"="/")))# some correction in the original mappers
   # Check for phenotypes:
   pheno_as_in <- pathway_tsv %>% filter(typea=="phenotype") %>% dim() %>% .[1] != 0
-  if(pheno_as_in)
-    stop("!------> Phenotype as In was found in ", pathway_tsv$pathway_id %>% unique)
+  stimulus_as_in <- pathway_tsv %>% filter(typea=="stimulus") %>% dim() %>% .[1] != 0
+  # NOTE: stimulus_as_in? what doing?
+  if(pheno_as_in){
+    # stop("!------> Phenotype as In was found in ", pathway_tsv$pathway_id %>% unique)
+    message("!------> Phenotype as In was found in ", pathway_tsv$pathway_id %>% unique)
+    return()
+  }
   pheno_as_out <- pathway_tsv %>% filter(typeb=="phenotype") %>% select(entitya, ida, entityb)
+  stimulus_as_out <- pathway_tsv %>% filter(typeb=="stimulus") %>% select(entitya, ida, entityb)
+  # stimulus_as_out ?
   pathway_tsv <- pathway_tsv %>% filter(typeb!="phenotype")
+  ## change same label for different entity_id
+  pathway_tsv <-  pathway_tsv %>% group_by(entitya) %>% mutate(n1 = n()) %>% group_by(entitya,ida) %>% mutate(n2=n()) %>% mutate(entitya_tmp = ifelse(n1!=n2, paste0(entitya,"(",ida,")"),entitya)) %>%
+                                  group_by(entityb) %>% mutate(n1 = n()) %>% group_by(entityb,idb) %>% mutate(n2=n()) %>% mutate(entityb_tmp = ifelse(n1!=n2, paste0(entityb,"(",idb,")"),entityb)) %>%
+                                  ungroup() %>% select(!c(n1,n2)) 
+  ##
   graph<-list()
-  graph$att <- get_hi_att(pathway_tsv,path_id, proteinFamilies, fusionProteins, complexes,spe, verbose) # get the att file of hipathia
+  graph$att <- get_hi_att(pathway_tsv,path_id, proteinFamilies, fusionProteins, complexes,spe, verbose, log_file) # get the att file of hipathia
+  pathway_tsv <- pathway_tsv %>% rowwise %>% mutate(entitya = ifelse(!entitya %in% graph$att$label & entitya_tmp %in% graph$att$label,entitya_tmp,entitya))  %>% 
+                              mutate(entityb = ifelse(!entityb %in% graph$att$label & entityb_tmp %in% graph$att$label,entityb_tmp,entityb))
   graph$sif <- get_hi_sif(pathway_tsv, graph$att ,verbose)
   graph <- add_layout2att(graph, verbose)
   # graph$att %>% filter(label %in% pheno_as_out$entitya) %%
-  # pheno_as_out$genesList <- 
-  
+  graph$stimulus_as_out <-  stimulus_as_out #only capturing the stimuli
+  # Here: phynotypes has to be prepared as annot file
+  graph$pheno_as_out <-  pheno_as_out %>% rowwise() %>% 
+    left_join(graph$att, by = join_by("entitya"== "label")) %>% select(colnames(pheno_as_out),genesList) %>% unique() 
+    # mutate(geneList = unique(graph$att$genesList[graph$att$label== entitya])) %>% unique()
   if(!is.null(output_folder)) write_sif_att_files(graph, spe, path_id, output_folder,verbose)
   return(graph)
 }
@@ -87,43 +101,45 @@ add_hi_effect<- function(pathway_tsv){
   }
   return(pathway_tsv)
 }
-resolve_signor_ids <- function(id, type, proteinFamilies, fusionProteins, complexes, verbose=F){
+resolve_signor_ids <- function(id, type, proteinFamilies, fusionProteins, complexes, verbose=F,log_file = NULL, na_action=T){
   new_id <- switch(type,
-                   "protein" = getEntrezFromUniprot(id,verbose),
-                   "proteinfamily" = getEntrezFromComposed(id,proteinFamilies,sep=",",verbose),
-                   "fusion protein" = getEntrezFromComposed(id,fusionProteins,sep=",",verbose), 
-                   "complex" = getEntrezFromComposed(id,complexes,sep=",/,",verbose),
-                   "smallmolecule" = NA, # has to be changes fopr metabopathia
-                   "mirna" = NA,
-                   "chemical" = NA,# has to be changes fopr metabopathia
-                   "phenotype" = NA
+                   "protein" = getEntrezFromUniprot(id,verbose, log_file, na_action),
+                   "proteinfamily" = getEntrezFromComposed(id,proteinFamilies,sep=",",verbose, log_file, na_action),
+                   "fusion protein" = getEntrezFromComposed(id,fusionProteins,sep=",",verbose, log_file, na_action), 
+                   "complex" = getEntrezFromComposed(id,complexes,sep=",/,",verbose, log_file, na_action),
+                   "smallmolecule" = ifelse(na_action,NA,id) , # has to be changes fopr metabopathia
+                   "mirna" = ifelse(na_action,NA,id),
+                   "chemical" = ifelse(na_action,NA,id),# has to be changes fopr metabopathia
+                   "antibody" = ifelse(na_action,NA,id),
+                   "phenotype" = ifelse(na_action,NA,id),
+                   "stimulus" = ifelse(na_action,NA,id)
                    )
   return(new_id)
 }
-get_hi_att <- function(pathway_tsv, path_id, proteinFamilies, fusionProteins, complexes,spe="hsa", verbose=F){
+get_hi_att <- function(pathway_tsv, path_id, proteinFamilies, fusionProteins, complexes,spe="hsa", verbose=F, log_file = NULL){
   if(verbose) print("Getting Att...")
   all_nodes <- tibble(
     node_id = c(pathway_tsv$ida,pathway_tsv$idb),
     node_label = c(pathway_tsv$entitya, pathway_tsv$entityb),
+    node_label_tmp = c(pathway_tsv$entitya_tmp, pathway_tsv$entityb_tmp),
     node_type = c(pathway_tsv$typea, pathway_tsv$typeb)
   ) %>% unique()
-  # genesList= resolve_signor_ids(node_id, node_type, proteinFamilies, fusionProteins, complexes, verbose=F)
-  all_nodes<-all_nodes %>% 
-    rowwise() %>% mutate(genesList=resolve_signor_ids(node_id, node_type, proteinFamilies, fusionProteins, complexes, verbose=verbose)) %>%
-    mutate(id_indicator= case_when(is.na(genesList) ~ node_id,
-                                   .default = genesList))
+  all_nodes <-all_nodes %>% 
+    rowwise() %>% mutate(genesList=resolve_signor_ids(node_id, node_type, proteinFamilies, fusionProteins, complexes, verbose=verbose, log_file = log_file, na_action=T)) %>%
+    mutate(id_indicator = resolve_signor_ids(node_id, node_type, proteinFamilies, fusionProteins, complexes, verbose=verbose, log_file = log_file, na_action=F)) 
+  # %>% mutate(id_indicator= case_when(is.na(genesList) ~ node_id,.default = genesList))
   hi_ids <- sapply(all_nodes$id_indicator, function(g){
     if(grepl(",/,", x = g)) strsplit(x = g, split = ",/,")
     else g
   }) %>% unlist() %>% unique %>% na.omit %>% as_tibble(.) %>%
     mutate(ids=row.names(.))
   all_nodes<- all_nodes %>% rowwise() %>%mutate(hi_id = ifelse(id_indicator %in% hi_ids$value, hi_ids$ids[hi_ids$value==id_indicator],
-                                                                hi_ids%>% filter(value %in% (strsplit(x = id_indicator, split = ",/,")[[1]])) %>% select(ids) %>% pull() %>% paste0(collapse = " ")
+                                                                      hi_ids[match(strsplit(x = id_indicator, split = ",/,")[[1]], hi_ids$value),2] %>% pull() %>% paste0(collapse = " ")
                                                                 )) %>%
     mutate(hi_id= paste0("N-",spe,path_id,"-",hi_id))
-  
+  all_nodes<-all_nodes %>% group_by(node_label,hi_id) %>% mutate(n=n()) %>% mutate(node_label_X= ifelse(node_label != node_label_tmp & n==1,node_label_tmp,node_label)) %>% ungroup()
   att <- tibble(ID = all_nodes$hi_id,
-                label	=all_nodes$node_label,
+                label	=all_nodes$node_label_X,
                 X=0,
                 Y=0,
                 color= "white",
@@ -135,6 +151,7 @@ get_hi_att <- function(pathway_tsv, path_id, proteinFamilies, fusionProteins, co
                 height=17,
                 genesList=all_nodes$genesList,
                 tooltip=NA) %>% unique()
+  if(any(duplicated(att$ID))) stop("Duplicated hipathia IDs in ATT!")
   return(att)
 }
 get_hi_sif <- function(pathway_tsv, att,verbose=F){
@@ -143,7 +160,7 @@ get_hi_sif <- function(pathway_tsv, att,verbose=F){
     mutate(hi_idb=att$ID[att$label==entityb]) %>% select(hi_ida,sign, hi_idb) %>% unique()
   return(sif)
 }
-getEntrezFromUniprot<- function(uniprot, verbose=F){
+getEntrezFromUniprot<- function(uniprot, verbose=F, log_file = NULL, na_action = T){
   if(uniprot=="/") return("/") # is a exception to keep it as a separator of complexes
   trans_table <- org.Hs.egUNIPROT %>% as.data.frame() %>%
     filter(uniprot_id == uniprot)
@@ -151,34 +168,40 @@ getEntrezFromUniprot<- function(uniprot, verbose=F){
   l <- length(trans_table$gene_id)
   if(l==1) return(trans_table$gene_id)
   if(l==0){
-    if(verbose) cat(uniprot," has no entrez gene id, NA has been returned!")
-    return(NA)
-    }
+    if(verbose) {
+      cat(uniprot," has no entrez gene id, NA has been returned!")
+      if(!is.null(log_file)) write(x = c("",uniprot, "Has no entrez gene id, NA has been returned!"), file = log_file, append = T, sep = "\t", ncolumns = 3)
+      }
+    return(ifelse(na_action,NA, uniprot))
+  }
   if(l>1){
-    if(verbose) cat(uniprot," has more than 1 entrez gene id ",trans_table$gene_id,", first one has been chosen!")
+    if(verbose) {
+      cat(uniprot," has more than 1 entrez gene id ",trans_table$gene_id,", first one has been chosen!")
+      if(!is.null(log_file)) write(x = c("",uniprot, paste0(trans_table$gene_id, collapse = ","), "Has more than 1 entrez gene id, first one has been chosen!"), file = log_file, append = T, sep = "\t", ncolumns = 4)
+    }
     return(trans_table$gene_id[1])
   }
   stop()
 }
-getEntrezFromComposed <- function(sigID, sigMapper,sep=",", verbose=F){
+getEntrezFromComposed <- function(sigID, sigMapper,sep=",", verbose=F, log_file = NULL, na_action = T){
   uniprots <- sigMapper %>% filter(SIG_ID == sigID) %>% select(COMPONENTS) %>% as.character()
   if(length(uniprots)==1 ){
     if(!grepl("SIGNOR-",uniprots)){
-      new_genesList <- sapply(strsplit(x = uniprots, split = ",")[[1]], getEntrezFromUniprot, verbose=verbose) %>% paste(collapse = sep)
+      new_genesList <- sapply(strsplit(x = uniprots, split = ",")[[1]], getEntrezFromUniprot, verbose=verbose, log_file = log_file, na_action=na_action) %>% paste(collapse = sep)
     }else{
       new_genesList <- sapply(strsplit(x = uniprots, split = ",")[[1]],function(n){
         if(grepl("SIGNOR-",n))
-          return(getEntrezFromComposed(n,sigMapper=sigMapper,sep=sep, verbose=verbose))
-        return(getEntrezFromUniprot(n,verbose))
+          return(getEntrezFromComposed(n,sigMapper=sigMapper,sep=sep, verbose, na_action=na_action))
+        return(getEntrezFromUniprot(n,verbose,log_file, na_action))
       }) %>% paste(collapse = sep)
     }
   }
   if(length(uniprots)==0) stop("mixer sigmapper is needed, be causion with separators then!!")
-  if(length(uniprots)>1) stop("Not a unique entry fro signor IDS")
+  if(length(uniprots)>1) stop("Not a unique entry for signor IDS")
   return(new_genesList)
 }
 add_layout2att <-function(graph, verbose=F){
-  ig <- graph_from_data_frame(graph$sif[, c(1, 3)], directed = TRUE)
+  ig <- graph_from_data_frame(graph$sif[, c("hi_ida", "hi_idb")], directed = TRUE)
   l <- layout_nicely(graph = ig,dim = 2)
   rownames(l) <- vertex_attr(ig,name = "name")
   graph$att <- graph$att %>% rowwise() %>% mutate(X = round(l[ID,1]+abs(min(l[,1])), digits = 0)*100,
@@ -199,7 +222,7 @@ mgi_from_sif_patched <- function(sif.folder, spe, verbose = F, entrez_symbol = N
   pgs <- hipathia:::load_graphs(sif.folder, spe, verbose = verbose)
   if (!is.null(dbannot) & !is.null(entrez_symbol)) {
     message("Adding functions to pathways...")
-    pgs <- add_funs_to_pgs(pgs, entrez_symbol, dbannot, 
+    pgs <- hipathia:::add_funs_to_pgs(pgs, entrez_symbol, dbannot, 
                            maxiter = 1000)
   }
   message("Creating MGI...")
@@ -318,7 +341,31 @@ hipathia_patched <- function (genes_vals, metaginfo, uni.terms = FALSE, GO.terms
     message("DONE")
   return(resmae)
 }
-
+### Functiona annotation 
+# It not used!
+## Checkin common complexes with 
+get_annots<- function(signor_annot, spe, db="uniprot"){
+  ## Here: entrez to symbol used for annotation has to be revised / check the 
+  dbs <- c("uniprot", "GO")
+  if(!db %in% dbs) stop("Not allowed db. allowed dbs are: ", toString(dbs))
+  hipathia_annot<- hipathia:::load_annots(db = db, spe) %>% as_tibble()
+  entrez_hgnc <- hipathia:::load_entrez_hgnc(species = spe)  %>% as_tibble()
+#   ##  
+#   complexes %>% filter(COMPLEX_NAME%in%entrez_hgnc$V2) %>% rowwise() %>% mutate(geneList= getEntrezFromComposed(SIG_ID,complexes,sep=",/,",verbose)) %>%
+#     mutate(ENTREZ_in_Hi= entrez_hgnc$V1[entrez_hgnc$V2 == COMPLEX_NAME])
+# ## protein family 
+#   proteinFamilies %>% filter(PF_NAME %in% entrez_hgnc$V2) %>% rowwise() %>% mutate(geneList= getEntrezFromComposed(SIG_ID,proteinFamilies,sep=",",verbose)) %>%
+#     mutate(ENTREZ_in_Hi= entrez_hgnc$V1[entrez_hgnc$V2 == PF_NAME])
+# ## fusion protein 
+#   fusionProteins  %>% filter(FP_NAME %in% entrez_hgnc$V2) %>% rowwise() %>% mutate(geneList= getEntrezFromComposed(SIG_ID,fusionProteins,sep=",",verbose)) %>%
+#   mutate(ENTREZ_in_Hi= entrez_hgnc$V1[entrez_hgnc$V2 == FP_NAME])
+  annotations<-list()
+  annotations$signor_entrez_hgnc <- rbind(entrez_hgnc,
+                              signor_annot %>% select(genesList,entitya) %>% rename( "V1" = genesList , "V2"=entitya)) %>% unique()
+  annotations$signor_annot <- rbind(hipathia_annot,
+                        signor_annot %>% select(entitya,entityb) %>% rename( "gene" =entitya, "function"=entityb)) %>% unique()
+  return(annotations)
+}
 
 ### general functions
 setdiff_all <- function(vec1, vec2) {
