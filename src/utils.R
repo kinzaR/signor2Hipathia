@@ -49,6 +49,7 @@ write_Sif_Att_FromRow <- function(pathway_tsv, spe="hsa",
                           complexes,
                           output_folder=NULL,
                           verbose=F){
+  
   log_file <- file.path(output_folder,"log.txt")
   path_id <- pathway_tsv$pathway_id %>% unique
   dir.create(output_folder, showWarnings = FALSE)
@@ -62,12 +63,43 @@ write_Sif_Att_FromRow <- function(pathway_tsv, spe="hsa",
   if(pheno_as_in){
     # stop("!------> Phenotype as In was found in ", pathway_tsv$pathway_id %>% unique)
     message("!------> Phenotype as In was found in ", pathway_tsv$pathway_id %>% unique)
+    write(x = c("", "Not parsed ------> Phenotype(s) activates/inhibits other molecules."), file = log_file, append = T, sep = "\t", ncolumns = 2)
     return()
   }
+  # browser() # check before taking off the phenotypes
+  out_nodes<-setdiff(pathway_tsv$idb, pathway_tsv$ida)
+  # # adding here gost ionteractions
+  # gost_interactions_a <- pathway_tsv %>% filter(idb %in% out_nodes) %>% mutate(entityb=paste0(entitya,"*"),
+  #                                                       typeb=typea,
+  #                                                       idb=ida,
+  #                                                       databaseb=databasea)
+  # gost_interactions_b <- pathway_tsv %>% filter(idb %in% out_nodes) %>% mutate(entitya=paste0(entitya,"*"))
+  # pathway_tsv<-pathway_tsv %>% filter(!idb %in% out_nodes) %>% rbind(gost_interactions_a,gost_interactions_b)
+  if(length(out_nodes[!grepl("SIGNOR-PH",out_nodes)]) == 0){
+    if(verbose) message("All effectors are in nodes! this will be taked into acount in futur versions!")# maybe duplicating the node if it is protein
+    write(x = c("", "Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions."), file = log_file, append = T, sep = "\t", ncolumns = 2)
+    return()
+  }
+  effectors_before_pheno <- pathway_tsv %>% filter(idb %in% out_nodes[grepl("SIGNOR-PH",out_nodes)]) %>% select(ida) %>% pull()
+  # check if all effectors are NOT last nodes in the pathway:
+  lost_effectors <- pathway_tsv %>% filter(!(idb %in% out_nodes[grepl("SIGNOR-PH",out_nodes)]) & (ida %in% effectors_before_pheno)) %>% select(ida) %>% unique() %>% pull
+  if(length(lost_effectors)>0)
+    write(x = c("", paste0(lost_effectors, collapse = ","), "These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia."),
+        file = log_file, append = TRUE, sep = "\t", ncolumns = 3)
   pheno_as_out <- pathway_tsv %>% filter(typeb=="phenotype") %>% select(entitya, ida, entityb)
   stimulus_as_out <- pathway_tsv %>% filter(typeb=="stimulus") %>% select(entitya, ida, entityb)
-  # stimulus_as_out ?
+    # stimulus_as_out ?
+  if(length(stimulus_as_out$ida)>0)
+    write(x = c("", paste0(stimulus_as_out$entityb, collapse = ","), "These stimuli are detected as targets. Should they be treated as phenotypes? Otherwise, they may introduce unnecessary noise during the mechanistic modeling process in the HiPathia method."),
+        file = log_file, append = TRUE, sep = "\t", ncolumns = 3)
   pathway_tsv <- pathway_tsv %>% filter(typeb!="phenotype")
+  # Here check again if still having out-nodes or is a cyclic pathway or closed-loop pathway?
+  out_nodes_after_curation <- setdiff(pathway_tsv$idb, pathway_tsv$ida)
+  if(length(out_nodes_after_curation)==0){
+    if(verbose) message("This pathway has become a closed-loop pathway after technical curation.")
+    write(x = c("", "Not parsed ------> This pathway has become a closed-loop pathway after technical curation!"), file = log_file, append = T, sep = "\t", ncolumns = 2)
+    return()
+  }
   ## change same label for different entity_id
   pathway_tsv <-  pathway_tsv %>% group_by(entitya) %>% mutate(n1 = n()) %>% group_by(entitya,ida) %>% mutate(n2=n()) %>% mutate(entitya_tmp = ifelse(n1!=n2, paste0(entitya,"(",ida,")"),entitya)) %>%
                                   group_by(entityb) %>% mutate(n1 = n()) %>% group_by(entityb,idb) %>% mutate(n2=n()) %>% mutate(entityb_tmp = ifelse(n1!=n2, paste0(entityb,"(",idb,")"),entityb)) %>%
@@ -86,6 +118,7 @@ write_Sif_Att_FromRow <- function(pathway_tsv, spe="hsa",
     left_join(graph$att, by = join_by("entitya"== "label")) %>% select(colnames(pheno_as_out),genesList) %>% unique() 
     # mutate(geneList = unique(graph$att$genesList[graph$att$label== entitya])) %>% unique()
   if(!is.null(output_folder)) write_sif_att_files(graph, spe, path_id, output_folder,verbose)
+  write(x = c("", "Parsed!"), file = log_file, append = T, sep = "\t", ncolumns = 2)
   return(graph)
 }
 add_hi_effect<- function(pathway_tsv){
@@ -138,6 +171,9 @@ get_hi_att <- function(pathway_tsv, path_id, proteinFamilies, fusionProteins, co
                                                                 )) %>%
     mutate(hi_id= paste0("N-",spe,path_id,"-",hi_id))
   all_nodes<-all_nodes %>% group_by(node_label,hi_id) %>% mutate(n=n()) %>% mutate(node_label_X= ifelse(node_label != node_label_tmp & n==1,node_label_tmp,node_label)) %>% ungroup()
+  # create tooltip:
+  # all_nodes<-all_nodes %>% mutate(tooltip= paste0("https://signor.uniroma2.it/relation_result.php?id=", node_id))
+  all_nodes<-all_nodes %>% mutate(tooltip= paste0("<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=",node_id,">",node_id,"</a> (",node_label,")"))  
   att <- tibble(ID = all_nodes$hi_id,
                 label	=all_nodes$node_label_X,
                 X=0,
@@ -150,8 +186,15 @@ get_hi_att <- function(pathway_tsv, path_id, proteinFamilies, fusionProteins, co
                 width=46,
                 height=17,
                 genesList=all_nodes$genesList,
-                tooltip=NA) %>% unique()
+                tooltip= NA)%>% unique()
   if(any(duplicated(att$ID))) stop("Duplicated hipathia IDs in ATT!")
+  # node type
+  att <- att %>% mutate(type= case_when(grepl("protein", type) | type=="complex" ~ "gene",
+                                          .default = "coumpound"))
+  att <- att %>% mutate(shape= case_when(type=="gene" ~ "rectangle",
+                                          .default = "circle"))
+  # add tooltips
+  att<-att %>% rowwise() %>% mutate(tooltip= all_nodes$tooltip[all_nodes$hi_id==ID][1]) # take the first label because sometmes the label is changed and in origin theres more tha one !
   return(att)
 }
 get_hi_sif <- function(pathway_tsv, att,verbose=F){
@@ -168,17 +211,17 @@ getEntrezFromUniprot<- function(uniprot, verbose=F, log_file = NULL, na_action =
   l <- length(trans_table$gene_id)
   if(l==1) return(trans_table$gene_id)
   if(l==0){
-    if(verbose) {
-      cat(uniprot," has no entrez gene id, NA has been returned!")
-      if(!is.null(log_file)) write(x = c("",uniprot, "Has no entrez gene id, NA has been returned!"), file = log_file, append = T, sep = "\t", ncolumns = 3)
-      }
+    if(verbose) cat(uniprot," has no entrez gene id, NA has been returned!")
+    if(!is.null(log_file)) write(x = c("", uniprot, "has no Entrez gene ID, NA has been returned!"), 
+                                 file = log_file, append = TRUE, sep = "\t", ncolumns = 3)
     return(ifelse(na_action,NA, uniprot))
   }
   if(l>1){
-    if(verbose) {
-      cat(uniprot," has more than 1 entrez gene id ",trans_table$gene_id,", first one has been chosen!")
-      if(!is.null(log_file)) write(x = c("",uniprot, paste0(trans_table$gene_id, collapse = ","), "Has more than 1 entrez gene id, first one has been chosen!"), file = log_file, append = T, sep = "\t", ncolumns = 4)
-    }
+    if(verbose)
+      cat(uniprot, "has more than 1 Entrez gene ID", trans_table$gene_id, ", first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)")
+    if(!is.null(log_file)) 
+      write(x = c("", uniprot, paste0(trans_table$gene_id, collapse = ","), "has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)"),
+            file = log_file, append = TRUE, sep = "\t", ncolumns = 4)
     return(trans_table$gene_id[1])
   }
   stop()
