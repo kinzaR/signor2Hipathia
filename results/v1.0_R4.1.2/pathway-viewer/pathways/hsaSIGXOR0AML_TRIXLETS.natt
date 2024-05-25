@@ -1,0 +1,27 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0AML_TRIXLETS-17	P-hsaSIGXOR0AML_TRIXLETS-15	P-hsaSIGXOR0AML_TRIXLETS-18	P-hsaSIGXOR0AML_TRIXLETS-16	P-hsaSIGXOR0AML_TRIXLETS-20	P-hsaSIGXOR0AML_TRIXLETS-19
+N-hsaSIGXOR0AML_TRIXLETS-1	BRAF	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	673	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15056>P15056</a> (BRAF)	0	1	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-2	ERK1/2	10	400	200	white	lightgrey	2	ellipse	node	0.62	black	22	5594,5595	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF1>SIGNOR-PF1</a> (ERK1/2)	0	1	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-3	CEBPA	10	300	300	white	lightgrey	2	ellipse	node	0.62	black	22	1050	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P49715>P49715</a> (CEBPA)	0	0	0	1	0	0
+N-hsaSIGXOR0AML_TRIXLETS-4	NPM1	10	200	0	white	lightgrey	2	ellipse	node	0.62	black	22	4869	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P06748>P06748</a> (NPM1)	1	0	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-5	GSK3B	10	0	200	white	lightgrey	2	ellipse	node	0.62	black	22	2932	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P49841>P49841</a> (GSK3B)	0	0	1	0	1	0
+N-hsaSIGXOR0AML_TRIXLETS-6	NRAS	10	500	50	white	lightgrey	2	ellipse	node	0.62	black	22	4893	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01111>P01111</a> (NRAS)	0	1	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-7	CDKN2A	10	600	250	white	lightgrey	2	ellipse	node	0.62	black	22	1029	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8N726>Q8N726</a> (CDKN2A)	0	1	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-8	FBXW7	10	100	300	white	lightgrey	2	ellipse	node	0.62	black	22	55294	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q969H0>Q969H0</a> (FBXW7)	0	0	1	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-9	FLT3	10	300	250	white	lightgrey	2	ellipse	node	0.62	black	22	2322	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P36888>P36888</a> (FLT3)	0	1	1	1	1	0
+N-hsaSIGXOR0AML_TRIXLETS-10	DNMT3A	10	0	100	white	lightgrey	2	ellipse	node	0.62	black	22	1788	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y6K1>Q9Y6K1</a> (DNMT3A)	0	0	0	0	1	1
+N-hsaSIGXOR0AML_TRIXLETS-11	PTPN11	10	600	100	white	lightgrey	2	ellipse	node	0.62	black	22	5781	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06124>Q06124</a> (PTPN11)	0	1	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-12	MEK1/2	10	400	150	white	lightgrey	2	ellipse	node	0.62	black	22	5605,5604	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF25>SIGNOR-PF25</a> (MEK1/2)	0	1	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-13	AKT	10	200	200	white	lightgrey	2	ellipse	node	0.62	black	22	208,10000,207	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF24>SIGNOR-PF24</a> (AKT)	0	0	1	0	1	0
+N-hsaSIGXOR0AML_TRIXLETS-14	TP53	10	400.154843720923	250.182380325803	white	lightgrey	2	ellipse	node	0.62	black	22	7157	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P04637>P04637</a> (TP53)	0	1	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-15	BCL2	10	500	200	white	lightgrey	2	ellipse	node	0.62	black	22	596	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10415>P10415</a> (BCL2)	0	1	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-16	SOX4	10	300	350	white	lightgrey	2	ellipse	node	0.62	black	22	6659	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06945>Q06945</a> (SOX4)	0	0	0	1	0	0
+N-hsaSIGXOR0AML_TRIXLETS-17	HOXA9	10	300	0	white	lightgrey	2	ellipse	node	0.62	black	22	3205	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P31269>P31269</a> (HOXA9)	1	0	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-18	MYC	10	0	250	white	lightgrey	2	ellipse	node	0.62	black	22	4609	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01106>P01106</a> (MYC)	0	0	1	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-19	MEIS1	10	0	50	white	lightgrey	2	ellipse	node	0.62	black	22	4211	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O00470>O00470</a> (MEIS1)	0	0	0	0	0	1
+N-hsaSIGXOR0AML_TRIXLETS-20	CCND1	10	0	150	white	lightgrey	2	ellipse	node	0.62	black	22	595	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P24385>P24385</a> (CCND1)	0	0	0	0	1	0
+N-hsaSIGXOR0AML_TRIXLETS-15_func	Apoptosis	10	699.999999811966	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	0	1	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-16_func	Proliferation	10	499.999999811966	350	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	0	1	0	0
+N-hsaSIGXOR0AML_TRIXLETS-17_func	Transcription	10	499.999999811966	0	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription	1	0	0	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-18_func	Proliferation	10	199.999999811966	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	1	0	0	0
+N-hsaSIGXOR0AML_TRIXLETS-19_func	Proliferation	10	199.999999811966	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	0	0	0	1
+N-hsaSIGXOR0AML_TRIXLETS-20_func	Proliferation	10	199.999999811966	150	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	0	0	1	0

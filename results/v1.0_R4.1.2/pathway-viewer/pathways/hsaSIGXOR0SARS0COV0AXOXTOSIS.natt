@@ -1,0 +1,29 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0SARS0COV0AXOXTOSIS-25	P-hsaSIGXOR0SARS0COV0AXOXTOSIS-26
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-1	BAD	10	600	600	white	lightgrey	2	ellipse	node	0.62	black	22	572	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q92934>Q92934</a> (BAD)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-2	BCL2	10	600	650	white	lightgrey	2	ellipse	node	0.62	black	22	596	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10415>P10415</a> (BCL2)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-3	TRADD	10	200	150	white	lightgrey	2	ellipse	node	0.62	black	22	8717	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q15628>Q15628</a> (TRADD)	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-4	CASP8	10	500	400	white	lightgrey	2	ellipse	node	0.62	black	22	841	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q14790>Q14790</a> (CASP8)	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-5	CASP3	10	600	500	white	lightgrey	2	ellipse	node	0.62	black	22	836	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P42574>P42574</a> (CASP3)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-6	CYCS	10	800	650	white	lightgrey	2	ellipse	node	0.62	black	22	54205	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P99999>P99999</a> (CYCS)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-7	FAS	10	400	150	white	lightgrey	2	ellipse	node	0.62	black	22	355	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P25445>P25445</a> (FAS)	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-8	APAF1	10	700	600	white	lightgrey	2	ellipse	node	0.62	black	22	317	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O14727>O14727</a> (APAF1)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-9	FADD	10	400	250	white	lightgrey	2	ellipse	node	0.62	black	22	8772	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13158>Q13158</a> (FADD)	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-10	FASLG	10	500	50	white	lightgrey	2	ellipse	node	0.62	black	22	356	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P48023>P48023</a> (FASLG)	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-11	BID	10	400	550	white	lightgrey	2	ellipse	node	0.62	black	22	637	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P55957>P55957</a> (BID)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-12	BAX	10	500	650	white	lightgrey	2	ellipse	node	0.62	black	22	581	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q07812>Q07812</a> (BAX)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-13	BCL2L11	10	300	650	white	lightgrey	2	ellipse	node	0.62	black	22	10018	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O43521>O43521</a> (BCL2L11)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-14	MCL1	10	600	750	white	lightgrey	2	ellipse	node	0.62	black	22	4170	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q07820>Q07820</a> (MCL1)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-15	BCL2L1	10	336.119998909701	644.638135412501	white	lightgrey	2	ellipse	node	0.62	black	22	598	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q07817>Q07817</a> (BCL2L1)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-16	M	10	700	450	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P59596>P59596</a> (M)	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-17	TNFRSF1A	10	100	50	white	lightgrey	2	ellipse	node	0.62	black	22	7132	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P19438>P19438</a> (TNFRSF1A)	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-18	TNF	10	0	0	white	lightgrey	2	ellipse	node	0.62	black	22	7124	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01375>P01375</a> (TNF)	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-19	3a	10	900	600	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P59632>P59632</a> (3a)	0	1
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-20	AKT	10	700	500	white	lightgrey	2	ellipse	node	0.62	black	22	208,10000,207	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF24>SIGNOR-PF24</a> (AKT)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-21	CASP9	10	700	550	white	lightgrey	2	ellipse	node	0.62	black	22	842	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P55211>P55211</a> (CASP9)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-22	ER stress	10	200	600	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-ST9>SIGNOR-ST9</a> (ER stress)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-23	7a	10	400	750	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P59635>P59635</a> (7a)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-24	E	10	300	700	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P59637>P59637</a> (E)	0	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-25	CASP6	10	400	350	white	lightgrey	2	ellipse	node	0.62	black	22	839	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P55212>P55212</a> (CASP6)	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-26	p38	10	1100	650	white	lightgrey	2	ellipse	node	0.62	black	22	5600,6300,1432,5603	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF16>SIGNOR-PF16</a> (p38)	0	1
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-25_func	Apoptosis	10	599.999645269998	350	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	1	0
+N-hsaSIGXOR0SARS0COV0AXOXTOSIS-26_func	Stress response	10	1299.99964527	650	white	lightgrey	2	rectangle	node	0.62	black	-1		Stress response	0	1

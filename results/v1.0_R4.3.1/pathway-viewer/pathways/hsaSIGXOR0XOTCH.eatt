@@ -1,0 +1,27 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0XOTCH-22	P-hsaSIGXOR0XOTCH-21	P-hsaSIGXOR0XOTCH-17	P-hsaSIGXOR0XOTCH-18	P-hsaSIGXOR0XOTCH-19	P-hsaSIGXOR0XOTCH-20
+N-hsaSIGXOR0XOTCH-1_inhibition_N-hsaSIGXOR0XOTCH-8	0	darkgrey	1	1	inhibited	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-2 3 4_activation_N-hsaSIGXOR0XOTCH-1	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-5_activation_N-hsaSIGXOR0XOTCH-9	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-6_inhibition_N-hsaSIGXOR0XOTCH-3	0	darkgrey	1	1	inhibited	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-7_activation_N-hsaSIGXOR0XOTCH-3	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-8_activation_N-hsaSIGXOR0XOTCH-3	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-3_activation_N-hsaSIGXOR0XOTCH-16	0	darkgrey	1	1	directed	1	0	0	0	0	0
+N-hsaSIGXOR0XOTCH-9_activation_N-hsaSIGXOR0XOTCH-3	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-10_activation_N-hsaSIGXOR0XOTCH-3	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-11 12 13 14_activation_N-hsaSIGXOR0XOTCH-3	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-2 3 4_activation_N-hsaSIGXOR0XOTCH-16	0	darkgrey	1	1	directed	1	0	0	0	0	0
+N-hsaSIGXOR0XOTCH-5_activation_N-hsaSIGXOR0XOTCH-10	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-3_activation_N-hsaSIGXOR0XOTCH-1	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-15_activation_N-hsaSIGXOR0XOTCH-3	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-5_activation_N-hsaSIGXOR0XOTCH-15	0	darkgrey	1	1	directed	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-16_activation_N-hsaSIGXOR0XOTCH-22	0	darkgrey	1	1	directed	1	0	0	0	0	0
+N-hsaSIGXOR0XOTCH-3_activation_N-hsaSIGXOR0XOTCH-21	0	darkgrey	1	1	directed	0	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-2 3 4_activation_N-hsaSIGXOR0XOTCH-17	0	darkgrey	1	1	directed	0	0	1	0	0	0
+N-hsaSIGXOR0XOTCH-2 3 4_inhibition_N-hsaSIGXOR0XOTCH-18	0	darkgrey	1	1	inhibited	0	0	0	1	0	0
+N-hsaSIGXOR0XOTCH-2 3 4_activation_N-hsaSIGXOR0XOTCH-19	0	darkgrey	1	1	directed	0	0	0	0	1	0
+N-hsaSIGXOR0XOTCH-5_activation_N-hsaSIGXOR0XOTCH-20	0	darkgrey	1	1	directed	0	0	0	0	0	1
+N-hsaSIGXOR0XOTCH-17_activation_N-hsaSIGXOR0XOTCH-17_func	DOWN	darkgrey	N-hsaSIGXOR0XOTCH-17_activation_N-hsaSIGXOR0XOTCH-17_func	DOWN	directed	0	0	1	0	0	0
+N-hsaSIGXOR0XOTCH-18_activation_N-hsaSIGXOR0XOTCH-18_func	DOWN	darkgrey	N-hsaSIGXOR0XOTCH-18_activation_N-hsaSIGXOR0XOTCH-18_func	DOWN	directed	0	0	0	1	0	0
+N-hsaSIGXOR0XOTCH-20_activation_N-hsaSIGXOR0XOTCH-20_func	DOWN	darkgrey	N-hsaSIGXOR0XOTCH-20_activation_N-hsaSIGXOR0XOTCH-20_func	DOWN	directed	0	0	0	0	0	1
+N-hsaSIGXOR0XOTCH-21_activation_N-hsaSIGXOR0XOTCH-21_func	DOWN	darkgrey	N-hsaSIGXOR0XOTCH-21_activation_N-hsaSIGXOR0XOTCH-21_func	DOWN	directed	0	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-22_activation_N-hsaSIGXOR0XOTCH-22_func	DOWN	darkgrey	N-hsaSIGXOR0XOTCH-22_activation_N-hsaSIGXOR0XOTCH-22_func	DOWN	directed	1	0	0	0	0	0

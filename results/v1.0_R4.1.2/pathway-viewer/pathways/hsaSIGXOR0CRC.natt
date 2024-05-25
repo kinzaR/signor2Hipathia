@@ -1,0 +1,30 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0CRC-28	P-hsaSIGXOR0CRC-26	P-hsaSIGXOR0CRC-27
+N-hsaSIGXOR0CRC-1	WNT1	10	300	0	white	lightgrey	2	ellipse	node	0.62	black	22	7471	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P04628>P04628</a> (WNT1)	1	0	0
+N-hsaSIGXOR0CRC-2	DNA_damage	10	0	700	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-ST1>SIGNOR-ST1</a> (DNA_damage)	0	1	0
+N-hsaSIGXOR0CRC-3	GRB2	10	1000	800	white	lightgrey	2	ellipse	node	0.62	black	22	2885	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P62993>P62993</a> (GRB2)	1	1	1
+N-hsaSIGXOR0CRC-4	ERK1/2	10	900	600	white	lightgrey	2	ellipse	node	0.62	black	22	5594,5595	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF1>SIGNOR-PF1</a> (ERK1/2)	1	1	1
+N-hsaSIGXOR0CRC-5	TGFB1	10	1000	550	white	lightgrey	2	ellipse	node	0.62	black	22	7040	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01137>P01137</a> (TGFB1)	1	1	1
+N-hsaSIGXOR0CRC-6 7 8	GSK3B/Axin/APC	10	500	150	white	lightgrey	2	ellipse	node	0.62	black	22	2932,/,324,/,8312	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C110>SIGNOR-C110</a> (GSK3B/Axin/APC)	1	0	0
+N-hsaSIGXOR0CRC-9	BRAF	10	1100	650	white	lightgrey	2	ellipse	node	0.62	black	22	673	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15056>P15056</a> (BRAF)	1	1	1
+N-hsaSIGXOR0CRC-10	SOS1	10	1000	700	white	lightgrey	2	ellipse	node	0.62	black	22	6654	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q07889>Q07889</a> (SOS1)	1	1	1
+N-hsaSIGXOR0CRC-11	ATM	10	200	650	white	lightgrey	2	ellipse	node	0.62	black	22	472	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13315>Q13315</a> (ATM)	0	1	0
+N-hsaSIGXOR0CRC-12	SMAD3	10	700	450	white	lightgrey	2	ellipse	node	0.62	black	22	4088	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P84022>P84022</a> (SMAD3)	1	1	0
+N-hsaSIGXOR0CRC-13	KRAS	10	1200	700	white	lightgrey	2	ellipse	node	0.62	black	22	3845	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01116>P01116</a> (KRAS)	1	1	1
+N-hsaSIGXOR0CRC-14	TP53	10	400	600	white	lightgrey	2	ellipse	node	0.62	black	22	7157	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P04637>P04637</a> (TP53)	0	1	0
+N-hsaSIGXOR0CRC-15	ERBB2	10	1000	900	white	lightgrey	2	ellipse	node	0.62	black	22	2064	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P04626>P04626</a> (ERBB2)	1	1	1
+N-hsaSIGXOR0CRC-16	TGFBR1	10	900	500	white	lightgrey	2	ellipse	node	0.62	black	22	7046	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P36897>P36897</a> (TGFBR1)	1	1	1
+N-hsaSIGXOR0CRC-17	IGF2	10	2100	900	white	lightgrey	2	ellipse	node	0.62	black	22	3481	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01344>P01344</a> (IGF2)	0	0	1
+N-hsaSIGXOR0CRC-18	MEK1/2	10	900	650	white	lightgrey	2	ellipse	node	0.62	black	22	5605,5604	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF25>SIGNOR-PF25</a> (MEK1/2)	1	1	1
+N-hsaSIGXOR0CRC-19	IGF1R	10	1900	850	white	lightgrey	2	ellipse	node	0.62	black	22	3480	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P08069>P08069</a> (IGF1R)	0	0	1
+N-hsaSIGXOR0CRC-20	LEF1	10	600	400	white	lightgrey	2	ellipse	node	0.62	black	22	51176	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9UJU2>Q9UJU2</a> (LEF1)	1	0	0
+N-hsaSIGXOR0CRC-21	LRP5	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	4041	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O75197>O75197</a> (LRP5)	1	0	0
+N-hsaSIGXOR0CRC-22	CTNNB1	10	600	300	white	lightgrey	2	ellipse	node	0.62	black	22	1499	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P35222>P35222</a> (CTNNB1)	1	0	0
+N-hsaSIGXOR0CRC-23	SMAD4	10	797.353029518686	497.623826638928	white	lightgrey	2	ellipse	node	0.62	black	22	4089	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13485>Q13485</a> (SMAD4)	1	0	0
+N-hsaSIGXOR0CRC-24	IRS2	10	1700	800	white	lightgrey	2	ellipse	node	0.62	black	22	8660	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y4H2>Q9Y4H2</a> (IRS2)	0	0	1
+N-hsaSIGXOR0CRC-25	PTEN	10	1600	850	white	lightgrey	2	ellipse	node	0.62	black	22	5728	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P60484>P60484</a> (PTEN)	0	0	1
+N-hsaSIGXOR0CRC-26	BCL2	10	600	550	white	lightgrey	2	ellipse	node	0.62	black	22	596	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10415>P10415</a> (BCL2)	0	1	0
+N-hsaSIGXOR0CRC-27	PIK3CA	10	1500	800	white	lightgrey	2	ellipse	node	0.62	black	22	5290	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P42336>P42336</a> (PIK3CA)	0	0	1
+N-hsaSIGXOR0CRC-28	MYC	10	700	400	white	lightgrey	2	ellipse	node	0.62	black	22	4609	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01106>P01106</a> (MYC)	1	0	0
+N-hsaSIGXOR0CRC-26_func	Apoptosis	10	799.999998576409	550	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	0	1	0
+N-hsaSIGXOR0CRC-27_func	Angiogenesis	10	1685.71428571339	800	white	lightgrey	2	rectangle	node	0.62	black	-1		Angiogenesis	0	0	1
+N-hsaSIGXOR0CRC-28_func	Proliferation	10	899.999998576409	400	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	1	0	0

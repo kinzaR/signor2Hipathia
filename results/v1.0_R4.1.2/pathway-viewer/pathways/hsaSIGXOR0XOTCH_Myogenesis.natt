@@ -1,0 +1,19 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0XOTCH_Myogenesis-18	P-hsaSIGXOR0XOTCH_Myogenesis-19	P-hsaSIGXOR0XOTCH_Myogenesis-20
+N-hsaSIGXOR0XOTCH_Myogenesis-1	MAPK14	10	800	50	white	lightgrey	2	ellipse	node	0.62	black	22	1432	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q16539>Q16539</a> (MAPK14)	0	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-2	MYOD1	10	600	100	white	lightgrey	2	ellipse	node	0.62	black	22	4654	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15172>P15172</a> (MYOD1)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-3	HES1	10	100	350	white	lightgrey	2	ellipse	node	0.62	black	22	3280	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q14469>Q14469</a> (HES1)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-4	NOTCH1	10	200	300	white	lightgrey	2	ellipse	node	0.62	black	22	4851	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P46531>P46531</a> (NOTCH1)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-5	DLL1	10	100	250	white	lightgrey	2	ellipse	node	0.62	black	22	28514	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O00548>O00548</a> (DLL1)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-6 4 7	RBPJ/NOTCH	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	3516,/,4851,/,NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C97>SIGNOR-C97</a> (RBPJ/NOTCH)	1	1	1
+N-hsaSIGXOR0XOTCH_Myogenesis-8	MEF2C	10	800	100	white	lightgrey	2	ellipse	node	0.62	black	22	4208	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06413>Q06413</a> (MEF2C)	0	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-9	DUSP1	10	900	50	white	lightgrey	2	ellipse	node	0.62	black	22	1843	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P28562>P28562</a> (DUSP1)	0	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-10	DTX1	10	200	350	white	lightgrey	2	ellipse	node	0.62	black	22	1840	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q86Y01>Q86Y01</a> (DTX1)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-11	ADAM17	10	300	350	white	lightgrey	2	ellipse	node	0.62	black	22	6868	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P78536>P78536</a> (ADAM17)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-12	PAX7	10	400	200	white	lightgrey	2	ellipse	node	0.62	black	22	5081	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P23759>P23759</a> (PAX7)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-13	NUMB	10	0	350	white	lightgrey	2	ellipse	node	0.62	black	22	8650	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P49757>P49757</a> (NUMB)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-14 15 16 17	gamma-secretase	10	0	250	white	lightgrey	2	ellipse	node	0.62	black	22	51107,/,55851,/,23385,/,5663	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C98>SIGNOR-C98</a> (gamma-secretase)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-18	MYOG	10	700	200	white	lightgrey	2	ellipse	node	0.62	black	22	4656	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15173>P15173</a> (MYOG)	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-20	HEY1	10	500	0	white	lightgrey	2	ellipse	node	0.62	black	22	23462	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y5J3>Q9Y5J3</a> (HEY1)	0	0	1
+N-hsaSIGXOR0XOTCH_Myogenesis-19	NRARP	10	300	0	white	lightgrey	2	ellipse	node	0.62	black	22	441478	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q7Z6K4>Q7Z6K4</a> (NRARP)	0	1	0
+N-hsaSIGXOR0XOTCH_Myogenesis-18_func	Skeletal_muscle_differentiation	10	899.965127727576	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Skeletal_muscle_differentiation	1	0	0
+N-hsaSIGXOR0XOTCH_Myogenesis-20_func	Notch signaling pathway	10	699.965127727576	0	white	lightgrey	2	rectangle	node	0.62	black	-1		Notch signaling pathway	0	0	1

@@ -1,0 +1,21 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0CM-19	P-hsaSIGXOR0CM-20
+N-hsaSIGXOR0CM-1	tyrosine	10	100	250	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:18186>CHEBI:18186</a> (tyrosine)	1	0
+N-hsaSIGXOR0CM-2	5-hydroxy-L-tryptophan	10	200	50	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:17780>CHEBI:17780</a> (5-hydroxy-L-tryptophan)	1	0
+N-hsaSIGXOR0CM-3	dopamine	10	400	250	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:18243>CHEBI:18243</a> (dopamine)	1	0
+N-hsaSIGXOR0CM-4	L-tryptophan	10	0	100	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16828>CHEBI:16828</a> (L-tryptophan)	1	0
+N-hsaSIGXOR0CM-5	MAOA	10	500	150	white	lightgrey	2	ellipse	node	0.5	black	22	4128	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P21397>P21397</a> (MAOA)	1	0
+N-hsaSIGXOR0CM-6	serotonin	10	300	100	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:28790>CHEBI:28790</a> (serotonin)	1	0
+N-hsaSIGXOR0CM-7	PNMT	10	500	50	white	lightgrey	2	ellipse	node	0.5	black	22	5409	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P11086>P11086</a> (PNMT)	0	1
+N-hsaSIGXOR0CM-8	PAH	10	100	300	white	lightgrey	2	ellipse	node	0.5	black	22	5053	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P00439>P00439</a> (PAH)	1	0
+N-hsaSIGXOR0CM-9	DDC	10	300	350	white	lightgrey	2	ellipse	node	0.5	black	22	1644	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P20711>P20711</a> (DDC)	1	0
+N-hsaSIGXOR0CM-10	L-dopa	10	200	200	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:15765>CHEBI:15765</a> (L-dopa)	1	0
+N-hsaSIGXOR0CM-11	CYP2D6	10	400	300	white	lightgrey	2	ellipse	node	0.5	black	22	1565	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10635>P10635</a> (CYP2D6)	1	0
+N-hsaSIGXOR0CM-12	TH	10	100	150	white	lightgrey	2	ellipse	node	0.5	black	22	7054	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P07101>P07101</a> (TH)	1	0
+N-hsaSIGXOR0CM-13	noradrenaline	10	300	0	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:33569>CHEBI:33569</a> (noradrenaline)	0	1
+N-hsaSIGXOR0CM-14	3-methoxytyramine	10	500	200	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:1582>CHEBI:1582</a> (3-methoxytyramine)	1	0
+N-hsaSIGXOR0CM-15	phenylalanine	10	0	250	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:28044>CHEBI:28044</a> (phenylalanine)	1	0
+N-hsaSIGXOR0CM-16	tyramine	10	300	300	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:15760>CHEBI:15760</a> (tyramine)	1	0
+N-hsaSIGXOR0CM-17	COMT	10	600	200	white	lightgrey	2	ellipse	node	0.5	black	22	1312	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P21964>P21964</a> (COMT)	1	0
+N-hsaSIGXOR0CM-18	TPH1	10	100	0	white	lightgrey	2	ellipse	node	0.5	black	22	7166	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P17752>P17752</a> (TPH1)	1	0
+N-hsaSIGXOR0CM-19	3,4-dihydroxyphenylacetaldehyde	10	400	150	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:27978>CHEBI:27978</a> (3,4-dihydroxyphenylacetaldehyde)	1	0
+N-hsaSIGXOR0CM-20	adrenaline	10	400	0	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:33568>CHEBI:33568</a> (adrenaline)	0	1

@@ -1,0 +1,26 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0GX-21	P-hsaSIGXOR0GX-25	P-hsaSIGXOR0GX-23	P-hsaSIGXOR0GX-22	P-hsaSIGXOR0GX-24
+N-hsaSIGXOR0GX-1	L-glutamine zwitterion	10	200	200	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:58359>CHEBI:58359</a> (L-glutamine zwitterion)	1	1	1	0	0
+N-hsaSIGXOR0GX-2	SLC38A2	10	100	250	white	lightgrey	2	ellipse	node	0.5	black	22	54407	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q96QD8>Q96QD8</a> (SLC38A2)	1	1	1	0	0
+N-hsaSIGXOR0GX-3	GLS2	10	400	150	white	lightgrey	2	ellipse	node	0.5	black	22	27165	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9UI32>Q9UI32</a> (GLS2)	1	1	1	0	0
+N-hsaSIGXOR0GX-4	CPS1	10	100	50	white	lightgrey	2	ellipse	node	0.5	black	22	1373	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P31327>P31327</a> (CPS1)	1	0	0	0	0
+N-hsaSIGXOR0GX-5	SLC1A5	10	100	150	white	lightgrey	2	ellipse	node	0.5	black	22	6510	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q15758>Q15758</a> (SLC1A5)	1	1	1	0	0
+N-hsaSIGXOR0GX-6	CAD	10	200	50	white	lightgrey	2	ellipse	node	0.5	black	22	790	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P27708>P27708</a> (CAD)	1	0	0	0	0
+N-hsaSIGXOR0GX-7	GOT1	10	400	300	white	lightgrey	2	ellipse	node	0.5	black	22	2805	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P17174>P17174</a> (GOT1)	1	1	1	0	0
+N-hsaSIGXOR0GX-8	RPS6K	10	300	0	white	lightgrey	2	ellipse	node	0.5	black	22	6196,6195,6197,9252,8986	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF26>SIGNOR-PF26</a> (RPS6K)	1	0	0	0	0
+N-hsaSIGXOR0GX-9	GLS	10	500	200	white	lightgrey	2	ellipse	node	0.5	black	22	2744	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O94925>O94925</a> (GLS)	1	1	1	0	0
+N-hsaSIGXOR0GX-10	GFPT1	10	500	150	white	lightgrey	2	ellipse	node	0.5	black	22	2673	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06210>Q06210</a> (GFPT1)	1	1	1	0	0
+N-hsaSIGXOR0GX-11	SIRT4	10	0	350	white	lightgrey	2	ellipse	node	0.5	black	22	23409	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y6E7>Q9Y6E7</a> (SIRT4)	0	0	0	1	0
+N-hsaSIGXOR0GX-12	GOT2	10	600	250	white	lightgrey	2	ellipse	node	0.5	black	22	2806	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P00505>P00505</a> (GOT2)	1	1	1	0	0
+N-hsaSIGXOR0GX-13	PPAT	10	300	250	white	lightgrey	2	ellipse	node	0.5	black	22	5471	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06203>Q06203</a> (PPAT)	1	1	1	0	1
+N-hsaSIGXOR0GX-14	GPT2	10	500	350	white	lightgrey	2	ellipse	node	0.5	black	22	84706	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8TD30>Q8TD30</a> (GPT2)	0	0	1	0	0
+N-hsaSIGXOR0GX-15	SLC38A1	10	100	200	white	lightgrey	2	ellipse	node	0.5	black	22	81539	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9H2H9>Q9H2H9</a> (SLC38A1)	1	1	1	0	0
+N-hsaSIGXOR0GX-16	GLUL	10	100	150	white	lightgrey	2	ellipse	node	0.5	black	22	2752	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15104>P15104</a> (GLUL)	1	1	1	0	0
+N-hsaSIGXOR0GX-17	ammonium	10	300	150	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:28938>CHEBI:28938</a> (ammonium)	1	1	1	0	0
+N-hsaSIGXOR0GX-18	ASNS	10	600	200	white	lightgrey	2	ellipse	node	0.5	black	22	440	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P08243>P08243</a> (ASNS)	1	1	1	0	0
+N-hsaSIGXOR0GX-19	GMPS	10	600	150	white	lightgrey	2	ellipse	node	0.5	black	22	8833	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P49915>P49915</a> (GMPS)	1	1	1	0	0
+N-hsaSIGXOR0GX-20	L-glutamate(1-)	10	400	200	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:29985>CHEBI:29985</a> (L-glutamate(1-))	1	1	1	0	0
+N-hsaSIGXOR0GX-21	carbamoyl phosphate(2-)	10	200	100	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:58228>CHEBI:58228</a> (carbamoyl phosphate(2-))	1	0	0	0	0
+N-hsaSIGXOR0GX-22	GLUD1	10	100	400	white	lightgrey	2	ellipse	node	0.5	black	22	2746	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P00367>P00367</a> (GLUD1)	0	0	0	1	0
+N-hsaSIGXOR0GX-23	2-oxoglutarate(2-)	10	500	300	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16810>CHEBI:16810</a> (2-oxoglutarate(2-))	0	0	1	0	0
+N-hsaSIGXOR0GX-24	5-phospho-beta-D-ribosylaminium(1-)	10	300	350	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:58681>CHEBI:58681</a> (5-phospho-beta-D-ribosylaminium(1-))	0	0	0	0	1
+N-hsaSIGXOR0GX-25	AMP	10	200	250	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:456215>CHEBI:456215</a> (AMP)	0	1	0	0	0

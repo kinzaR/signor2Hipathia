@@ -1,0 +1,25 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0XFKBC-24 25	P-hsaSIGXOR0XFKBC-23
+N-hsaSIGXOR0XFKBC-1	ITCH	10	200	550	white	lightgrey	2	ellipse	node	0.62	black	22	83737	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q96J02>Q96J02</a> (ITCH)	1	0
+N-hsaSIGXOR0XFKBC-2	MAP3K7	10	700	550	white	lightgrey	2	ellipse	node	0.62	black	22	6885	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O43318>O43318</a> (MAP3K7)	1	0
+N-hsaSIGXOR0XFKBC-3	TRADD	10	800	200	white	lightgrey	2	ellipse	node	0.62	black	22	8717	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q15628>Q15628</a> (TRADD)	1	1
+N-hsaSIGXOR0XFKBC-4	TAB2	10	700	500	white	lightgrey	2	ellipse	node	0.62	black	22	23118	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9NYJ8>Q9NYJ8</a> (TAB2)	1	0
+N-hsaSIGXOR0XFKBC-5	CYLD	10	600	300	white	lightgrey	2	ellipse	node	0.62	black	22	1540	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9NQC7>Q9NQC7</a> (CYLD)	1	1
+N-hsaSIGXOR0XFKBC-6	UBE2N	10	300	350	white	lightgrey	2	ellipse	node	0.62	black	22	7334	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P61088>P61088</a> (UBE2N)	1	0
+N-hsaSIGXOR0XFKBC-7	RNF11	10	0	550	white	lightgrey	2	ellipse	node	0.62	black	22	26994	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y3C5>Q9Y3C5</a> (RNF11)	1	0
+N-hsaSIGXOR0XFKBC-8	TRAF6	10	600	400	white	lightgrey	2	ellipse	node	0.62	black	22	7189	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y4K3>Q9Y4K3</a> (TRAF6)	1	0
+N-hsaSIGXOR0XFKBC-9	FADD	10	1000	200	white	lightgrey	2	ellipse	node	0.62	black	22	8772	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13158>Q13158</a> (FADD)	1	0
+N-hsaSIGXOR0XFKBC-10	TNFRSF1A	10	800	100	white	lightgrey	2	ellipse	node	0.62	black	22	7132	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P19438>P19438</a> (TNFRSF1A)	1	1
+N-hsaSIGXOR0XFKBC-11	TNF	10	800	0	white	lightgrey	2	ellipse	node	0.62	black	22	7124	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01375>P01375</a> (TNF)	1	1
+N-hsaSIGXOR0XFKBC-12 13 14	IKK-complex	10	900	650	white	lightgrey	2	ellipse	node	0.62	black	22	3551,/,8517,/,1147	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C14>SIGNOR-C14</a> (IKK-complex)	1	0
+N-hsaSIGXOR0XFKBC-15	NFKBIA	10	1000	750	white	lightgrey	2	ellipse	node	0.62	black	22	4792	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P25963>P25963</a> (NFKBIA)	1	0
+N-hsaSIGXOR0XFKBC-16	TAB3	10	600	500	white	lightgrey	2	ellipse	node	0.62	black	22	257397	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8N5C8>Q8N5C8</a> (TAB3)	1	0
+N-hsaSIGXOR0XFKBC-17	TNFAIP3	10	400	500	white	lightgrey	2	ellipse	node	0.62	black	22	7128	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P21580>P21580</a> (TNFAIP3)	1	0
+N-hsaSIGXOR0XFKBC-18	RIPK1	10	800	300	white	lightgrey	2	ellipse	node	0.62	black	22	8737	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13546>Q13546</a> (RIPK1)	1	0
+N-hsaSIGXOR0XFKBC-19	FASLG	10	1300	150	white	lightgrey	2	ellipse	node	0.62	black	22	356	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P48023>P48023</a> (FASLG)	1	0
+N-hsaSIGXOR0XFKBC-20	TAX1BP1	10	300	550	white	lightgrey	2	ellipse	node	0.62	black	22	8887	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q86VP1>Q86VP1</a> (TAX1BP1)	1	0
+N-hsaSIGXOR0XFKBC-21	FAS	10	1200	150	white	lightgrey	2	ellipse	node	0.62	black	22	355	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P25445>P25445</a> (FAS)	1	0
+N-hsaSIGXOR0XFKBC-22	UBE2V1	10	400	400	white	lightgrey	2	ellipse	node	0.62	black	22	7335	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13404>Q13404</a> (UBE2V1)	1	0
+N-hsaSIGXOR0XFKBC-23	TRAF2	10	700	250	white	lightgrey	2	ellipse	node	0.62	black	22	7186	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q12933>Q12933</a> (TRAF2)	0	1
+N-hsaSIGXOR0XFKBC-24 25	NfKb-p65/p50	10	1000	800	white	lightgrey	2	ellipse	node	0.62	black	22	5970,/,4790	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C13>SIGNOR-C13</a> (NfKb-p65/p50)	1	0
+N-hsaSIGXOR0XFKBC-23_func	Apoptosis	10	899.953935322999	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	0	1
+N-hsaSIGXOR0XFKBC-24 25_func	Host-virus interaction, ...	10	1199.953935323	800	white	lightgrey	2	rectangle	node	0.62	black	-1		Host-virus interaction<br>Apoptosis	1	0

@@ -1,0 +1,55 @@
+N-hsaSIGXOR0Glycolysis-1	activation	N-hsaSIGXOR0Glycolysis-17
+N-hsaSIGXOR0Glycolysis-2	activation	N-hsaSIGXOR0Glycolysis-5
+N-hsaSIGXOR0Glycolysis-3	activation	N-hsaSIGXOR0Glycolysis-56
+N-hsaSIGXOR0Glycolysis-4	activation	N-hsaSIGXOR0Glycolysis-41
+N-hsaSIGXOR0Glycolysis-5	activation	N-hsaSIGXOR0Glycolysis-52
+N-hsaSIGXOR0Glycolysis-3	activation	N-hsaSIGXOR0Glycolysis-57
+N-hsaSIGXOR0Glycolysis-6	activation	N-hsaSIGXOR0Glycolysis-45
+N-hsaSIGXOR0Glycolysis-7	activation	N-hsaSIGXOR0Glycolysis-5
+N-hsaSIGXOR0Glycolysis-8	activation	N-hsaSIGXOR0Glycolysis-18
+N-hsaSIGXOR0Glycolysis-9	activation	N-hsaSIGXOR0Glycolysis-23
+N-hsaSIGXOR0Glycolysis-3	activation	N-hsaSIGXOR0Glycolysis-17
+N-hsaSIGXOR0Glycolysis-10 11 12 13 14 15	activation	N-hsaSIGXOR0Glycolysis-57
+N-hsaSIGXOR0Glycolysis-16	activation	N-hsaSIGXOR0Glycolysis-52
+N-hsaSIGXOR0Glycolysis-17	activation	N-hsaSIGXOR0Glycolysis-45
+N-hsaSIGXOR0Glycolysis-18	activation	N-hsaSIGXOR0Glycolysis-22
+N-hsaSIGXOR0Glycolysis-19	activation	N-hsaSIGXOR0Glycolysis-40
+N-hsaSIGXOR0Glycolysis-20	activation	N-hsaSIGXOR0Glycolysis-43
+N-hsaSIGXOR0Glycolysis-21	inhibition	N-hsaSIGXOR0Glycolysis-8
+N-hsaSIGXOR0Glycolysis-22	activation	N-hsaSIGXOR0Glycolysis-18
+N-hsaSIGXOR0Glycolysis-23	activation	N-hsaSIGXOR0Glycolysis-40
+N-hsaSIGXOR0Glycolysis-24	activation	N-hsaSIGXOR0Glycolysis-18
+N-hsaSIGXOR0Glycolysis-25	activation	N-hsaSIGXOR0Glycolysis-44
+N-hsaSIGXOR0Glycolysis-26	activation	N-hsaSIGXOR0Glycolysis-51
+N-hsaSIGXOR0Glycolysis-27	activation	N-hsaSIGXOR0Glycolysis-45
+N-hsaSIGXOR0Glycolysis-28 29	activation	N-hsaSIGXOR0Glycolysis-48
+N-hsaSIGXOR0Glycolysis-30	activation	N-hsaSIGXOR0Glycolysis-3
+N-hsaSIGXOR0Glycolysis-31	activation	N-hsaSIGXOR0Glycolysis-18
+N-hsaSIGXOR0Glycolysis-32	activation	N-hsaSIGXOR0Glycolysis-56
+N-hsaSIGXOR0Glycolysis-33 34 35 36 37 38 39	activation	N-hsaSIGXOR0Glycolysis-16
+N-hsaSIGXOR0Glycolysis-40	activation	N-hsaSIGXOR0Glycolysis-45
+N-hsaSIGXOR0Glycolysis-5	activation	N-hsaSIGXOR0Glycolysis-42
+N-hsaSIGXOR0Glycolysis-28 29	activation	N-hsaSIGXOR0Glycolysis-55
+N-hsaSIGXOR0Glycolysis-41	activation	N-hsaSIGXOR0Glycolysis-43
+N-hsaSIGXOR0Glycolysis-42	activation	N-hsaSIGXOR0Glycolysis-41
+N-hsaSIGXOR0Glycolysis-43	activation	N-hsaSIGXOR0Glycolysis-23
+N-hsaSIGXOR0Glycolysis-22	activation	N-hsaSIGXOR0Glycolysis-5
+N-hsaSIGXOR0Glycolysis-44	inhibition	N-hsaSIGXOR0Glycolysis-54
+N-hsaSIGXOR0Glycolysis-45	activation	N-hsaSIGXOR0Glycolysis-3
+N-hsaSIGXOR0Glycolysis-46	activation	N-hsaSIGXOR0Glycolysis-16
+N-hsaSIGXOR0Glycolysis-28 29	activation	N-hsaSIGXOR0Glycolysis-24
+N-hsaSIGXOR0Glycolysis-26	activation	N-hsaSIGXOR0Glycolysis-41
+N-hsaSIGXOR0Glycolysis-47	activation	N-hsaSIGXOR0Glycolysis-43
+N-hsaSIGXOR0Glycolysis-28 29	activation	N-hsaSIGXOR0Glycolysis-32
+N-hsaSIGXOR0Glycolysis-48	activation	N-hsaSIGXOR0Glycolysis-22
+N-hsaSIGXOR0Glycolysis-49	activation	N-hsaSIGXOR0Glycolysis-18
+N-hsaSIGXOR0Glycolysis-50	activation	N-hsaSIGXOR0Glycolysis-49
+N-hsaSIGXOR0Glycolysis-51	activation	N-hsaSIGXOR0Glycolysis-41
+N-hsaSIGXOR0Glycolysis-42	activation	N-hsaSIGXOR0Glycolysis-51
+N-hsaSIGXOR0Glycolysis-52	activation	N-hsaSIGXOR0Glycolysis-54
+N-hsaSIGXOR0Glycolysis-53	activation	N-hsaSIGXOR0Glycolysis-45
+N-hsaSIGXOR0Glycolysis-21	inhibition	N-hsaSIGXOR0Glycolysis-31
+N-hsaSIGXOR0Glycolysis-54	activation	N-hsaSIGXOR0Glycolysis-42
+N-hsaSIGXOR0Glycolysis-42	activation	N-hsaSIGXOR0Glycolysis-5
+N-hsaSIGXOR0Glycolysis-28 29	activation	N-hsaSIGXOR0Glycolysis-31
+N-hsaSIGXOR0Glycolysis-55	inhibition	N-hsaSIGXOR0Glycolysis-10 11 12 13 14 15

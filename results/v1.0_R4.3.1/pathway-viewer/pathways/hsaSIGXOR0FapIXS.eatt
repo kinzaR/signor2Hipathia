@@ -1,0 +1,15 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0FapIXS-8	P-hsaSIGXOR0FapIXS-11	P-hsaSIGXOR0FapIXS-9	P-hsaSIGXOR0FapIXS-10
+N-hsaSIGXOR0FapIXS-1_activation_N-hsaSIGXOR0FapIXS-8	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0FapIXS-3 4_activation_N-hsaSIGXOR0FapIXS-5	0	darkgrey	1	1	directed	0	1	1	1
+N-hsaSIGXOR0FapIXS-5_activation_N-hsaSIGXOR0FapIXS-2	0	darkgrey	1	1	directed	0	1	1	1
+N-hsaSIGXOR0FapIXS-5_activation_N-hsaSIGXOR0FapIXS-6	0	darkgrey	1	1	directed	0	1	1	1
+N-hsaSIGXOR0FapIXS-6_activation_N-hsaSIGXOR0FapIXS-2	0	darkgrey	1	1	directed	0	1	1	1
+N-hsaSIGXOR0FapIXS-3 4_activation_N-hsaSIGXOR0FapIXS-2	0	darkgrey	1	1	directed	0	1	1	1
+N-hsaSIGXOR0FapIXS-7_inhibition_N-hsaSIGXOR0FapIXS-11	0	darkgrey	1	1	inhibited	0	1	0	0
+N-hsaSIGXOR0FapIXS-2_inhibition_N-hsaSIGXOR0FapIXS-7	0	darkgrey	1	1	inhibited	0	1	0	0
+N-hsaSIGXOR0FapIXS-2_inhibition_N-hsaSIGXOR0FapIXS-9	0	darkgrey	1	1	inhibited	0	0	1	0
+N-hsaSIGXOR0FapIXS-2_inhibition_N-hsaSIGXOR0FapIXS-10	0	darkgrey	1	1	inhibited	0	0	0	1
+N-hsaSIGXOR0FapIXS-8_activation_N-hsaSIGXOR0FapIXS-8_func	DOWN	darkgrey	N-hsaSIGXOR0FapIXS-8_activation_N-hsaSIGXOR0FapIXS-8_func	DOWN	directed	1	0	0	0
+N-hsaSIGXOR0FapIXS-9_activation_N-hsaSIGXOR0FapIXS-9_func	DOWN	darkgrey	N-hsaSIGXOR0FapIXS-9_activation_N-hsaSIGXOR0FapIXS-9_func	DOWN	directed	0	0	1	0
+N-hsaSIGXOR0FapIXS-10_activation_N-hsaSIGXOR0FapIXS-10_func	DOWN	darkgrey	N-hsaSIGXOR0FapIXS-10_activation_N-hsaSIGXOR0FapIXS-10_func	DOWN	directed	0	0	0	1
+N-hsaSIGXOR0FapIXS-11_activation_N-hsaSIGXOR0FapIXS-11_func	DOWN	darkgrey	N-hsaSIGXOR0FapIXS-11_activation_N-hsaSIGXOR0FapIXS-11_func	DOWN	directed	0	1	0	0

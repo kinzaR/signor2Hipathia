@@ -1,0 +1,19 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0XFKBXC-15	P-hsaSIGXOR0XFKBXC-17 18 14	P-hsaSIGXOR0XFKBXC-16
+N-hsaSIGXOR0XFKBXC-1	CD40LG	10	800	350	white	lightgrey	2	ellipse	node	0.62	black	22	959	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P29965>P29965</a> (CD40LG)	1	1	1
+N-hsaSIGXOR0XFKBXC-2	TRAF2	10	400	250	white	lightgrey	2	ellipse	node	0.62	black	22	7186	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q12933>Q12933</a> (TRAF2)	1	1	0
+N-hsaSIGXOR0XFKBXC-3	BIRC2	10	500	300	white	lightgrey	2	ellipse	node	0.62	black	22	329	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13490>Q13490</a> (BIRC2)	1	1	0
+N-hsaSIGXOR0XFKBXC-4	NFKB2	10	100	100	white	lightgrey	2	ellipse	node	0.62	black	22	4791	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q00653>Q00653</a> (NFKB2)	1	0	0
+N-hsaSIGXOR0XFKBXC-5	TNFRSF13C	10	1100	250	white	lightgrey	2	ellipse	node	0.62	black	22	115650	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q96RJ3>Q96RJ3</a> (TNFRSF13C)	0	0	1
+N-hsaSIGXOR0XFKBXC-6	MAP3K14	10	300	200	white	lightgrey	2	ellipse	node	0.62	black	22	9020	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q99558>Q99558</a> (MAP3K14)	1	1	0
+N-hsaSIGXOR0XFKBXC-7	LTB	10	300	400	white	lightgrey	2	ellipse	node	0.62	black	22	4050	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06643>Q06643</a> (LTB)	1	1	0
+N-hsaSIGXOR0XFKBXC-8	TNFSF13B	10	1200	250	white	lightgrey	2	ellipse	node	0.62	black	22	10673	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y275>Q9Y275</a> (TNFSF13B)	0	0	1
+N-hsaSIGXOR0XFKBXC-9 10 11	SCF-betaTRCP	10	100	0	white	lightgrey	2	ellipse	node	0.62	black	22	6500,/,8454,/,8945	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C5>SIGNOR-C5</a> (SCF-betaTRCP)	1	0	0
+N-hsaSIGXOR0XFKBXC-12	CD40	10	700	250	white	lightgrey	2	ellipse	node	0.62	black	22	958	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P25942>P25942</a> (CD40)	1	1	1
+N-hsaSIGXOR0XFKBXC-13	LTBR	10	300	350	white	lightgrey	2	ellipse	node	0.62	black	22	4055	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P36941>P36941</a> (LTBR)	1	1	0
+N-hsaSIGXOR0XFKBXC-14	CHUK	10	200	150	white	lightgrey	2	ellipse	node	0.62	black	22	1147	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O15111>O15111</a> (CHUK)	0	1	0
+N-hsaSIGXOR0XFKBXC-15	RELB	10	0	50	white	lightgrey	2	ellipse	node	0.62	black	22	5971	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q01201>Q01201</a> (RELB)	1	0	0
+N-hsaSIGXOR0XFKBXC-16	TRAF3	10	900	250	white	lightgrey	2	ellipse	node	0.62	black	22	7187	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13114>Q13114</a> (TRAF3)	0	0	1
+N-hsaSIGXOR0XFKBXC-17 18 14	IKK-complex	10	100	200	white	lightgrey	2	ellipse	node	0.62	black	22	3551,/,8517,/,1147	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C14>SIGNOR-C14</a> (IKK-complex)	0	1	0
+N-hsaSIGXOR0XFKBXC-15_func	B_cell_maturation	10	199.965127727577	50	white	lightgrey	2	rectangle	node	0.62	black	-1		B_cell_maturation	1	0	0
+N-hsaSIGXOR0XFKBXC-16_func	Immunity	10	1085.71300211266	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Immunity	0	0	1
+N-hsaSIGXOR0XFKBXC-17 18 14_func	Host-virus interaction	10	285.713002112658	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Host-virus interaction	0	1	0

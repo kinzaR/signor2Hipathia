@@ -1,0 +1,68 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0B0cell-40	P-hsaSIGXOR0B0cell-41	P-hsaSIGXOR0B0cell-16	P-hsaSIGXOR0B0cell-15	P-hsaSIGXOR0B0cell-44	P-hsaSIGXOR0B0cell-45	P-hsaSIGXOR0B0cell-46	P-hsaSIGXOR0B0cell-42 43
+N-hsaSIGXOR0B0cell-3_activation_N-hsaSIGXOR0B0cell-14 15 16 17	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-3_inhibition_N-hsaSIGXOR0B0cell-19	0	darkgrey	1	1	inhibited	1	1	1	1	0	0	0	0
+N-hsaSIGXOR0B0cell-3_activation_N-hsaSIGXOR0B0cell-20	0	darkgrey	1	1	directed	1	1	0	0	1	1	1	0
+N-hsaSIGXOR0B0cell-3_activation_N-hsaSIGXOR0B0cell-28 15 16 17	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-3_activation_N-hsaSIGXOR0B0cell-35 15 16 14	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-3_activation_N-hsaSIGXOR0B0cell-28 15 16 35	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-5_activation_N-hsaSIGXOR0B0cell-14 15 16 17	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-5_activation_N-hsaSIGXOR0B0cell-28 15 16 17	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-5_activation_N-hsaSIGXOR0B0cell-35 15 16 14	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-5_activation_N-hsaSIGXOR0B0cell-28 15 16 35	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-6_inhibition_N-hsaSIGXOR0B0cell-8	0	darkgrey	1	1	inhibited	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-6_inhibition_N-hsaSIGXOR0B0cell-40	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-8_activation_N-hsaSIGXOR0B0cell-40	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-9_inhibition_N-hsaSIGXOR0B0cell-8	0	darkgrey	1	1	inhibited	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-14 15 16 17_activation_N-hsaSIGXOR0B0cell-8	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-18_activation_N-hsaSIGXOR0B0cell-9	0	darkgrey	1	1	directed	1	1	0	0	1	1	1	0
+N-hsaSIGXOR0B0cell-19_activation_N-hsaSIGXOR0B0cell-6	0	darkgrey	1	1	directed	1	1	1	1	0	0	0	0
+N-hsaSIGXOR0B0cell-20_activation_N-hsaSIGXOR0B0cell-18	0	darkgrey	1	1	directed	1	1	0	0	1	1	1	0
+N-hsaSIGXOR0B0cell-27_activation_N-hsaSIGXOR0B0cell-14 15 16 17	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-27_activation_N-hsaSIGXOR0B0cell-28 15 16 17	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-27_activation_N-hsaSIGXOR0B0cell-35 15 16 14	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-27_activation_N-hsaSIGXOR0B0cell-28 15 16 35	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-28 15 16 17_activation_N-hsaSIGXOR0B0cell-8	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-29_activation_N-hsaSIGXOR0B0cell-14 15 16 17	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-29_activation_N-hsaSIGXOR0B0cell-28 15 16 17	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-29_activation_N-hsaSIGXOR0B0cell-35 15 16 14	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-29_activation_N-hsaSIGXOR0B0cell-28 15 16 35	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-35 15 16 14_activation_N-hsaSIGXOR0B0cell-8	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-28 15 16 35_activation_N-hsaSIGXOR0B0cell-8	0	darkgrey	1	1	directed	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-8_activation_N-hsaSIGXOR0B0cell-41	0	darkgrey	1	1	directed	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-6_inhibition_N-hsaSIGXOR0B0cell-16	0	darkgrey	1	1	inhibited	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0B0cell-6_inhibition_N-hsaSIGXOR0B0cell-15	0	darkgrey	1	1	inhibited	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0B0cell-4_inhibition_N-hsaSIGXOR0B0cell-7	0	darkgrey	1	1	inhibited	0	0	0	0	1	1	1	0
+N-hsaSIGXOR0B0cell-4_activation_N-hsaSIGXOR0B0cell-30	0	darkgrey	1	1	directed	0	0	0	0	1	1	0	0
+N-hsaSIGXOR0B0cell-7_activation_N-hsaSIGXOR0B0cell-30	0	darkgrey	1	1	directed	0	0	0	0	1	1	0	0
+N-hsaSIGXOR0B0cell-9_inhibition_N-hsaSIGXOR0B0cell-4	0	darkgrey	1	1	inhibited	0	0	0	0	1	1	1	0
+N-hsaSIGXOR0B0cell-10_activation_N-hsaSIGXOR0B0cell-24 25	0	darkgrey	1	1	directed	0	0	0	0	1	1	0	0
+N-hsaSIGXOR0B0cell-10_activation_N-hsaSIGXOR0B0cell-32	0	darkgrey	1	1	directed	0	0	0	0	1	1	0	0
+N-hsaSIGXOR0B0cell-24 25_activation_N-hsaSIGXOR0B0cell-44	0	darkgrey	1	1	directed	0	0	0	0	1	0	0	0
+N-hsaSIGXOR0B0cell-29_activation_N-hsaSIGXOR0B0cell-37	0	darkgrey	1	1	directed	0	0	0	0	1	1	1	0
+N-hsaSIGXOR0B0cell-30_activation_N-hsaSIGXOR0B0cell-10	0	darkgrey	1	1	directed	0	0	0	0	1	1	0	0
+N-hsaSIGXOR0B0cell-32_activation_N-hsaSIGXOR0B0cell-24 25	0	darkgrey	1	1	directed	0	0	0	0	1	1	0	0
+N-hsaSIGXOR0B0cell-36_activation_N-hsaSIGXOR0B0cell-30	0	darkgrey	1	1	directed	0	0	0	0	1	1	0	0
+N-hsaSIGXOR0B0cell-37_activation_N-hsaSIGXOR0B0cell-36	0	darkgrey	1	1	directed	0	0	0	0	1	1	1	0
+N-hsaSIGXOR0B0cell-1 2_activation_N-hsaSIGXOR0B0cell-26	0	darkgrey	1	1	directed	0	0	0	0	0	1	1	0
+N-hsaSIGXOR0B0cell-9_inhibition_N-hsaSIGXOR0B0cell-26	0	darkgrey	1	1	inhibited	0	0	0	0	0	1	1	0
+N-hsaSIGXOR0B0cell-21_inhibition_N-hsaSIGXOR0B0cell-1 2	0	darkgrey	1	1	inhibited	0	0	0	0	0	1	1	0
+N-hsaSIGXOR0B0cell-22_activation_N-hsaSIGXOR0B0cell-31	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0B0cell-26_activation_N-hsaSIGXOR0B0cell-22	0	darkgrey	1	1	directed	0	0	0	0	0	1	1	0
+N-hsaSIGXOR0B0cell-31_activation_N-hsaSIGXOR0B0cell-38	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0B0cell-33 34_activation_N-hsaSIGXOR0B0cell-45	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0B0cell-38_activation_N-hsaSIGXOR0B0cell-33 34	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0B0cell-21_inhibition_N-hsaSIGXOR0B0cell-26	0	darkgrey	1	1	inhibited	0	0	0	0	0	1	1	0
+N-hsaSIGXOR0B0cell-24 25_activation_N-hsaSIGXOR0B0cell-45	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0B0cell-4_activation_N-hsaSIGXOR0B0cell-39	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0B0cell-7_activation_N-hsaSIGXOR0B0cell-39	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0B0cell-22_activation_N-hsaSIGXOR0B0cell-46	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0B0cell-36_activation_N-hsaSIGXOR0B0cell-46	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0B0cell-39_activation_N-hsaSIGXOR0B0cell-46	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0B0cell-11 12 13_activation_N-hsaSIGXOR0B0cell-42 43	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1
+N-hsaSIGXOR0B0cell-23_activation_N-hsaSIGXOR0B0cell-11 12 13	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1
+N-hsaSIGXOR0B0cell-40_activation_N-hsaSIGXOR0B0cell-40_func	DOWN	darkgrey	N-hsaSIGXOR0B0cell-40_activation_N-hsaSIGXOR0B0cell-40_func	DOWN	directed	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-41_activation_N-hsaSIGXOR0B0cell-41_func	DOWN	darkgrey	N-hsaSIGXOR0B0cell-41_activation_N-hsaSIGXOR0B0cell-41_func	DOWN	directed	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0B0cell-42 43_activation_N-hsaSIGXOR0B0cell-42 43_func	DOWN	darkgrey	N-hsaSIGXOR0B0cell-42 43_activation_N-hsaSIGXOR0B0cell-42 43_func	DOWN	directed	0	0	0	0	0	0	0	1
+N-hsaSIGXOR0B0cell-44_activation_N-hsaSIGXOR0B0cell-44_func	DOWN	darkgrey	N-hsaSIGXOR0B0cell-44_activation_N-hsaSIGXOR0B0cell-44_func	DOWN	directed	0	0	0	0	1	0	0	0
+N-hsaSIGXOR0B0cell-45_activation_N-hsaSIGXOR0B0cell-45_func	DOWN	darkgrey	N-hsaSIGXOR0B0cell-45_activation_N-hsaSIGXOR0B0cell-45_func	DOWN	directed	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0B0cell-46_activation_N-hsaSIGXOR0B0cell-46_func	DOWN	darkgrey	N-hsaSIGXOR0B0cell-46_activation_N-hsaSIGXOR0B0cell-46_func	DOWN	directed	0	0	0	0	0	0	1	0

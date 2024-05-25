@@ -1,0 +1,24 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0XOTCH-22	P-hsaSIGXOR0XOTCH-21	P-hsaSIGXOR0XOTCH-17	P-hsaSIGXOR0XOTCH-18	P-hsaSIGXOR0XOTCH-19	P-hsaSIGXOR0XOTCH-20
+N-hsaSIGXOR0XOTCH-1	HES1	10	200	200	white	lightgrey	2	ellipse	node	0.62	black	22	3280	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q14469>Q14469</a> (HES1)	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-2 3 4	RBPJ/NOTCH	10	200	100	white	lightgrey	2	ellipse	node	0.62	black	22	3516,/,4851,/,NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C97>SIGNOR-C97</a> (RBPJ/NOTCH)	1	1	1	1	1	0
+N-hsaSIGXOR0XOTCH-5	MIB1	10	600	400	white	lightgrey	2	ellipse	node	0.62	black	22	57534	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q86YT6>Q86YT6</a> (MIB1)	1	1	0	0	0	1
+N-hsaSIGXOR0XOTCH-6	YY1	10	500	250	white	lightgrey	2	ellipse	node	0.62	black	22	7528	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P25490>P25490</a> (YY1)	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-7	ADAM17	10	200	300	white	lightgrey	2	ellipse	node	0.62	black	22	6868	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P78536>P78536</a> (ADAM17)	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-8	DTX1	10	300	250	white	lightgrey	2	ellipse	node	0.62	black	22	1840	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q86Y01>Q86Y01</a> (DTX1)	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-3	NOTCH1	10	400	300	white	lightgrey	2	ellipse	node	0.62	black	22	4851	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P46531>P46531</a> (NOTCH1)	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-9	DLL4	10	500	350	white	lightgrey	2	ellipse	node	0.62	black	22	54567	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9NR61>Q9NR61</a> (DLL4)	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-10	DLL1	10	500	400	white	lightgrey	2	ellipse	node	0.62	black	22	28514	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O00548>O00548</a> (DLL1)	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-11 12 13 14	gamma-secretase	10	200	350	white	lightgrey	2	ellipse	node	0.62	black	22	51107,/,55851,/,23385,/,5663	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C98>SIGNOR-C98</a> (gamma-secretase)	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-15	DLL3	10	600	350	white	lightgrey	2	ellipse	node	0.62	black	22	10683	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9NYJ7>Q9NYJ7</a> (DLL3)	1	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-16	HIF1A	10	300	150	white	lightgrey	2	ellipse	node	0.62	black	22	3091	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q16665>Q16665</a> (HIF1A)	1	0	0	0	0	0
+N-hsaSIGXOR0XOTCH-17	HEY1	10	100	0	white	lightgrey	2	ellipse	node	0.62	black	22	23462	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y5J3>Q9Y5J3</a> (HEY1)	0	0	1	0	0	0
+N-hsaSIGXOR0XOTCH-18	MYOD1	10	200	0	white	lightgrey	2	ellipse	node	0.62	black	22	4654	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15172>P15172</a> (MYOD1)	0	0	0	1	0	0
+N-hsaSIGXOR0XOTCH-20	JAG1	10	800	450	white	lightgrey	2	ellipse	node	0.62	black	22	182	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P78504>P78504</a> (JAG1)	0	0	0	0	0	1
+N-hsaSIGXOR0XOTCH-21	NFKB1	10	300	400	white	lightgrey	2	ellipse	node	0.62	black	22	4790	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P19838>P19838</a> (NFKB1)	0	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-22	VEGFA	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	7422	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15692>P15692</a> (VEGFA)	1	0	0	0	0	0
+N-hsaSIGXOR0XOTCH-19	NRARP	10	0	50	white	lightgrey	2	ellipse	node	0.62	black	22	441478	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q7Z6K4>Q7Z6K4</a> (NRARP)	0	0	0	0	1	0
+N-hsaSIGXOR0XOTCH-17_func	Notch signaling pathway	10	299.955896985576	0	white	lightgrey	2	rectangle	node	0.62	black	-1		Notch signaling pathway	0	0	1	0	0	0
+N-hsaSIGXOR0XOTCH-18_func	Skeletal_muscle_differentiation	10	399.955896985576	0	white	lightgrey	2	rectangle	node	0.62	black	-1		Skeletal_muscle_differentiation	0	0	0	1	0	0
+N-hsaSIGXOR0XOTCH-20_func	Notch signaling pathway	10	999.955896985576	450	white	lightgrey	2	rectangle	node	0.62	black	-1		Notch signaling pathway	0	0	0	0	0	1
+N-hsaSIGXOR0XOTCH-21_func	Transcription regulation	10	485.712476497458	400	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	1	0	0	0	0
+N-hsaSIGXOR0XOTCH-22_func	Differentiation	10	599.955896985576	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Differentiation	1	0	0	0	0	0

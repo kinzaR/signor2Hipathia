@@ -1,0 +1,13 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0WC-12	P-hsaSIGXOR0WC-13
+N-hsaSIGXOR0WC-1	Wnt	10	100	50	white	lightgrey	2	ellipse	node	0.62	black	22	81029,54361,7479,7471,7480,7473,7478,89780,80326,7476,7482,7474,7481,7483,51384,7472,7475,7484,7477	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF40>SIGNOR-PF40</a> (Wnt)	1	1
+N-hsaSIGXOR0WC-2	DVL1	10	300	200	white	lightgrey	2	ellipse	node	0.62	black	22	1855	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O14640>O14640</a> (DVL1)	1	0
+N-hsaSIGXOR0WC-3 4 5	GSK3B/Axin/APC	10	400	200	white	lightgrey	2	ellipse	node	0.62	black	22	2932,/,324,/,8312	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C110>SIGNOR-C110</a> (GSK3B/Axin/APC)	1	0
+N-hsaSIGXOR0WC-6	RNF146	10	500	100	white	lightgrey	2	ellipse	node	0.62	black	22	81847	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9NTX7>Q9NTX7</a> (RNF146)	1	0
+N-hsaSIGXOR0WC-7	LEF1	10	600	350	white	lightgrey	2	ellipse	node	0.62	black	22	51176	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9UJU2>Q9UJU2</a> (LEF1)	1	0
+N-hsaSIGXOR0WC-8	CSNK1A1	10	700	250	white	lightgrey	2	ellipse	node	0.62	black	22	1452	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P48729>P48729</a> (CSNK1A1)	1	0
+N-hsaSIGXOR0WC-9 10	LPR5/6	10	200	100	white	lightgrey	2	ellipse	node	0.62	black	22	4040,/,4041	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C219>SIGNOR-C219</a> (LPR5/6)	1	0
+N-hsaSIGXOR0WC-11	CTNNB1	10	600	250	white	lightgrey	2	ellipse	node	0.62	black	22	1499	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P35222>P35222</a> (CTNNB1)	1	0
+N-hsaSIGXOR0WC-12	MYC	10	700	400	white	lightgrey	2	ellipse	node	0.62	black	22	4609	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01106>P01106</a> (MYC)	1	0
+N-hsaSIGXOR0WC-13	Frizzled	10	0	0	white	lightgrey	2	ellipse	node	0.62	black	22	8322,8323,11211,8321,2535,7976,8326,8324,8325,7855	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF11>SIGNOR-PF11</a> (Frizzled)	0	1
+N-hsaSIGXOR0WC-12_func	Proliferation	10	1099.95303115465	400	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	1	0
+N-hsaSIGXOR0WC-13_func	Wnt signaling pathway	10	399.953031154653	0	white	lightgrey	2	rectangle	node	0.62	black	-1		Wnt signaling pathway	0	1

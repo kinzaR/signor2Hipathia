@@ -1,0 +1,11 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0RAS-9	P-hsaSIGXOR0RAS-10
+N-hsaSIGXOR0RAS-1	RXRA	10	100	50	white	lightgrey	2	ellipse	node	0.62	black	22	6256	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P19793>P19793</a> (RXRA)	1	0
+N-hsaSIGXOR0RAS-2	RARA	10	200	50	white	lightgrey	2	ellipse	node	0.62	black	22	5914	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10276>P10276</a> (RARA)	1	0
+N-hsaSIGXOR0RAS-3	HES1	10	300	150	white	lightgrey	2	ellipse	node	0.62	black	22	3280	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q14469>Q14469</a> (HES1)	0	1
+N-hsaSIGXOR0RAS-4	RARB	10	100	100	white	lightgrey	2	ellipse	node	0.62	black	22	5915	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10826>P10826</a> (RARB)	1	0
+N-hsaSIGXOR0RAS-5	RARG	10	100	0	white	lightgrey	2	ellipse	node	0.62	black	22	5916	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P13631>P13631</a> (RARG)	1	0
+N-hsaSIGXOR0RAS-6 7 8	RBPJ/NOTCH	10	200	150	white	lightgrey	2	ellipse	node	0.62	black	22	3516,/,4851,/,NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C97>SIGNOR-C97</a> (RBPJ/NOTCH)	0	1
+N-hsaSIGXOR0RAS-9	CTNNB1	10	0	50	white	lightgrey	2	ellipse	node	0.62	black	22	1499	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P35222>P35222</a> (CTNNB1)	1	0
+N-hsaSIGXOR0RAS-10	ASCL1	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	429	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P50553>P50553</a> (ASCL1)	0	1
+N-hsaSIGXOR0RAS-9_func	Neurogenesis	10	185.71378543094	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Neurogenesis	1	0
+N-hsaSIGXOR0RAS-10_func	Neurogenesis	10	599.981447381303	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Neurogenesis	0	1

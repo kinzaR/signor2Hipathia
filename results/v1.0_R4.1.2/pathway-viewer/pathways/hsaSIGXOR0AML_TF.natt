@@ -1,0 +1,20 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0AML_TF-15	P-hsaSIGXOR0AML_TF-13	P-hsaSIGXOR0AML_TF-12	P-hsaSIGXOR0AML_TF-14
+N-hsaSIGXOR0AML_TF-1	JUN	10	400	200	white	lightgrey	2	ellipse	node	0.62	black	22	3725	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P05412>P05412</a> (JUN)	1	1	0	0
+N-hsaSIGXOR0AML_TF-2	CEBPA	10	500	100	white	lightgrey	2	ellipse	node	0.62	black	22	1050	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P49715>P49715</a> (CEBPA)	0	0	1	0
+N-hsaSIGXOR0AML_TF-3	EGR2	10	0	50	white	lightgrey	2	ellipse	node	0.62	black	22	1959	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P11161>P11161</a> (EGR2)	0	0	0	0
+N-hsaSIGXOR0AML_TF-4	GATA1	10	200	150	white	lightgrey	2	ellipse	node	0.62	black	22	2623	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15976>P15976</a> (GATA1)	1	1	0	0
+N-hsaSIGXOR0AML_TF-5	KMT2A	10	300	0	white	lightgrey	2	ellipse	node	0.62	black	22	4297	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q03164>Q03164</a> (KMT2A)	0	0	0	1
+N-hsaSIGXOR0AML_TF-6	SPI1	10	300	200	white	lightgrey	2	ellipse	node	0.62	black	22	6688	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P17947>P17947</a> (SPI1)	1	1	0	0
+N-hsaSIGXOR0AML_TF-7	NAB2	10	-81.02895004415	99.9999999853287	white	lightgrey	2	ellipse	node	0.62	black	22	4665	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q15742>Q15742</a> (NAB2)	0	0	0	0
+N-hsaSIGXOR0AML_TF-8	GATA2	10	200	200	white	lightgrey	2	ellipse	node	0.62	black	22	2624	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P23769>P23769</a> (GATA2)	1	1	0	0
+N-hsaSIGXOR0AML_TF-9	MAPK14	10	100	200	white	lightgrey	2	ellipse	node	0.62	black	22	1432	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q16539>Q16539</a> (MAPK14)	1	1	0	0
+N-hsaSIGXOR0AML_TF-10	ZFPM1	10	100	150	white	lightgrey	2	ellipse	node	0.62	black	22	161882	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8IX07>Q8IX07</a> (ZFPM1)	1	1	0	0
+N-hsaSIGXOR0AML_TF-11	HRAS	10	200	250	white	lightgrey	2	ellipse	node	0.62	black	22	3265	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01112>P01112</a> (HRAS)	1	1	0	0
+N-hsaSIGXOR0AML_TF-12	GFI1	10	500	50	white	lightgrey	2	ellipse	node	0.62	black	22	2672	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q99684>Q99684</a> (GFI1)	0	0	1	0
+N-hsaSIGXOR0AML_TF-13	FLI1	10	200	100	white	lightgrey	2	ellipse	node	0.62	black	22	2313	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q01543>Q01543</a> (FLI1)	0	1	0	0
+N-hsaSIGXOR0AML_TF-14	RUNX1	10	255.573505024473	49.9963783985164	white	lightgrey	2	ellipse	node	0.62	black	22	861	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q01196>Q01196</a> (RUNX1)	0	0	0	1
+N-hsaSIGXOR0AML_TF-15	TAL1	10	400	250	white	lightgrey	2	ellipse	node	0.62	black	22	6886	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P17542>P17542</a> (TAL1)	1	0	0	0
+N-hsaSIGXOR0AML_TF-12_func	Granulocyte_differentiation	10	699.99830812918	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Granulocyte_differentiation	0	0	1	0
+N-hsaSIGXOR0AML_TF-13_func	Megakaryocyte_differentiation	10	399.99830812918	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Megakaryocyte_differentiation	0	1	0	0
+N-hsaSIGXOR0AML_TF-14_func	Transcription regulation	10	455.727263970206	0.101830042046833	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	0	0	1
+N-hsaSIGXOR0AML_TF-15_func	Transcription regulation	10	599.99830812918	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	1	0	0	0

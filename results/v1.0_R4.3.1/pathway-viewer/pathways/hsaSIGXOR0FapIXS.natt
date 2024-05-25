@@ -1,0 +1,15 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0FapIXS-8	P-hsaSIGXOR0FapIXS-11	P-hsaSIGXOR0FapIXS-9	P-hsaSIGXOR0FapIXS-10
+N-hsaSIGXOR0FapIXS-1	INS	10	0	50	white	lightgrey	2	ellipse	node	0.62	black	22	3630	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01308>P01308</a> (INS)	1	0	0	0
+N-hsaSIGXOR0FapIXS-2	AKT	10	300	150	white	lightgrey	2	ellipse	node	0.62	black	22	208,10000,207	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF24>SIGNOR-PF24</a> (AKT)	0	1	1	1
+N-hsaSIGXOR0FapIXS-3 4	PI3K	10	300	50	white	lightgrey	2	ellipse	node	0.62	black	22	5295,/,5290	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C156>SIGNOR-C156</a> (PI3K)	0	1	1	1
+N-hsaSIGXOR0FapIXS-5	PIP3	10	400	100	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16618>CHEBI:16618</a> (PIP3)	0	1	1	1
+N-hsaSIGXOR0FapIXS-6	PDPK1	10	400	150	white	lightgrey	2	ellipse	node	0.62	black	22	5170	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O15530>O15530</a> (PDPK1)	0	1	1	1
+N-hsaSIGXOR0FapIXS-7	GATA2	10	200	200	white	lightgrey	2	ellipse	node	0.62	black	22	2624	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P23769>P23769</a> (GATA2)	0	1	0	0
+N-hsaSIGXOR0FapIXS-8	INSR	10	100	50	white	lightgrey	2	ellipse	node	0.62	black	22	3643	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P06213>P06213</a> (INSR)	1	0	0	0
+N-hsaSIGXOR0FapIXS-9	FOXO1	10	200	100	white	lightgrey	2	ellipse	node	0.62	black	22	2308	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q12778>Q12778</a> (FOXO1)	0	0	1	0
+N-hsaSIGXOR0FapIXS-10	FOXA2	10	300	200	white	lightgrey	2	ellipse	node	0.62	black	22	3170	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y261>Q9Y261</a> (FOXA2)	0	0	0	1
+N-hsaSIGXOR0FapIXS-11	PPARG	10	100	200	white	lightgrey	2	ellipse	node	0.62	black	22	5468	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P37231>P37231</a> (PPARG)	0	1	0	0
+N-hsaSIGXOR0FapIXS-8_func	Carbohydrate metabolism	10	256.184153607597	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Carbohydrate metabolism	1	0	0	0
+N-hsaSIGXOR0FapIXS-9_func	Transcription regulation	10	356.184153607597	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	0	1	0
+N-hsaSIGXOR0FapIXS-10_func	Transcription regulation	10	456.184153607597	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	0	0	1
+N-hsaSIGXOR0FapIXS-11_func	Transcription regulation	10	256.186091412387	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	1	0	0

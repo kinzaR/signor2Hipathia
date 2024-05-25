@@ -1,0 +1,30 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0FIIA-25	P-hsaSIGXOR0FIIA-24	P-hsaSIGXOR0FIIA-26	P-hsaSIGXOR0FIIA-27	P-hsaSIGXOR0FIIA-28	P-hsaSIGXOR0FIIA-23
+N-hsaSIGXOR0FIIA-3_activation_N-hsaSIGXOR0FIIA-6	0	darkgrey	1	1	directed	1	0	0	0	0	0
+N-hsaSIGXOR0FIIA-6_activation_N-hsaSIGXOR0FIIA-16	0	darkgrey	1	1	directed	1	0	0	0	0	0
+N-hsaSIGXOR0FIIA-7_activation_N-hsaSIGXOR0FIIA-19	0	darkgrey	1	1	directed	1	0	0	0	0	0
+N-hsaSIGXOR0FIIA-14_activation_N-hsaSIGXOR0FIIA-7	0	darkgrey	1	1	directed	1	0	0	0	0	0
+N-hsaSIGXOR0FIIA-16_inhibition_N-hsaSIGXOR0FIIA-25	0	darkgrey	1	1	inhibited	1	0	0	0	0	0
+N-hsaSIGXOR0FIIA-19_activation_N-hsaSIGXOR0FIIA-16	0	darkgrey	1	1	directed	1	0	0	0	0	0
+N-hsaSIGXOR0FIIA-4_activation_N-hsaSIGXOR0FIIA-12	0	darkgrey	1	1	directed	0	1	0	0	0	0
+N-hsaSIGXOR0FIIA-12_inhibition_N-hsaSIGXOR0FIIA-24	0	darkgrey	1	1	inhibited	0	1	0	0	0	0
+N-hsaSIGXOR0FIIA-1_inhibition_N-hsaSIGXOR0FIIA-15	0	darkgrey	1	1	inhibited	0	0	1	1	0	0
+N-hsaSIGXOR0FIIA-5_inhibition_N-hsaSIGXOR0FIIA-1	0	darkgrey	1	1	inhibited	0	0	1	1	0	0
+N-hsaSIGXOR0FIIA-8 9_activation_N-hsaSIGXOR0FIIA-18	0	darkgrey	1	1	directed	0	0	1	1	0	0
+N-hsaSIGXOR0FIIA-10_inhibition_N-hsaSIGXOR0FIIA-8 9	0	darkgrey	1	1	inhibited	0	0	1	1	0	0
+N-hsaSIGXOR0FIIA-14_activation_N-hsaSIGXOR0FIIA-5	0	darkgrey	1	1	directed	0	0	1	1	0	0
+N-hsaSIGXOR0FIIA-15_activation_N-hsaSIGXOR0FIIA-8 9	0	darkgrey	1	1	directed	0	0	1	1	0	0
+N-hsaSIGXOR0FIIA-17_activation_N-hsaSIGXOR0FIIA-5	0	darkgrey	1	1	directed	0	0	1	1	0	0
+N-hsaSIGXOR0FIIA-18_activation_N-hsaSIGXOR0FIIA-26	0	darkgrey	1	1	directed	0	0	1	0	0	0
+N-hsaSIGXOR0FIIA-18_inhibition_N-hsaSIGXOR0FIIA-27	0	darkgrey	1	1	inhibited	0	0	0	1	0	0
+N-hsaSIGXOR0FIIA-11_activation_N-hsaSIGXOR0FIIA-13	0	darkgrey	1	1	directed	0	0	0	0	1	0
+N-hsaSIGXOR0FIIA-13_activation_N-hsaSIGXOR0FIIA-22	0	darkgrey	1	1	directed	0	0	0	0	1	0
+N-hsaSIGXOR0FIIA-21_activation_N-hsaSIGXOR0FIIA-28	0	darkgrey	1	1	directed	0	0	0	0	1	0
+N-hsaSIGXOR0FIIA-22_activation_N-hsaSIGXOR0FIIA-28	0	darkgrey	1	1	directed	0	0	0	0	1	0
+N-hsaSIGXOR0FIIA-2_activation_N-hsaSIGXOR0FIIA-23	0	darkgrey	1	1	directed	0	0	0	0	0	1
+N-hsaSIGXOR0FIIA-20_activation_N-hsaSIGXOR0FIIA-2	0	darkgrey	1	1	directed	0	0	0	0	0	1
+N-hsaSIGXOR0FIIA-23_activation_N-hsaSIGXOR0FIIA-23_func	DOWN	darkgrey	N-hsaSIGXOR0FIIA-23_activation_N-hsaSIGXOR0FIIA-23_func	DOWN	directed	0	0	0	0	0	1
+N-hsaSIGXOR0FIIA-24_activation_N-hsaSIGXOR0FIIA-24_func	DOWN	darkgrey	N-hsaSIGXOR0FIIA-24_activation_N-hsaSIGXOR0FIIA-24_func	DOWN	directed	0	1	0	0	0	0
+N-hsaSIGXOR0FIIA-25_activation_N-hsaSIGXOR0FIIA-25_func	DOWN	darkgrey	N-hsaSIGXOR0FIIA-25_activation_N-hsaSIGXOR0FIIA-25_func	DOWN	directed	1	0	0	0	0	0
+N-hsaSIGXOR0FIIA-26_activation_N-hsaSIGXOR0FIIA-26_func	DOWN	darkgrey	N-hsaSIGXOR0FIIA-26_activation_N-hsaSIGXOR0FIIA-26_func	DOWN	directed	0	0	1	0	0	0
+N-hsaSIGXOR0FIIA-27_activation_N-hsaSIGXOR0FIIA-27_func	DOWN	darkgrey	N-hsaSIGXOR0FIIA-27_activation_N-hsaSIGXOR0FIIA-27_func	DOWN	directed	0	0	0	1	0	0
+N-hsaSIGXOR0FIIA-28_activation_N-hsaSIGXOR0FIIA-28_func	DOWN	darkgrey	N-hsaSIGXOR0FIIA-28_activation_N-hsaSIGXOR0FIIA-28_func	DOWN	directed	0	0	0	0	1	0

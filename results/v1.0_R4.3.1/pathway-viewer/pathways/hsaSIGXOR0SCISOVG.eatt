@@ -1,0 +1,38 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0SCISOVG-27	P-hsaSIGXOR0SCISOVG-28 29	P-hsaSIGXOR0SCISOVG-30
+N-hsaSIGXOR0SCISOVG-1_inhibition_N-hsaSIGXOR0SCISOVG-25	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-2_activation_N-hsaSIGXOR0SCISOVG-14	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-3_activation_N-hsaSIGXOR0SCISOVG-27	0	darkgrey	1	1	directed	1	0	0
+N-hsaSIGXOR0SCISOVG-4_inhibition_N-hsaSIGXOR0SCISOVG-2	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-5_inhibition_N-hsaSIGXOR0SCISOVG-23	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-6_inhibition_N-hsaSIGXOR0SCISOVG-2	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-7_inhibition_N-hsaSIGXOR0SCISOVG-27	0	darkgrey	1	1	inhibited	1	0	0
+N-hsaSIGXOR0SCISOVG-8_inhibition_N-hsaSIGXOR0SCISOVG-25	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-3_activation_N-hsaSIGXOR0SCISOVG-2	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-2_activation_N-hsaSIGXOR0SCISOVG-27	0	darkgrey	1	1	directed	1	0	0
+N-hsaSIGXOR0SCISOVG-9_activation_N-hsaSIGXOR0SCISOVG-25	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-10_inhibition_N-hsaSIGXOR0SCISOVG-27	0	darkgrey	1	1	inhibited	1	0	0
+N-hsaSIGXOR0SCISOVG-11_inhibition_N-hsaSIGXOR0SCISOVG-2	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-12_inhibition_N-hsaSIGXOR0SCISOVG-27	0	darkgrey	1	1	inhibited	1	0	0
+N-hsaSIGXOR0SCISOVG-13_activation_N-hsaSIGXOR0SCISOVG-2	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-7_inhibition_N-hsaSIGXOR0SCISOVG-13	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-14_activation_N-hsaSIGXOR0SCISOVG-2	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-3_activation_N-hsaSIGXOR0SCISOVG-14	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-8_inhibition_N-hsaSIGXOR0SCISOVG-27	0	darkgrey	1	1	inhibited	1	0	0
+N-hsaSIGXOR0SCISOVG-15_inhibition_N-hsaSIGXOR0SCISOVG-27	0	darkgrey	1	1	inhibited	1	0	0
+N-hsaSIGXOR0SCISOVG-16_inhibition_N-hsaSIGXOR0SCISOVG-3	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-17_inhibition_N-hsaSIGXOR0SCISOVG-3	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-18_activation_N-hsaSIGXOR0SCISOVG-9	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-22_inhibition_N-hsaSIGXOR0SCISOVG-27	0	darkgrey	1	1	inhibited	1	0	0
+N-hsaSIGXOR0SCISOVG-23_activation_N-hsaSIGXOR0SCISOVG-3	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-25_activation_N-hsaSIGXOR0SCISOVG-3	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-9_activation_N-hsaSIGXOR0SCISOVG-23	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-11_inhibition_N-hsaSIGXOR0SCISOVG-14	0	darkgrey	1	1	inhibited	1	1	0
+N-hsaSIGXOR0SCISOVG-26_inhibition_N-hsaSIGXOR0SCISOVG-27	0	darkgrey	1	1	inhibited	1	0	0
+N-hsaSIGXOR0SCISOVG-3_activation_N-hsaSIGXOR0SCISOVG-13	0	darkgrey	1	1	directed	1	1	0
+N-hsaSIGXOR0SCISOVG-19 20 21_activation_N-hsaSIGXOR0SCISOVG-28 29	0	darkgrey	1	1	directed	0	1	0
+N-hsaSIGXOR0SCISOVG-2_activation_N-hsaSIGXOR0SCISOVG-28 29	0	darkgrey	1	1	directed	0	1	0
+N-hsaSIGXOR0SCISOVG-22_inhibition_N-hsaSIGXOR0SCISOVG-28 29	0	darkgrey	1	1	inhibited	0	1	0
+N-hsaSIGXOR0SCISOVG-24_activation_N-hsaSIGXOR0SCISOVG-30	0	darkgrey	1	1	directed	0	0	1
+N-hsaSIGXOR0SCISOVG-27_activation_N-hsaSIGXOR0SCISOVG-27_func	DOWN	darkgrey	N-hsaSIGXOR0SCISOVG-27_activation_N-hsaSIGXOR0SCISOVG-27_func	DOWN	directed	1	0	0
+N-hsaSIGXOR0SCISOVG-28 29_activation_N-hsaSIGXOR0SCISOVG-28 29_func	DOWN	darkgrey	N-hsaSIGXOR0SCISOVG-28 29_activation_N-hsaSIGXOR0SCISOVG-28 29_func	DOWN	directed	0	1	0
+N-hsaSIGXOR0SCISOVG-30_activation_N-hsaSIGXOR0SCISOVG-30_func	DOWN	darkgrey	N-hsaSIGXOR0SCISOVG-30_activation_N-hsaSIGXOR0SCISOVG-30_func	DOWN	directed	0	0	1

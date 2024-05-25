@@ -1,0 +1,13 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsaSIGXOR0CB-1	ALDH9A1	0	0	white	rectangle	gene	0.5	black	46	17	223	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P49189>P49189</a> (ALDH9A1)
+N-hsaSIGXOR0CB-2	SHMT1	400	50	white	rectangle	gene	0.5	black	46	17	6470	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P34896>P34896</a> (SHMT1)
+N-hsaSIGXOR0CB-3	N(6),N(6),N(6)-trimethyl-L-lysine	600	200	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:17311>CHEBI:17311</a> (N(6),N(6),N(6)-trimethyl-L-lysine)
+N-hsaSIGXOR0CB-4	TMLHE	300	250	white	rectangle	gene	0.5	black	46	17	55217	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9NVH6>Q9NVH6</a> (TMLHE)
+N-hsaSIGXOR0CB-5	2-oxoglutarate(2-)	100	350	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16810>CHEBI:16810</a> (2-oxoglutarate(2-))
+N-hsaSIGXOR0CB-6	4-trimethylammoniobutanal	300	50	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:18020>CHEBI:18020</a> (4-trimethylammoniobutanal)
+N-hsaSIGXOR0CB-7	BBOX1	0	200	white	rectangle	gene	0.5	black	46	17	8424	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O75936>O75936</a> (BBOX1)
+N-hsaSIGXOR0CB-8	3-hydroxy-N(6),N(6),N(6)-trimethyl-L-lysine	400	150	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:15786>CHEBI:15786</a> (3-hydroxy-N(6),N(6),N(6)-trimethyl-L-lysine)
+N-hsaSIGXOR0CB-9	4-(trimethylammonio)butanoate	100	50	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16244>CHEBI:16244</a> (4-(trimethylammonio)butanoate)
+N-hsaSIGXOR0CB-10	succinate(2-)	100	300	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:30031>CHEBI:30031</a> (succinate(2-))
+N-hsaSIGXOR0CB-11	glycine zwitterion	500	100	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:57305>CHEBI:57305</a> (glycine zwitterion)
+N-hsaSIGXOR0CB-12	carnitine	0	150	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:17126>CHEBI:17126</a> (carnitine)

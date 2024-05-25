@@ -1,0 +1,13 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0RAM-12
+N-hsaSIGXOR0RAM-1	ALDH1A2	10	600	150	white	lightgrey	2	ellipse	node	0.5	black	22	8854	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O94788>O94788</a> (ALDH1A2)	1
+N-hsaSIGXOR0RAM-2	retinal	10	200	150	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:15035>CHEBI:15035</a> (retinal)	1
+N-hsaSIGXOR0RAM-3	retinol	10	100	250	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:50211>CHEBI:50211</a> (retinol)	1
+N-hsaSIGXOR0RAM-4	RDH5	10	100	100	white	lightgrey	2	ellipse	node	0.5	black	22	5959	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q92781>Q92781</a> (RDH5)	1
+N-hsaSIGXOR0RAM-5	CYP26A1	10	600	50	white	lightgrey	2	ellipse	node	0.5	black	22	1592	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O43174>O43174</a> (CYP26A1)	1
+N-hsaSIGXOR0RAM-6	RBP4	10	100	300	white	lightgrey	2	ellipse	node	0.5	black	22	5950	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P02753>P02753</a> (RBP4)	1
+N-hsaSIGXOR0RAM-7	ALDH1A1	10	500	150	white	lightgrey	2	ellipse	node	0.5	black	22	216	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P00352>P00352</a> (ALDH1A1)	1
+N-hsaSIGXOR0RAM-8	RDH10	10	0	200	white	lightgrey	2	ellipse	node	0.5	black	22	157506	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8IZV5>Q8IZV5</a> (RDH10)	1
+N-hsaSIGXOR0RAM-9	ALDH1A3	10	400	50	white	lightgrey	2	ellipse	node	0.5	black	22	220	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P47895>P47895</a> (ALDH1A3)	1
+N-hsaSIGXOR0RAM-10	DHRS9	10	0	100	white	lightgrey	2	ellipse	node	0.5	black	22	10170	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9BPW9>Q9BPW9</a> (DHRS9)	1
+N-hsaSIGXOR0RAM-11	RBP2	10	500	0	white	lightgrey	2	ellipse	node	0.5	black	22	5948	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P50120>P50120</a> (RBP2)	1
+N-hsaSIGXOR0RAM-12	all-trans-retinoic acid	10	400	100	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:15367>CHEBI:15367</a> (all-trans-retinoic acid)	1

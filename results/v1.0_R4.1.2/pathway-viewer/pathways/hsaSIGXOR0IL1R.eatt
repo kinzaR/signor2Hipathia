@@ -1,0 +1,23 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0IL1R-20
+N-hsaSIGXOR0IL1R-1_activation_N-hsaSIGXOR0IL1R-15	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-2_activation_N-hsaSIGXOR0IL1R-6	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-3_inhibition_N-hsaSIGXOR0IL1R-8 9	0	darkgrey	1	1	inhibited	1
+N-hsaSIGXOR0IL1R-4_activation_N-hsaSIGXOR0IL1R-20	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-5_activation_N-hsaSIGXOR0IL1R-13	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-6_activation_N-hsaSIGXOR0IL1R-15	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-7_inhibition_N-hsaSIGXOR0IL1R-16	0	darkgrey	1	1	inhibited	1
+N-hsaSIGXOR0IL1R-8 9_activation_N-hsaSIGXOR0IL1R-20	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-10 11 12_inhibition_N-hsaSIGXOR0IL1R-3	0	darkgrey	1	1	inhibited	1
+N-hsaSIGXOR0IL1R-13_activation_N-hsaSIGXOR0IL1R-7	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-4_activation_N-hsaSIGXOR0IL1R-2	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-14_activation_N-hsaSIGXOR0IL1R-2	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-8 9_activation_N-hsaSIGXOR0IL1R-17	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-13_activation_N-hsaSIGXOR0IL1R-19	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-15_activation_N-hsaSIGXOR0IL1R-10 11 12	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-13_activation_N-hsaSIGXOR0IL1R-2	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-6_activation_N-hsaSIGXOR0IL1R-1	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-16_inhibition_N-hsaSIGXOR0IL1R-2	0	darkgrey	1	1	inhibited	1
+N-hsaSIGXOR0IL1R-17_inhibition_N-hsaSIGXOR0IL1R-13	0	darkgrey	1	1	inhibited	1
+N-hsaSIGXOR0IL1R-18_activation_N-hsaSIGXOR0IL1R-13	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-19_activation_N-hsaSIGXOR0IL1R-14	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0IL1R-20_activation_N-hsaSIGXOR0IL1R-20_func	DOWN	darkgrey	N-hsaSIGXOR0IL1R-20_activation_N-hsaSIGXOR0IL1R-20_func	DOWN	directed	1

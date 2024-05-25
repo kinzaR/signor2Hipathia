@@ -1,0 +1,11 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsaSIGXOR0FapIXS-1	INS	0	50	white	rectangle	gene	0.5	black	46	17	3630	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01308>P01308</a> (INS)
+N-hsaSIGXOR0FapIXS-2	AKT	300	150	white	rectangle	gene	0.5	black	46	17	208,10000,207	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF24>SIGNOR-PF24</a> (AKT)
+N-hsaSIGXOR0FapIXS-3 4	PI3K	300	50	white	rectangle	gene	0.5	black	46	17	5295,/,5290	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C156>SIGNOR-C156</a> (PI3K)
+N-hsaSIGXOR0FapIXS-5	PIP3	400	100	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16618>CHEBI:16618</a> (PIP3)
+N-hsaSIGXOR0FapIXS-6	PDPK1	400	150	white	rectangle	gene	0.5	black	46	17	5170	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O15530>O15530</a> (PDPK1)
+N-hsaSIGXOR0FapIXS-7	GATA2	200	200	white	rectangle	gene	0.5	black	46	17	2624	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P23769>P23769</a> (GATA2)
+N-hsaSIGXOR0FapIXS-8	INSR	100	50	white	rectangle	gene	0.5	black	46	17	3643	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P06213>P06213</a> (INSR)
+N-hsaSIGXOR0FapIXS-9	FOXO1	200	100	white	rectangle	gene	0.5	black	46	17	2308	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q12778>Q12778</a> (FOXO1)
+N-hsaSIGXOR0FapIXS-10	FOXA2	300	200	white	rectangle	gene	0.5	black	46	17	3170	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y261>Q9Y261</a> (FOXA2)
+N-hsaSIGXOR0FapIXS-11	PPARG	100	200	white	rectangle	gene	0.5	black	46	17	5468	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P37231>P37231</a> (PPARG)

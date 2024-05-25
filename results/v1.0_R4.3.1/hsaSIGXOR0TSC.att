@@ -1,0 +1,11 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsaSIGXOR0TSC-1	TGFb	0	100	white	rectangle	gene	0.5	black	46	17	7040,7043,7042	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF5>SIGNOR-PF5</a> (TGFb)
+N-hsaSIGXOR0TSC-2 3	SMAD3/SMAD4	400	100	white	rectangle	gene	0.5	black	46	17	4088,/,4089	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C9>SIGNOR-C9</a> (SMAD3/SMAD4)
+N-hsaSIGXOR0TSC-3 4	SMAD2/SMAD4	300	50	white	rectangle	gene	0.5	black	46	17	4089,/,4087	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C8>SIGNOR-C8</a> (SMAD2/SMAD4)
+N-hsaSIGXOR0TSC-5	TGFBR2	0	50	white	rectangle	gene	0.5	black	46	17	7048	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P37173>P37173</a> (TGFBR2)
+N-hsaSIGXOR0TSC-2	SMAD3	100	150	white	rectangle	gene	0.5	black	46	17	4088	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P84022>P84022</a> (SMAD3)
+N-hsaSIGXOR0TSC-4	SMAD2	200	200	white	rectangle	gene	0.5	black	46	17	4087	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q15796>Q15796</a> (SMAD2)
+N-hsaSIGXOR0TSC-6 7	AP1	400	50	white	rectangle	gene	0.5	black	46	17	2353,/,3725	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C154>SIGNOR-C154</a> (AP1)
+N-hsaSIGXOR0TSC-8	CDKN2B	300	100	white	rectangle	gene	0.5	black	46	17	1030	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P42772>P42772</a> (CDKN2B)
+N-hsaSIGXOR0TSC-9	TGFBR1	100	0	white	rectangle	gene	0.5	black	46	17	7046	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P36897>P36897</a> (TGFBR1)
+N-hsaSIGXOR0TSC-3	SMAD4	200	200	white	rectangle	gene	0.5	black	46	17	4089	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13485>Q13485</a> (SMAD4)

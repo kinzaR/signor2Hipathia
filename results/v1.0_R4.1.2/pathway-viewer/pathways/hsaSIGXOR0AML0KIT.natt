@@ -1,0 +1,32 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0AML0KIT-25	P-hsaSIGXOR0AML0KIT-28	P-hsaSIGXOR0AML0KIT-26	P-hsaSIGXOR0AML0KIT-27
+N-hsaSIGXOR0AML0KIT-1 2	PI3K	10	700	250	white	lightgrey	2	ellipse	node	0.62	black	22	5295,/,5290	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C156>SIGNOR-C156</a> (PI3K)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-3	AKT	10	500	350	white	lightgrey	2	ellipse	node	0.62	black	22	208,10000,207	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF24>SIGNOR-PF24</a> (AKT)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-4	GRB2	10	200	150	white	lightgrey	2	ellipse	node	0.62	black	22	2885	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P62993>P62993</a> (GRB2)	1	1	0	0
+N-hsaSIGXOR0AML0KIT-5	TP53	10	600	50	white	lightgrey	2	ellipse	node	0.62	black	22	7157	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P04637>P04637</a> (TP53)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-6	CUX1	10	800	150	white	lightgrey	2	ellipse	node	0.62	black	22	1523	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P39880>P39880</a> (CUX1)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-7	KITLG	10	200	50	white	lightgrey	2	ellipse	node	0.62	black	22	4254	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P21583>P21583</a> (KITLG)	1	1	0	0
+N-hsaSIGXOR0AML0KIT-8	BRAF	10	400	250	white	lightgrey	2	ellipse	node	0.62	black	22	673	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15056>P15056</a> (BRAF)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-9	CBL	10	300	100	white	lightgrey	2	ellipse	node	0.62	black	22	867	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P22681>P22681</a> (CBL)	0	1	0	0
+N-hsaSIGXOR0AML0KIT-10	SH2B3	10	0	200	white	lightgrey	2	ellipse	node	0.62	black	22	10019	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9UQQ2>Q9UQQ2</a> (SH2B3)	0	0	1	0
+N-hsaSIGXOR0AML0KIT-11	ERK1/2	10	600	150	white	lightgrey	2	ellipse	node	0.62	black	22	5594,5595	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF1>SIGNOR-PF1</a> (ERK1/2)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-12	CDK1	10	800	100	white	lightgrey	2	ellipse	node	0.62	black	22	983	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P06493>P06493</a> (CDK1)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-13	PDPK1	10	600	350	white	lightgrey	2	ellipse	node	0.62	black	22	5170	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O15530>O15530</a> (PDPK1)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-14	SOS1	10	200	200	white	lightgrey	2	ellipse	node	0.62	black	22	6654	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q07889>Q07889</a> (SOS1)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-15	PIK3IP1	10	800	200	white	lightgrey	2	ellipse	node	0.62	black	22	113791	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q96FE7>Q96FE7</a> (PIK3IP1)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-16	PIP3	10	700	300	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16618>CHEBI:16618</a> (PIP3)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-17	PTPN11	10	200	300	white	lightgrey	2	ellipse	node	0.62	black	22	5781	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06124>Q06124</a> (PTPN11)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-18	MTOR	10	400	350	white	lightgrey	2	ellipse	node	0.62	black	22	2475	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P42345>P42345</a> (MTOR)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-19	KIT	10	200	100	white	lightgrey	2	ellipse	node	0.62	black	22	3815	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10721>P10721</a> (KIT)	1	1	0	0
+N-hsaSIGXOR0AML0KIT-20	MEK1/2	10	500	200	white	lightgrey	2	ellipse	node	0.62	black	22	5605,5604	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF25>SIGNOR-PF25</a> (MEK1/2)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-21	NRAS	10	300	250	white	lightgrey	2	ellipse	node	0.62	black	22	4893	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01111>P01111</a> (NRAS)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-22	CBFbeta-MYH11	10	200	400	white	lightgrey	2	ellipse	node	0.62	black	22	4629,865	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-FP3>SIGNOR-FP3</a> (CBFbeta-MYH11)	0	0	0	1
+N-hsaSIGXOR0AML0KIT-23	CBLB	10	100	100	white	lightgrey	2	ellipse	node	0.62	black	22	868	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13191>Q13191</a> (CBLB)	1	1	0	0
+N-hsaSIGXOR0AML0KIT-24	JAK2	10	300	50	white	lightgrey	2	ellipse	node	0.62	black	22	3717	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O60674>O60674</a> (JAK2)	0	1	0	0
+N-hsaSIGXOR0AML0KIT-25	BCL2	10	600	100	white	lightgrey	2	ellipse	node	0.62	black	22	596	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10415>P10415</a> (BCL2)	1	0	0	0
+N-hsaSIGXOR0AML0KIT-26	BCL2L1	10	0	250	white	lightgrey	2	ellipse	node	0.62	black	22	598	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q07817>Q07817</a> (BCL2L1)	0	0	1	0
+N-hsaSIGXOR0AML0KIT-27	RUNX1	10	100	350	white	lightgrey	2	ellipse	node	0.62	black	22	861	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q01196>Q01196</a> (RUNX1)	0	0	0	1
+N-hsaSIGXOR0AML0KIT-28	STAT3	10	400	0	white	lightgrey	2	ellipse	node	0.62	black	22	6774	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P40763>P40763</a> (STAT3)	0	1	0	0
+N-hsaSIGXOR0AML0KIT-25_func	Apoptosis	10	785.711426359888	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	1	0	0	0
+N-hsaSIGXOR0AML0KIT-26_func	Apoptosis	10	199.939406770382	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	0	0	1	0
+N-hsaSIGXOR0AML0KIT-27_func	Transcription regulation	10	299.939406770382	350	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	0	0	1
+N-hsaSIGXOR0AML0KIT-28_func	T_cell_activation	10	599.939406770382	0	white	lightgrey	2	rectangle	node	0.62	black	-1		T_cell_activation	0	1	0	0

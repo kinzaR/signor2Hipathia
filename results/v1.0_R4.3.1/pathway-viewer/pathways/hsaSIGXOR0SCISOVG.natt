@@ -1,0 +1,31 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0SCISOVG-27	P-hsaSIGXOR0SCISOVG-28 29	P-hsaSIGXOR0SCISOVG-30
+N-hsaSIGXOR0SCISOVG-1	6(P0DTC6)	10	600	300	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P0DTC6>P0DTC6</a> (6)	1	1	0
+N-hsaSIGXOR0SCISOVG-2	TBK1	10	300	100	white	lightgrey	2	ellipse	node	0.62	black	22	29110	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9UHD2>Q9UHD2</a> (TBK1)	1	1	0
+N-hsaSIGXOR0SCISOVG-3	MAVS	10	500	100	white	lightgrey	2	ellipse	node	0.62	black	22	57506	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q7Z434>Q7Z434</a> (MAVS)	1	1	0
+N-hsaSIGXOR0SCISOVG-4	Helicase	10	200	50	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P0DTD1-PRO_0000449630>P0DTD1-PRO_0000449630</a> (Helicase)	1	1	0
+N-hsaSIGXOR0SCISOVG-5	Uridylate-specific endoribonuclease	10	800	100	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P0C6X7-PRO_0000037321>P0C6X7-PRO_0000037321</a> (Uridylate-specific endoribonuclease)	1	1	0
+N-hsaSIGXOR0SCISOVG-6	Non-structural protein 6	10	300	0	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P0DTD1-PRO_0000449624>P0DTD1-PRO_0000449624</a> (Non-structural protein 6)	1	1	0
+N-hsaSIGXOR0SCISOVG-7	Papain-like proteinase	10	300	150	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P0C6X7-PRO_0000037311>P0C6X7-PRO_0000037311</a> (Papain-like proteinase)	1	1	0
+N-hsaSIGXOR0SCISOVG-8	6(P59634)	10	400	250	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P59634>P59634</a> (6)	1	1	0
+N-hsaSIGXOR0SCISOVG-9	Viral_dsRNA	10	700	200	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-ST21>SIGNOR-ST21</a> (Viral_dsRNA)	1	1	0
+N-hsaSIGXOR0SCISOVG-10	8a	10	200	250	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q7TFA0>Q7TFA0</a> (8a)	1	0	0
+N-hsaSIGXOR0SCISOVG-11	ORF4b	10	400	0	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=K9N643>K9N643</a> (ORF4b)	1	1	0
+N-hsaSIGXOR0SCISOVG-12	Host translation inhibitor nsp1	10	300	250	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P0C6X7-PRO_0000037309>P0C6X7-PRO_0000037309</a> (Host translation inhibitor nsp1)	1	0	0
+N-hsaSIGXOR0SCISOVG-13	STING1	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	340061	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q86WV6>Q86WV6</a> (STING1)	1	1	0
+N-hsaSIGXOR0SCISOVG-14	IKBKE	10	400	50	white	lightgrey	2	ellipse	node	0.62	black	22	9641	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q14164>Q14164</a> (IKBKE)	1	1	0
+N-hsaSIGXOR0SCISOVG-15	3b	10	100	200	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P59633>P59633</a> (3b)	1	0	0
+N-hsaSIGXOR0SCISOVG-16	9b	10	600	50	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P59636>P59636</a> (9b)	1	1	0
+N-hsaSIGXOR0SCISOVG-17	M	10	600	100	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P0DTC5>P0DTC5</a> (M)	1	1	0
+N-hsaSIGXOR0SCISOVG-18	Viral_replication	10	800	250	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-ST23>SIGNOR-ST23</a> (Viral_replication)	1	1	0
+N-hsaSIGXOR0SCISOVG-19 20 21	IKK-complex	10	0	100	white	lightgrey	2	ellipse	node	0.62	black	22	3551,/,8517,/,1147	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C14>SIGNOR-C14</a> (IKK-complex)	0	1	0
+N-hsaSIGXOR0SCISOVG-22	N	10	100	150	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P59595>P59595</a> (N)	1	1	0
+N-hsaSIGXOR0SCISOVG-23	IFIH1	10	700	150	white	lightgrey	2	ellipse	node	0.62	black	22	64135	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9BYX4>Q9BYX4</a> (IFIH1)	1	1	0
+N-hsaSIGXOR0SCISOVG-24	TICAM1	10	500	350	white	lightgrey	2	ellipse	node	0.62	black	22	148022	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8IUC6>Q8IUC6</a> (TICAM1)	0	0	1
+N-hsaSIGXOR0SCISOVG-25	DDX58	10	600	200	white	lightgrey	2	ellipse	node	0.62	black	22	23586	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O95786>O95786</a> (DDX58)	1	1	0
+N-hsaSIGXOR0SCISOVG-26	8b	10	200	300	white	lightgrey	2	ellipse	node	0.62	black	22	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q80H93>Q80H93</a> (8b)	1	0	0
+N-hsaSIGXOR0SCISOVG-27	IRF3	10	300	200	white	lightgrey	2	ellipse	node	0.62	black	22	3661	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q14653>Q14653</a> (IRF3)	1	0	0
+N-hsaSIGXOR0SCISOVG-28 29	NfKb-p65/p50	10	100	100	white	lightgrey	2	ellipse	node	0.62	black	22	5970,/,4790	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C13>SIGNOR-C13</a> (NfKb-p65/p50)	0	1	0
+N-hsaSIGXOR0SCISOVG-30	RIPK1	10	400	400	white	lightgrey	2	ellipse	node	0.62	black	22	8737	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13546>Q13546</a> (RIPK1)	0	0	1
+N-hsaSIGXOR0SCISOVG-27_func	Immune_response	10	499.941833085063	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Immune_response	1	0	0
+N-hsaSIGXOR0SCISOVG-28 29_func	Host-virus interaction, ...	10	285.711588714241	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Host-virus interaction<br>Transcription regulation	0	1	0
+N-hsaSIGXOR0SCISOVG-30_func	Necrosis	10	599.941833085063	400	white	lightgrey	2	rectangle	node	0.62	black	-1		Necrosis	0	0	1

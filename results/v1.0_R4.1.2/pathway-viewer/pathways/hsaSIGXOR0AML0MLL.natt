@@ -1,0 +1,25 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0AML0MLL-16	P-hsaSIGXOR0AML0MLL-21	P-hsaSIGXOR0AML0MLL-15	P-hsaSIGXOR0AML0MLL-17	P-hsaSIGXOR0AML0MLL-18	P-hsaSIGXOR0AML0MLL-20	P-hsaSIGXOR0AML0MLL-19
+N-hsaSIGXOR0AML0MLL-1	DOT1L	10	400	150	white	lightgrey	2	ellipse	node	0.62	black	22	84444	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8TEK3>Q8TEK3</a> (DOT1L)	1	1	1	1	1	1	0
+N-hsaSIGXOR0AML0MLL-2	MCL1	10	400	250	white	lightgrey	2	ellipse	node	0.62	black	22	4170	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q07820>Q07820</a> (MCL1)	1	1	0	0	0	0	0
+N-hsaSIGXOR0AML0MLL-3	MLL-AF4	10	500	100	white	lightgrey	2	ellipse	node	0.62	black	22	4297,4299	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-FP4>SIGNOR-FP4</a> (MLL-AF4)	1	1	1	1	1	1	0
+N-hsaSIGXOR0AML0MLL-4 5 6 7 8	AEP complex	10	300	100	white	lightgrey	2	ellipse	node	0.62	black	22	27125,/,4299,/,904,/,1025,/,4298	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C117>SIGNOR-C117</a> (AEP complex)	0	0	0	0	1	1	0
+N-hsaSIGXOR0AML0MLL-9	MLL-ENL	10	400	50	white	lightgrey	2	ellipse	node	0.62	black	22	4298,4297	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-FP7>SIGNOR-FP7</a> (MLL-ENL)	0	0	0	1	1	1	0
+N-hsaSIGXOR0AML0MLL-10	RAD21	10	200	0	white	lightgrey	2	ellipse	node	0.62	black	22	5885	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O60216>O60216</a> (RAD21)	0	0	0	1	0	0	0
+N-hsaSIGXOR0AML0MLL-11	MLL-AF9	10	200	50	white	lightgrey	2	ellipse	node	0.62	black	22	4297,4300	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-FP5>SIGNOR-FP5</a> (MLL-AF9)	0	0	0	1	1	1	0
+N-hsaSIGXOR0AML0MLL-12	PHF6	10	0	200	white	lightgrey	2	ellipse	node	0.62	black	22	84295	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8IWS0>Q8IWS0</a> (PHF6)	0	0	0	0	0	0	1
+N-hsaSIGXOR0AML0MLL-13	MLL Fusion	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	4297,4299,4300,4298	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-FP14>SIGNOR-FP14</a> (MLL Fusion)	1	1	1	1	1	1	0
+N-hsaSIGXOR0AML0MLL-14	RUNX1	10	300	50	white	lightgrey	2	ellipse	node	0.62	black	22	861	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q01196>Q01196</a> (RUNX1)	0	0	0	1	0	0	0
+N-hsaSIGXOR0AML0MLL-15	BCL2	10	600	150	white	lightgrey	2	ellipse	node	0.62	black	22	596	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10415>P10415</a> (BCL2)	0	0	1	0	0	0	0
+N-hsaSIGXOR0AML0MLL-16	BAK1	10	500	300	white	lightgrey	2	ellipse	node	0.62	black	22	578	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q16611>Q16611</a> (BAK1)	1	0	0	0	0	0	0
+N-hsaSIGXOR0AML0MLL-17	MYC	10	349.349813423329	99.8148744405696	white	lightgrey	2	ellipse	node	0.62	black	22	4609	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01106>P01106</a> (MYC)	0	0	0	1	0	0	0
+N-hsaSIGXOR0AML0MLL-18	HOXA9	10	400	200	white	lightgrey	2	ellipse	node	0.62	black	22	3205	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P31269>P31269</a> (HOXA9)	0	0	0	0	1	0	0
+N-hsaSIGXOR0AML0MLL-19	UBTF	10	-10.873194314112	175.7470496441	white	lightgrey	2	ellipse	node	0.62	black	22	7343	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P17480>P17480</a> (UBTF)	0	0	0	0	0	0	1
+N-hsaSIGXOR0AML0MLL-20	MEIS1	10	300	150	white	lightgrey	2	ellipse	node	0.62	black	22	4211	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O00470>O00470</a> (MEIS1)	0	0	0	0	0	1	0
+N-hsaSIGXOR0AML0MLL-21	BAX	10	300	300	white	lightgrey	2	ellipse	node	0.62	black	22	581	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q07812>Q07812</a> (BAX)	0	1	0	0	0	0	0
+N-hsaSIGXOR0AML0MLL-15_func	Apoptosis	10	697.014250014532	150	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	0	0	1	0	0	0	0
+N-hsaSIGXOR0AML0MLL-16_func	Apoptosis	10	597.014250014532	300	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	1	0	0	0	0	0	0
+N-hsaSIGXOR0AML0MLL-17_func	Proliferation	10	446.282838317005	114.527841790122	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	0	1	0	0	0
+N-hsaSIGXOR0AML0MLL-18_func	Transcription	10	497.014250014532	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription	0	0	0	0	1	0	0
+N-hsaSIGXOR0AML0MLL-19_func	Transcription	10	76.5401610176946	200.023748007489	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription	0	0	0	0	0	0	1
+N-hsaSIGXOR0AML0MLL-20_func	Proliferation	10	390.937732152199	150	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	0	0	0	1	0
+N-hsaSIGXOR0AML0MLL-21_func	Apoptosis	10	397.014250014532	300	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	0	1	0	0	0	0	0

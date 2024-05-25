@@ -1,0 +1,22 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0AML10ETO-12	P-hsaSIGXOR0AML10ETO-15	P-hsaSIGXOR0AML10ETO-14	P-hsaSIGXOR0AML10ETO-13	P-hsaSIGXOR0AML10ETO-16
+N-hsaSIGXOR0AML10ETO-1	SOX4	10	100	150	white	lightgrey	2	ellipse	node	0.62	black	22	6659	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06945>Q06945</a> (SOX4)	1	0	0	0	0
+N-hsaSIGXOR0AML10ETO-2	prostaglandin E2(1-)	10	0	50	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:606564>CHEBI:606564</a> (prostaglandin E2(1-))	1	0	0	0	0
+N-hsaSIGXOR0AML10ETO-3	PTGS2	10	100	0	white	lightgrey	2	ellipse	node	0.62	black	22	5743	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P35354>P35354</a> (PTGS2)	1	0	0	0	0
+N-hsaSIGXOR0AML10ETO-4	JUN	10	300	250	white	lightgrey	2	ellipse	node	0.62	black	22	3725	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P05412>P05412</a> (JUN)	0	0	0	1	0
+N-hsaSIGXOR0AML10ETO-5	FLT3	10	100	250	white	lightgrey	2	ellipse	node	0.62	black	22	2322	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P36888>P36888</a> (FLT3)	1	1	0	0	0
+N-hsaSIGXOR0AML10ETO-6	SRSF2	10	500	150	white	lightgrey	2	ellipse	node	0.62	black	22	6427	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q01130>Q01130</a> (SRSF2)	0	0	1	0	0
+N-hsaSIGXOR0AML10ETO-7	MDM2	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	4193	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q00987>Q00987</a> (MDM2)	0	0	1	0	0
+N-hsaSIGXOR0AML10ETO-8	CEBPA	10	100	200	white	lightgrey	2	ellipse	node	0.62	black	22	1050	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P49715>P49715</a> (CEBPA)	1	1	0	0	0
+N-hsaSIGXOR0AML10ETO-9	AML1-ETO	10	300	200	white	lightgrey	2	ellipse	node	0.62	black	22	861,862	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-FP1>SIGNOR-FP1</a> (AML1-ETO)	1	1	1	1	0
+N-hsaSIGXOR0AML10ETO-10	CDKN2A	10	400	150	white	lightgrey	2	ellipse	node	0.62	black	22	1029	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8N726>Q8N726</a> (CDKN2A)	0	0	1	0	0
+N-hsaSIGXOR0AML10ETO-11	PTPRC	10	200	0	white	lightgrey	2	ellipse	node	0.62	black	22	5788	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P08575>P08575</a> (PTPRC)	0	0	0	0	1
+N-hsaSIGXOR0AML10ETO-12	CTNNB1	10	0	100	white	lightgrey	2	ellipse	node	0.62	black	22	1499	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P35222>P35222</a> (CTNNB1)	1	0	0	0	0
+N-hsaSIGXOR0AML10ETO-13	SPI1	10	400	250	white	lightgrey	2	ellipse	node	0.62	black	22	6688	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P17947>P17947</a> (SPI1)	0	0	0	1	0
+N-hsaSIGXOR0AML10ETO-14	TP53	10	500	50	white	lightgrey	2	ellipse	node	0.62	black	22	7157	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P04637>P04637</a> (TP53)	0	0	1	0	0
+N-hsaSIGXOR0AML10ETO-15	MYC	10	0	200	white	lightgrey	2	ellipse	node	0.62	black	22	4609	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01106>P01106</a> (MYC)	0	1	0	0	0
+N-hsaSIGXOR0AML10ETO-16	JAK2	10	300	0	white	lightgrey	2	ellipse	node	0.62	black	22	3717	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O60674>O60674</a> (JAK2)	0	0	0	0	1
+N-hsaSIGXOR0AML10ETO-12_func	Proliferation	10	199.959105295981	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	1	0	0	0	0
+N-hsaSIGXOR0AML10ETO-13_func	Transcription regulation	10	599.959105295981	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	0	0	1	0
+N-hsaSIGXOR0AML10ETO-14_func	Proliferation	10	699.959105295981	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	1	0	0
+N-hsaSIGXOR0AML10ETO-15_func	Proliferation	10	199.959105295981	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	1	0	0	0
+N-hsaSIGXOR0AML10ETO-16_func	Adaptive immunity	10	499.95910529598	0	white	lightgrey	2	rectangle	node	0.62	black	-1		Adaptive immunity	0	0	0	0	1

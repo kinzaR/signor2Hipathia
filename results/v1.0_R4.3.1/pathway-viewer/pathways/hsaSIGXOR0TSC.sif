@@ -1,0 +1,12 @@
+N-hsaSIGXOR0TSC-1	activation	N-hsaSIGXOR0TSC-5
+N-hsaSIGXOR0TSC-5	activation	N-hsaSIGXOR0TSC-9
+N-hsaSIGXOR0TSC-2 3	activation	N-hsaSIGXOR0TSC-6 7
+N-hsaSIGXOR0TSC-3 4	activation	N-hsaSIGXOR0TSC-6 7
+N-hsaSIGXOR0TSC-2 3	activation	N-hsaSIGXOR0TSC-8
+N-hsaSIGXOR0TSC-3 4	activation	N-hsaSIGXOR0TSC-8
+N-hsaSIGXOR0TSC-2	activation	N-hsaSIGXOR0TSC-3
+N-hsaSIGXOR0TSC-4	activation	N-hsaSIGXOR0TSC-3
+N-hsaSIGXOR0TSC-6 7	activation	N-hsaSIGXOR0TSC-6 7_func
+N-hsaSIGXOR0TSC-8	activation	N-hsaSIGXOR0TSC-8_func
+N-hsaSIGXOR0TSC-9	activation	N-hsaSIGXOR0TSC-9_func
+N-hsaSIGXOR0TSC-3	activation	N-hsaSIGXOR0TSC-3_func

@@ -1,0 +1,48 @@
+N-hsaSIGXOR0CC-2	inhibition	N-hsaSIGXOR0CC-15
+N-hsaSIGXOR0CC-2	inhibition	N-hsaSIGXOR0CC-21
+N-hsaSIGXOR0CC-3	inhibition	N-hsaSIGXOR0CC-24 22
+N-hsaSIGXOR0CC-3	inhibition	N-hsaSIGXOR0CC-22 30
+N-hsaSIGXOR0CC-8 9 10 11 12 13 14	inhibition	N-hsaSIGXOR0CC-28
+N-hsaSIGXOR0CC-15	inhibition	N-hsaSIGXOR0CC-24 22
+N-hsaSIGXOR0CC-15	inhibition	N-hsaSIGXOR0CC-22 30
+N-hsaSIGXOR0CC-17 18 19	inhibition	N-hsaSIGXOR0CC-15
+N-hsaSIGXOR0CC-21	inhibition	N-hsaSIGXOR0CC-24 22
+N-hsaSIGXOR0CC-21	inhibition	N-hsaSIGXOR0CC-22 30
+N-hsaSIGXOR0CC-22 23	activation	N-hsaSIGXOR0CC-34
+N-hsaSIGXOR0CC-24 22	activation	N-hsaSIGXOR0CC-3
+N-hsaSIGXOR0CC-24 22	activation	N-hsaSIGXOR0CC-15
+N-hsaSIGXOR0CC-24 22	activation	N-hsaSIGXOR0CC-21
+N-hsaSIGXOR0CC-24 22	activation	N-hsaSIGXOR0CC-28
+N-hsaSIGXOR0CC-25	activation	N-hsaSIGXOR0CC-15
+N-hsaSIGXOR0CC-25	activation	N-hsaSIGXOR0CC-21
+N-hsaSIGXOR0CC-25	activation	N-hsaSIGXOR0CC-31
+N-hsaSIGXOR0CC-26	activation	N-hsaSIGXOR0CC-22 30
+N-hsaSIGXOR0CC-27	activation	N-hsaSIGXOR0CC-25
+N-hsaSIGXOR0CC-28	inhibition	N-hsaSIGXOR0CC-24 22
+N-hsaSIGXOR0CC-28	inhibition	N-hsaSIGXOR0CC-22 30
+N-hsaSIGXOR0CC-22 30	activation	N-hsaSIGXOR0CC-34
+N-hsaSIGXOR0CC-31	inhibition	N-hsaSIGXOR0CC-21
+N-hsaSIGXOR0CC-1	activation	N-hsaSIGXOR0CC-20
+N-hsaSIGXOR0CC-4	inhibition	N-hsaSIGXOR0CC-30
+N-hsaSIGXOR0CC-5	inhibition	N-hsaSIGXOR0CC-30
+N-hsaSIGXOR0CC-6	activation	N-hsaSIGXOR0CC-30
+N-hsaSIGXOR0CC-7	inhibition	N-hsaSIGXOR0CC-4
+N-hsaSIGXOR0CC-7	activation	N-hsaSIGXOR0CC-30
+N-hsaSIGXOR0CC-8 9 10 11 12 13 14	activation	N-hsaSIGXOR0CC-20
+N-hsaSIGXOR0CC-16	activation	N-hsaSIGXOR0CC-30
+N-hsaSIGXOR0CC-20	activation	N-hsaSIGXOR0CC-4
+N-hsaSIGXOR0CC-20	activation	N-hsaSIGXOR0CC-30
+N-hsaSIGXOR0CC-29	activation	N-hsaSIGXOR0CC-1
+N-hsaSIGXOR0CC-33	activation	N-hsaSIGXOR0CC-29
+N-hsaSIGXOR0CC-4	inhibition	N-hsaSIGXOR0CC-24
+N-hsaSIGXOR0CC-7	activation	N-hsaSIGXOR0CC-24
+N-hsaSIGXOR0CC-26	activation	N-hsaSIGXOR0CC-32
+N-hsaSIGXOR0CC-32	activation	N-hsaSIGXOR0CC-37
+N-hsaSIGXOR0CC-25	activation	N-hsaSIGXOR0CC-35
+N-hsaSIGXOR0CC-1	inhibition	N-hsaSIGXOR0CC-36
+N-hsaSIGXOR0CC-24	activation	N-hsaSIGXOR0CC-24_func
+N-hsaSIGXOR0CC-30	activation	N-hsaSIGXOR0CC-30_func
+N-hsaSIGXOR0CC-34	activation	N-hsaSIGXOR0CC-34_func
+N-hsaSIGXOR0CC-35	activation	N-hsaSIGXOR0CC-35_func
+N-hsaSIGXOR0CC-36	activation	N-hsaSIGXOR0CC-36_func
+N-hsaSIGXOR0CC-37	activation	N-hsaSIGXOR0CC-37_func

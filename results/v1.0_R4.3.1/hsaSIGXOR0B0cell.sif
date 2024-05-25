@@ -1,0 +1,61 @@
+N-hsaSIGXOR0B0cell-1 2	activation	N-hsaSIGXOR0B0cell-26
+N-hsaSIGXOR0B0cell-3	activation	N-hsaSIGXOR0B0cell-20
+N-hsaSIGXOR0B0cell-4	activation	N-hsaSIGXOR0B0cell-30
+N-hsaSIGXOR0B0cell-5	activation	N-hsaSIGXOR0B0cell-28 15 16 17
+N-hsaSIGXOR0B0cell-6	inhibition	N-hsaSIGXOR0B0cell-40
+N-hsaSIGXOR0B0cell-7	activation	N-hsaSIGXOR0B0cell-30
+N-hsaSIGXOR0B0cell-8	activation	N-hsaSIGXOR0B0cell-41
+N-hsaSIGXOR0B0cell-6	inhibition	N-hsaSIGXOR0B0cell-8
+N-hsaSIGXOR0B0cell-9	inhibition	N-hsaSIGXOR0B0cell-26
+N-hsaSIGXOR0B0cell-10	activation	N-hsaSIGXOR0B0cell-24 25
+N-hsaSIGXOR0B0cell-3	inhibition	N-hsaSIGXOR0B0cell-19
+N-hsaSIGXOR0B0cell-11 12 13	activation	N-hsaSIGXOR0B0cell-42 43
+N-hsaSIGXOR0B0cell-3	activation	N-hsaSIGXOR0B0cell-35 15 16 14
+N-hsaSIGXOR0B0cell-14 15 16 17	activation	N-hsaSIGXOR0B0cell-8
+N-hsaSIGXOR0B0cell-18	activation	N-hsaSIGXOR0B0cell-9
+N-hsaSIGXOR0B0cell-19	activation	N-hsaSIGXOR0B0cell-6
+N-hsaSIGXOR0B0cell-20	activation	N-hsaSIGXOR0B0cell-18
+N-hsaSIGXOR0B0cell-21	inhibition	N-hsaSIGXOR0B0cell-1 2
+N-hsaSIGXOR0B0cell-6	inhibition	N-hsaSIGXOR0B0cell-16
+N-hsaSIGXOR0B0cell-22	activation	N-hsaSIGXOR0B0cell-31
+N-hsaSIGXOR0B0cell-23	activation	N-hsaSIGXOR0B0cell-11 12 13
+N-hsaSIGXOR0B0cell-24 25	activation	N-hsaSIGXOR0B0cell-44
+N-hsaSIGXOR0B0cell-5	activation	N-hsaSIGXOR0B0cell-35 15 16 14
+N-hsaSIGXOR0B0cell-26	activation	N-hsaSIGXOR0B0cell-22
+N-hsaSIGXOR0B0cell-6	inhibition	N-hsaSIGXOR0B0cell-15
+N-hsaSIGXOR0B0cell-8	activation	N-hsaSIGXOR0B0cell-40
+N-hsaSIGXOR0B0cell-3	activation	N-hsaSIGXOR0B0cell-14 15 16 17
+N-hsaSIGXOR0B0cell-27	activation	N-hsaSIGXOR0B0cell-14 15 16 17
+N-hsaSIGXOR0B0cell-28 15 16 17	activation	N-hsaSIGXOR0B0cell-8
+N-hsaSIGXOR0B0cell-3	activation	N-hsaSIGXOR0B0cell-28 15 16 35
+N-hsaSIGXOR0B0cell-4	activation	N-hsaSIGXOR0B0cell-39
+N-hsaSIGXOR0B0cell-9	inhibition	N-hsaSIGXOR0B0cell-4
+N-hsaSIGXOR0B0cell-29	activation	N-hsaSIGXOR0B0cell-28 15 16 17
+N-hsaSIGXOR0B0cell-30	activation	N-hsaSIGXOR0B0cell-10
+N-hsaSIGXOR0B0cell-7	activation	N-hsaSIGXOR0B0cell-39
+N-hsaSIGXOR0B0cell-31	activation	N-hsaSIGXOR0B0cell-38
+N-hsaSIGXOR0B0cell-10	activation	N-hsaSIGXOR0B0cell-32
+N-hsaSIGXOR0B0cell-27	activation	N-hsaSIGXOR0B0cell-35 15 16 14
+N-hsaSIGXOR0B0cell-4	inhibition	N-hsaSIGXOR0B0cell-7
+N-hsaSIGXOR0B0cell-3	activation	N-hsaSIGXOR0B0cell-28 15 16 17
+N-hsaSIGXOR0B0cell-29	activation	N-hsaSIGXOR0B0cell-14 15 16 17
+N-hsaSIGXOR0B0cell-32	activation	N-hsaSIGXOR0B0cell-24 25
+N-hsaSIGXOR0B0cell-33 34	activation	N-hsaSIGXOR0B0cell-45
+N-hsaSIGXOR0B0cell-35 15 16 14	activation	N-hsaSIGXOR0B0cell-8
+N-hsaSIGXOR0B0cell-36	activation	N-hsaSIGXOR0B0cell-30
+N-hsaSIGXOR0B0cell-29	activation	N-hsaSIGXOR0B0cell-35 15 16 14
+N-hsaSIGXOR0B0cell-37	activation	N-hsaSIGXOR0B0cell-36
+N-hsaSIGXOR0B0cell-22	activation	N-hsaSIGXOR0B0cell-46
+N-hsaSIGXOR0B0cell-38	activation	N-hsaSIGXOR0B0cell-33 34
+N-hsaSIGXOR0B0cell-21	inhibition	N-hsaSIGXOR0B0cell-26
+N-hsaSIGXOR0B0cell-5	activation	N-hsaSIGXOR0B0cell-28 15 16 35
+N-hsaSIGXOR0B0cell-29	activation	N-hsaSIGXOR0B0cell-28 15 16 35
+N-hsaSIGXOR0B0cell-39	activation	N-hsaSIGXOR0B0cell-46
+N-hsaSIGXOR0B0cell-29	activation	N-hsaSIGXOR0B0cell-37
+N-hsaSIGXOR0B0cell-28 15 16 35	activation	N-hsaSIGXOR0B0cell-8
+N-hsaSIGXOR0B0cell-5	activation	N-hsaSIGXOR0B0cell-14 15 16 17
+N-hsaSIGXOR0B0cell-27	activation	N-hsaSIGXOR0B0cell-28 15 16 35
+N-hsaSIGXOR0B0cell-27	activation	N-hsaSIGXOR0B0cell-28 15 16 17
+N-hsaSIGXOR0B0cell-9	inhibition	N-hsaSIGXOR0B0cell-8
+N-hsaSIGXOR0B0cell-36	activation	N-hsaSIGXOR0B0cell-46
+N-hsaSIGXOR0B0cell-24 25	activation	N-hsaSIGXOR0B0cell-45

@@ -1,0 +1,10 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0WXT-28
+N-hsaSIGXOR0WXT-1_activation_N-hsaSIGXOR0WXT-23	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0WXT-3_activation_N-hsaSIGXOR0WXT-28	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0WXT-4_activation_N-hsaSIGXOR0WXT-23	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0WXT-6_activation_N-hsaSIGXOR0WXT-23	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0WXT-12_activation_N-hsaSIGXOR0WXT-3	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0WXT-16_activation_N-hsaSIGXOR0WXT-23	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0WXT-18_activation_N-hsaSIGXOR0WXT-23	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0WXT-23_activation_N-hsaSIGXOR0WXT-12	0	darkgrey	1	1	directed	1
+N-hsaSIGXOR0WXT-28_activation_N-hsaSIGXOR0WXT-28_func	DOWN	darkgrey	N-hsaSIGXOR0WXT-28_activation_N-hsaSIGXOR0WXT-28_func	DOWN	directed	1

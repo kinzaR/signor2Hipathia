@@ -1,0 +1,20 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0TI-110	P-hsaSIGXOR0TI-12	P-hsaSIGXOR0TI-108	P-hsaSIGXOR0TI-109
+N-hsaSIGXOR0TI-29 30 31 32 33_activation_N-hsaSIGXOR0TI-38	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0TI-38_activation_N-hsaSIGXOR0TI-90 24 23 90 15 17 102 103 104 105 106 107 81 13	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0TI-39 40_activation_N-hsaSIGXOR0TI-90 24 23 90 15 17 102 103 104 105 106 107 81 13	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0TI-80_activation_N-hsaSIGXOR0TI-90 24 23 90 15 17 102 103 104 105 106 107 81 13	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0TI-90 24 23 90 15 17 102 103 104 105 106 107 81 13_activation_N-hsaSIGXOR0TI-110	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0TI-1 2 3 4 5 6 7 8 9 10 11_inhibition_N-hsaSIGXOR0TI-12	0	darkgrey	1	1	inhibited	0	1	0	0
+N-hsaSIGXOR0TI-1 2 3 4 5 6 7 8 9 10 11_activation_N-hsaSIGXOR0TI-12	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0TI-34 35_activation_N-hsaSIGXOR0TI-1 2 3 4 5 6 7 8 9 10 11	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0TI-67 68 69 70 71 72 73 74 75 76 77 78 32 79_activation_N-hsaSIGXOR0TI-12	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0TI-12 13 14 15 16 17 18 19 20 21 22 16 23 24 25 26_activation_N-hsaSIGXOR0TI-108	0	darkgrey	1	1	directed	0	0	1	0
+N-hsaSIGXOR0TI-27 28_activation_N-hsaSIGXOR0TI-12 13 14 15 16 17 18 19 20 21 22 16 23 24 25 26	0	darkgrey	1	1	directed	0	0	1	0
+N-hsaSIGXOR0TI-36 37_activation_N-hsaSIGXOR0TI-12 13 14 15 16 17 18 19 20 21 22 16 23 24 25 26	0	darkgrey	1	1	directed	0	0	1	0
+N-hsaSIGXOR0TI-41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66_activation_N-hsaSIGXOR0TI-12 13 14 15 16 17 18 19 20 21 22 16 23 24 25 26	0	darkgrey	1	1	directed	0	0	1	0
+N-hsaSIGXOR0TI-67 68 69 70 71 72 73 74 75 76 77 78 32 79_activation_N-hsaSIGXOR0TI-27 28	0	darkgrey	1	1	directed	0	0	1	0
+N-hsaSIGXOR0TI-39 40_activation_N-hsaSIGXOR0TI-24 13 81 82 83 84 85 86 87 88 89 90 15 17 91 92 23	0	darkgrey	1	1	directed	0	0	0	1
+N-hsaSIGXOR0TI-24 13 81 82 83 84 85 86 87 88 89 90 15 17 91 92 23_activation_N-hsaSIGXOR0TI-109	0	darkgrey	1	1	directed	0	0	0	1
+N-hsaSIGXOR0TI-93 94 95 32_activation_N-hsaSIGXOR0TI-24 13 81 82 83 84 85 86 87 88 89 90 15 17 91 92 23	0	darkgrey	1	1	directed	0	0	0	1
+N-hsaSIGXOR0TI-96 97 98 99 100 101_activation_N-hsaSIGXOR0TI-24 13 81 82 83 84 85 86 87 88 89 90 15 17 91 92 23	0	darkgrey	1	1	directed	0	0	0	1
+N-hsaSIGXOR0TI-12_activation_N-hsaSIGXOR0TI-12_func	DOWN	darkgrey	N-hsaSIGXOR0TI-12_activation_N-hsaSIGXOR0TI-12_func	DOWN	directed	0	1	0	0

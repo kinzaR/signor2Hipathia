@@ -1,0 +1,13 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0TSC-9	P-hsaSIGXOR0TSC-6 7	P-hsaSIGXOR0TSC-8	P-hsaSIGXOR0TSC-3
+N-hsaSIGXOR0TSC-1_activation_N-hsaSIGXOR0TSC-5	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0TSC-5_activation_N-hsaSIGXOR0TSC-9	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0TSC-2 3_activation_N-hsaSIGXOR0TSC-6 7	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0TSC-3 4_activation_N-hsaSIGXOR0TSC-6 7	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0TSC-2 3_activation_N-hsaSIGXOR0TSC-8	0	darkgrey	1	1	directed	0	0	1	0
+N-hsaSIGXOR0TSC-3 4_activation_N-hsaSIGXOR0TSC-8	0	darkgrey	1	1	directed	0	0	1	0
+N-hsaSIGXOR0TSC-2_activation_N-hsaSIGXOR0TSC-3	0	darkgrey	1	1	directed	0	0	0	1
+N-hsaSIGXOR0TSC-4_activation_N-hsaSIGXOR0TSC-3	0	darkgrey	1	1	directed	0	0	0	1
+N-hsaSIGXOR0TSC-6 7_activation_N-hsaSIGXOR0TSC-6 7_func	DOWN	darkgrey	N-hsaSIGXOR0TSC-6 7_activation_N-hsaSIGXOR0TSC-6 7_func	DOWN	directed	0	1	0	0
+N-hsaSIGXOR0TSC-8_activation_N-hsaSIGXOR0TSC-8_func	DOWN	darkgrey	N-hsaSIGXOR0TSC-8_activation_N-hsaSIGXOR0TSC-8_func	DOWN	directed	0	0	1	0
+N-hsaSIGXOR0TSC-9_activation_N-hsaSIGXOR0TSC-9_func	DOWN	darkgrey	N-hsaSIGXOR0TSC-9_activation_N-hsaSIGXOR0TSC-9_func	DOWN	directed	1	0	0	0
+N-hsaSIGXOR0TSC-3_activation_N-hsaSIGXOR0TSC-3_func	DOWN	darkgrey	N-hsaSIGXOR0TSC-3_activation_N-hsaSIGXOR0TSC-3_func	DOWN	directed	0	0	0	1

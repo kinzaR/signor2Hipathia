@@ -1,0 +1,11 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsaSIGXOR0WC-1 2 3	GSK3B/Axin/APC	300	200	white	rectangle	gene	0.5	black	46	17	2932,/,324,/,8312	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C110>SIGNOR-C110</a> (GSK3B/Axin/APC)
+N-hsaSIGXOR0WC-4	Wnt	500	400	white	rectangle	gene	0.5	black	46	17	81029,54361,7479,7471,7480,7473,7478,89780,80326,7476,7482,7474,7481,7483,51384,7472,7475,7484,7477	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF40>SIGNOR-PF40</a> (Wnt)
+N-hsaSIGXOR0WC-5	CTNNB1	200	100	white	rectangle	gene	0.5	black	46	17	1499	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P35222>P35222</a> (CTNNB1)
+N-hsaSIGXOR0WC-6	RNF146	200	250	white	rectangle	gene	0.5	black	46	17	81847	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9NTX7>Q9NTX7</a> (RNF146)
+N-hsaSIGXOR0WC-7	LEF1	100	50	white	rectangle	gene	0.5	black	46	17	51176	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9UJU2>Q9UJU2</a> (LEF1)
+N-hsaSIGXOR0WC-8 9	LPR5/6	400	300	white	rectangle	gene	0.5	black	46	17	4040,/,4041	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C219>SIGNOR-C219</a> (LPR5/6)
+N-hsaSIGXOR0WC-10	CSNK1A1	300	50	white	rectangle	gene	0.5	black	46	17	1452	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P48729>P48729</a> (CSNK1A1)
+N-hsaSIGXOR0WC-11	DVL1	500	200	white	rectangle	gene	0.5	black	46	17	1855	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O14640>O14640</a> (DVL1)
+N-hsaSIGXOR0WC-12	Frizzled	500	450	white	rectangle	gene	0.5	black	46	17	8322,8323,11211,8321,2535,7976,8326,8324,8325,7855	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF11>SIGNOR-PF11</a> (Frizzled)
+N-hsaSIGXOR0WC-13	MYC	0	0	white	rectangle	gene	0.5	black	46	17	4609	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01106>P01106</a> (MYC)

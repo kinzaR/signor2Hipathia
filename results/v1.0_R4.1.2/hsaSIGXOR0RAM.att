@@ -1,0 +1,13 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsaSIGXOR0RAM-1	ALDH1A2	100	150	white	rectangle	gene	0.5	black	46	17	8854	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O94788>O94788</a> (ALDH1A2)
+N-hsaSIGXOR0RAM-2	CYP26A1	300	50	white	rectangle	gene	0.5	black	46	17	1592	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O43174>O43174</a> (CYP26A1)
+N-hsaSIGXOR0RAM-3	retinal	400	200	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:15035>CHEBI:15035</a> (retinal)
+N-hsaSIGXOR0RAM-4	retinol	600	150	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:50211>CHEBI:50211</a> (retinol)
+N-hsaSIGXOR0RAM-5	RDH5	400	250	white	rectangle	gene	0.5	black	46	17	5959	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q92781>Q92781</a> (RDH5)
+N-hsaSIGXOR0RAM-6	ALDH1A3	0	100	white	rectangle	gene	0.5	black	46	17	220	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P47895>P47895</a> (ALDH1A3)
+N-hsaSIGXOR0RAM-7	RBP4	700	150	white	rectangle	gene	0.5	black	46	17	5950	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P02753>P02753</a> (RBP4)
+N-hsaSIGXOR0RAM-8	RBP2	0	50	white	rectangle	gene	0.5	black	46	17	5948	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P50120>P50120</a> (RBP2)
+N-hsaSIGXOR0RAM-9	DHRS9	300	250	white	rectangle	gene	0.5	black	46	17	10170	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9BPW9>Q9BPW9</a> (DHRS9)
+N-hsaSIGXOR0RAM-10	RDH10	500	200	white	rectangle	gene	0.5	black	46	17	157506	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8IZV5>Q8IZV5</a> (RDH10)
+N-hsaSIGXOR0RAM-11	ALDH1A1	200	0	white	rectangle	gene	0.5	black	46	17	216	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P00352>P00352</a> (ALDH1A1)
+N-hsaSIGXOR0RAM-12	all-trans-retinoic acid	200	100	white	circle	coumpound	0.5	black	46	17	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:15367>CHEBI:15367</a> (all-trans-retinoic acid)

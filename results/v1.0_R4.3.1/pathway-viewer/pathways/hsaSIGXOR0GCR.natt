@@ -1,0 +1,23 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0GCR-18	P-hsaSIGXOR0GCR-15	P-hsaSIGXOR0GCR-16	P-hsaSIGXOR0GCR-17
+N-hsaSIGXOR0GCR-1	MAPK1	10	200	50	white	lightgrey	2	ellipse	node	0.62	black	22	5594	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P28482>P28482</a> (MAPK1)	1	1	1	1
+N-hsaSIGXOR0GCR-2	prednisone	10	0	250	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:8382>CHEBI:8382</a> (prednisone)	1	1	1	1
+N-hsaSIGXOR0GCR-3	NR3C1	10	200	250	white	lightgrey	2	ellipse	node	0.62	black	22	2908	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P04150>P04150</a> (NR3C1)	1	1	1	1
+N-hsaSIGXOR0GCR-4	budesonide	10	300	350	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:3207>CHEBI:3207</a> (budesonide)	1	1	1	1
+N-hsaSIGXOR0GCR-5	6alpha-methylprednisolone	10	100	350	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:6888>CHEBI:6888</a> (6alpha-methylprednisolone)	1	1	1	1
+N-hsaSIGXOR0GCR-6	dexamethasone	10	100	300	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:41879>CHEBI:41879</a> (dexamethasone)	1	1	1	1
+N-hsaSIGXOR0GCR-7	MAPK3	10	0	100	white	lightgrey	2	ellipse	node	0.62	black	22	5595	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P27361>P27361</a> (MAPK3)	1	1	0	0
+N-hsaSIGXOR0GCR-8	MAPK14	10	300	150	white	lightgrey	2	ellipse	node	0.62	black	22	1432	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q16539>Q16539</a> (MAPK14)	1	1	1	1
+N-hsaSIGXOR0GCR-9	prednisolone	10	300	300	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:8378>CHEBI:8378</a> (prednisolone)	1	1	1	1
+N-hsaSIGXOR0GCR-10	dehydroepiandrosterone	10	400	250	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:28689>CHEBI:28689</a> (dehydroepiandrosterone)	1	1	1	1
+N-hsaSIGXOR0GCR-11	betamethasone	10	100	200	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:3077>CHEBI:3077</a> (betamethasone)	1	1	1	1
+N-hsaSIGXOR0GCR-12	NCOA1	10	100	100	white	lightgrey	2	ellipse	node	0.62	black	22	8648	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q15788>Q15788</a> (NCOA1)	1	0	0	0
+N-hsaSIGXOR0GCR-13	HSP90AA1	10	400	200	white	lightgrey	2	ellipse	node	0.62	black	22	3320	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P07900>P07900</a> (HSP90AA1)	1	1	1	1
+N-hsaSIGXOR0GCR-14	cortisone	10	400	150	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16962>CHEBI:16962</a> (cortisone)	1	1	1	1
+N-hsaSIGXOR0GCR-15	JUN	10	100	150	white	lightgrey	2	ellipse	node	0.62	black	22	3725	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P05412>P05412</a> (JUN)	0	1	0	0
+N-hsaSIGXOR0GCR-16	NFKB1	10	400	300	white	lightgrey	2	ellipse	node	0.62	black	22	4790	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P19838>P19838</a> (NFKB1)	0	0	1	0
+N-hsaSIGXOR0GCR-17	HNF4A	10	200	300	white	lightgrey	2	ellipse	node	0.62	black	22	3172	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P41235>P41235</a> (HNF4A)	0	0	0	1
+N-hsaSIGXOR0GCR-18	STAT5A	10	100	0	white	lightgrey	2	ellipse	node	0.62	black	22	6776	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P42229>P42229</a> (STAT5A)	1	0	0	0
+N-hsaSIGXOR0GCR-15_func	Proliferation	10	285.712596930173	150	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	1	0	0
+N-hsaSIGXOR0GCR-16_func	Transcription regulation	10	599.957943806219	300	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	0	1	0
+N-hsaSIGXOR0GCR-17_func	Transcription regulation	10	385.712596930173	300	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	0	0	1
+N-hsaSIGXOR0GCR-18_func	Proliferation	10	299.957943806219	0	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	1	0	0	0

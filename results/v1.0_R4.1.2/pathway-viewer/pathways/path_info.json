@@ -1,0 +1,1455 @@
+[
+{
+	"id":"hsaSIGXOR0AAAM",
+	"name":"Aspartate and asparagine metabolism",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AAAM-24", "name":"Aspartate and asparagine metabolism: beta-alanine zwitterion", "shortname":"beta-alanine zwitterion", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AAAM-27", "name":"Aspartate and asparagine metabolism: AMP", "shortname":"AMP", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AAAM-29", "name":"Aspartate and asparagine metabolism: acetic acid", "shortname":"acetic acid", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AAAM-28", "name":"Aspartate and asparagine metabolism: gamma-aminobutyric acid", "shortname":"gamma-aminobutyric acid", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AAAM-25", "name":"Aspartate and asparagine metabolism: ammonia", "shortname":"ammonia", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AAAM-26", "name":"Aspartate and asparagine metabolism: coenzyme A(4-)", "shortname":"coenzyme A(4-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AC",
+	"name":"Adipogenesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AC-17", "name":"Adipogenesis: SMAD3", "shortname":"SMAD3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AC-21", "name":"Adipogenesis: FOXO1", "shortname":"FOXO1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AC-22", "name":"Adipogenesis: CEBPB", "shortname":"CEBPB", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AC-20", "name":"Adipogenesis: CREB1", "shortname":"CREB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AC-25", "name":"Adipogenesis: PPARG", "shortname":"PPARG", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AC-19", "name":"Adipogenesis: SOS1", "shortname":"SOS1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AC-18", "name":"Adipogenesis: RAF1", "shortname":"RAF1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AC-24", "name":"Adipogenesis: NR3C1", "shortname":"NR3C1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AC-23", "name":"Adipogenesis: KLF5", "shortname":"KLF5", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AML",
+	"name":"Acute Myeloid Leukemia",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AML-123", "name":"Acute Myeloid Leukemia: HOXA9", "shortname":"HOXA9", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-124", "name":"Acute Myeloid Leukemia: MEIS1", "shortname":"MEIS1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-132", "name":"Acute Myeloid Leukemia: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-137", "name":"Acute Myeloid Leukemia: CEBPB", "shortname":"CEBPB", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-128", "name":"Acute Myeloid Leukemia: FOS", "shortname":"FOS", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-136", "name":"Acute Myeloid Leukemia: hsa-mir-223", "shortname":"hsa-mir-223", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-138", "name":"Acute Myeloid Leukemia: HHEX", "shortname":"HHEX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-131", "name":"Acute Myeloid Leukemia: BAX", "shortname":"BAX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-144", "name":"Acute Myeloid Leukemia: BAK1", "shortname":"BAK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-128 104", "name":"Acute Myeloid Leukemia: AP1", "shortname":"AP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-140", "name":"Acute Myeloid Leukemia: CCND1", "shortname":"CCND1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-129", "name":"Acute Myeloid Leukemia: EP300", "shortname":"EP300", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-135", "name":"Acute Myeloid Leukemia: BAD", "shortname":"BAD", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-139", "name":"Acute Myeloid Leukemia: STAT3", "shortname":"STAT3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-130", "name":"Acute Myeloid Leukemia: CTNNB1", "shortname":"CTNNB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-125", "name":"Acute Myeloid Leukemia: mir-143", "shortname":"mir-143", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-126", "name":"Acute Myeloid Leukemia: IGF1", "shortname":"IGF1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-134", "name":"Acute Myeloid Leukemia: PAX7", "shortname":"PAX7", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-127", "name":"Acute Myeloid Leukemia: miR-338", "shortname":"miR-338", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-133", "name":"Acute Myeloid Leukemia: UBTF", "shortname":"UBTF", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-142", "name":"Acute Myeloid Leukemia: HES1", "shortname":"HES1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-141", "name":"Acute Myeloid Leukemia: mir-10b", "shortname":"mir-10b", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML-143", "name":"Acute Myeloid Leukemia: BCL2L1", "shortname":"BCL2L1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AML10ETO",
+	"name":"AML1-ETO in AML",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AML10ETO-13", "name":"AML1-ETO in AML: CTNNB1", "shortname":"CTNNB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML10ETO-16", "name":"AML1-ETO in AML: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML10ETO-14", "name":"AML1-ETO in AML: TP53", "shortname":"TP53", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML10ETO-12", "name":"AML1-ETO in AML: SPI1", "shortname":"SPI1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML10ETO-15", "name":"AML1-ETO in AML: JAK2", "shortname":"JAK2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AML0DXMT3A",
+	"name":"DNMT3A in AML",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AML0DXMT3A-15", "name":"DNMT3A in AML: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0DXMT3A-12", "name":"DNMT3A in AML: MEIS1", "shortname":"MEIS1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0DXMT3A-13", "name":"DNMT3A in AML: HOXA9", "shortname":"HOXA9", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0DXMT3A-14", "name":"DNMT3A in AML: CCND1", "shortname":"CCND1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0DXMT3A-16", "name":"DNMT3A in AML: WT1", "shortname":"WT1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AML0FLT3",
+	"name":"FLT3 in AML",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AML0FLT3-32 33", "name":"FLT3 in AML: AP1", "shortname":"AP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0FLT3-35", "name":"FLT3 in AML: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0FLT3-30", "name":"FLT3 in AML: FOXO", "shortname":"FOXO", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0FLT3-36", "name":"FLT3 in AML: EP300", "shortname":"EP300", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0FLT3-40", "name":"FLT3 in AML: CBL", "shortname":"CBL", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0FLT3-38", "name":"FLT3 in AML: HHEX", "shortname":"HHEX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0FLT3-31", "name":"FLT3 in AML: CTNNB1", "shortname":"CTNNB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0FLT3-37", "name":"FLT3 in AML: PTPN6", "shortname":"PTPN6", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0FLT3-39", "name":"FLT3 in AML: CCNA1", "shortname":"CCNA1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0FLT3-34", "name":"FLT3 in AML: PIM", "shortname":"PIM", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AML0KIT",
+	"name":"KIT in AML",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AML0KIT-25", "name":"KIT in AML: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0KIT-28", "name":"KIT in AML: STAT3", "shortname":"STAT3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0KIT-26", "name":"KIT in AML: BCL2L1", "shortname":"BCL2L1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0KIT-27", "name":"KIT in AML: RUNX1", "shortname":"RUNX1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AML_miRXA",
+	"name":"miRNA in AML",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AML_miRXA-29", "name":"miRNA in AML: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_miRXA-25", "name":"miRNA in AML: CEBPB", "shortname":"CEBPB", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_miRXA-28", "name":"miRNA in AML: FOS", "shortname":"FOS", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_miRXA-22", "name":"miRNA in AML: miR-338", "shortname":"miR-338", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_miRXA-23", "name":"miRNA in AML: PAX7", "shortname":"PAX7", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_miRXA-26", "name":"miRNA in AML: IGF1", "shortname":"IGF1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_miRXA-24", "name":"miRNA in AML: mir-143", "shortname":"mir-143", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_miRXA-27", "name":"miRNA in AML: hsa-mir-223", "shortname":"hsa-mir-223", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_miRXA-30", "name":"miRNA in AML: mir-10b", "shortname":"mir-10b", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AML0MLL",
+	"name":"MLL fusion protein in AML",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AML0MLL-16", "name":"MLL fusion protein in AML: BAK1", "shortname":"BAK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0MLL-21", "name":"MLL fusion protein in AML: BAX", "shortname":"BAX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0MLL-15", "name":"MLL fusion protein in AML: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0MLL-17", "name":"MLL fusion protein in AML: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0MLL-18", "name":"MLL fusion protein in AML: HOXA9", "shortname":"HOXA9", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0MLL-20", "name":"MLL fusion protein in AML: MEIS1", "shortname":"MEIS1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML0MLL-19", "name":"MLL fusion protein in AML: UBTF", "shortname":"UBTF", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AML_TF",
+	"name":"HaematopoiesisTranscriptionalControl",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AML_TF-15", "name":"HaematopoiesisTranscriptionalControl: TAL1", "shortname":"TAL1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_TF-13", "name":"HaematopoiesisTranscriptionalControl: FLI1", "shortname":"FLI1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_TF-12", "name":"HaematopoiesisTranscriptionalControl: GFI1", "shortname":"GFI1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_TF-14", "name":"HaematopoiesisTranscriptionalControl: RUNX1", "shortname":"RUNX1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AML_TRIXLETS",
+	"name":"AML_TRIPLETS",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AML_TRIXLETS-17", "name":"AML_TRIPLETS: HOXA9", "shortname":"HOXA9", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_TRIXLETS-15", "name":"AML_TRIPLETS: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_TRIXLETS-18", "name":"AML_TRIPLETS: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_TRIXLETS-16", "name":"AML_TRIPLETS: SOX4", "shortname":"SOX4", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_TRIXLETS-20", "name":"AML_TRIPLETS: CCND1", "shortname":"CCND1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AML_TRIXLETS-19", "name":"AML_TRIPLETS: MEIS1", "shortname":"MEIS1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0AMXK",
+	"name":"AMPK Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0AMXK-34", "name":"AMPK Signaling: AKT", "shortname":"AKT", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AMXK-31", "name":"AMPK Signaling: FOXO3", "shortname":"FOXO3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AMXK-32", "name":"AMPK Signaling: PPARGC1A", "shortname":"PPARGC1A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AMXK-33", "name":"AMPK Signaling: PFKFB2", "shortname":"PFKFB2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0AMXK-35", "name":"AMPK Signaling: CREB1", "shortname":"CREB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0Autophagy",
+	"name":"Autophagy",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0Autophagy-24", "name":"Autophagy: SQSTM1", "shortname":"SQSTM1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Autophagy-25", "name":"Autophagy: ATG12", "shortname":"ATG12", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Autophagy-32 25 33", "name":"Autophagy: ATG12/5/16L1", "shortname":"ATG12/5/16L1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Autophagy-26", "name":"Autophagy: PIK3C3", "shortname":"PIK3C3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Autophagy-27", "name":"Autophagy: BECN1", "shortname":"BECN1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Autophagy-29 30 31", "name":"Autophagy: ULK1/Atg13/Fip200", "shortname":"ULK1/Atg13/Fip200", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Autophagy-28", "name":"Autophagy: MAP1LC3C", "shortname":"MAP1LC3C", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0B0cell",
+	"name":"B-cell activation",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0B0cell-40", "name":"B-cell activation: BTK", "shortname":"BTK", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0B0cell-43", "name":"B-cell activation: BLNK", "shortname":"BLNK", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0B0cell-44", "name":"B-cell activation: NFATC2", "shortname":"NFATC2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0B0cell-46", "name":"B-cell activation: NFATC1", "shortname":"NFATC1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0B0cell-45", "name":"B-cell activation: PRKCA", "shortname":"PRKCA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0B0cell-7", "name":"B-cell activation: CD79B", "shortname":"CD79B", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0B0cell-6", "name":"B-cell activation: CD79A", "shortname":"CD79A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0B0cell-41 42", "name":"B-cell activation: NfKb-p65/p50", "shortname":"NfKb-p65/p50", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0CB",
+	"name":"Carnitine biosynthesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0CB-12", "name":"Carnitine biosynthesis: carnitine", "shortname":"carnitine", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CB-11", "name":"Carnitine biosynthesis: glycine zwitterion", "shortname":"glycine zwitterion", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CB-10", "name":"Carnitine biosynthesis: succinate(2-)", "shortname":"succinate(2-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0CC",
+	"name":"Circadian clock",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0CC-29", "name":"Circadian clock: ARNTL", "shortname":"ARNTL", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CC-28", "name":"Circadian clock: NPAS2", "shortname":"NPAS2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CC-37", "name":"Circadian clock: PPARG", "shortname":"PPARG", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CC-34", "name":"Circadian clock: SERPINE1", "shortname":"SERPINE1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CC-36", "name":"Circadian clock: FASN", "shortname":"FASN", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CC-35", "name":"Circadian clock: TIMELESS", "shortname":"TIMELESS", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0CM",
+	"name":"Catecholamine metabolism",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0CM-19", "name":"Catecholamine metabolism: 3,4-dihydroxyphenylacetaldehyde", "shortname":"3,4-dihydroxyphenylacetaldehyde", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CM-20", "name":"Catecholamine metabolism: adrenaline", "shortname":"adrenaline", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0CRC",
+	"name":"Colorectal Carcinoma",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0CRC-28", "name":"Colorectal Carcinoma: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CRC-26", "name":"Colorectal Carcinoma: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CRC-27", "name":"Colorectal Carcinoma: PIK3CA", "shortname":"PIK3CA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0CS",
+	"name":"Complement Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0CS-6", "name":"Complement Signaling: C3AR1", "shortname":"C3AR1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CS-7", "name":"Complement Signaling: C2", "shortname":"C2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0CS-8", "name":"Complement Signaling: C5AR1", "shortname":"C5AR1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0DD",
+	"name":"DNA repair in cancer",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0DD-15", "name":"DNA repair in cancer: RAD51", "shortname":"RAD51", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0DD-11", "name":"DNA repair in cancer: RIF1", "shortname":"RIF1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0DD-12", "name":"DNA repair in cancer: MRE11", "shortname":"MRE11", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0DD-13", "name":"DNA repair in cancer: TP53BP1", "shortname":"TP53BP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0DD-14", "name":"DNA repair in cancer: POLH", "shortname":"POLH", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0DD-16 17", "name":"DNA repair in cancer: ERCC4/ERCC1", "shortname":"ERCC4/ERCC1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0DS",
+	"name":"Dopaminergic Synapse",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0DS-19", "name":"Dopaminergic Synapse: NMDA", "shortname":"NMDA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0DS-20", "name":"Dopaminergic Synapse: AMPA", "shortname":"AMPA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0DS-21", "name":"Dopaminergic Synapse: BDNF", "shortname":"BDNF", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0DS-23", "name":"Dopaminergic Synapse: PLCB1", "shortname":"PLCB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0DS-22", "name":"Dopaminergic Synapse: calcium(2+)", "shortname":"calcium(2+)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0EGF",
+	"name":"EGFR Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0EGF-23", "name":"EGFR Signaling: ELK1", "shortname":"ELK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EGF-25", "name":"EGFR Signaling: STAT3", "shortname":"STAT3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EGF-26 27 28 29 30", "name":"EGFR Signaling: mTORC1", "shortname":"mTORC1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EGF-24", "name":"EGFR Signaling: FOS", "shortname":"FOS", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0EI",
+	"name":"EBV infection",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0EI-48", "name":"EBV infection: TLR2", "shortname":"TLR2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-64", "name":"EBV infection: TLR9", "shortname":"TLR9", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-54", "name":"EBV infection: TP53", "shortname":"TP53", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-51 52 53", "name":"EBV infection: NLRP3 inflammasome", "shortname":"NLRP3 inflammasome", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-49", "name":"EBV infection: TYK2", "shortname":"TYK2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-55", "name":"EBV infection: SMAD2", "shortname":"SMAD2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-63", "name":"EBV infection: LYN", "shortname":"LYN", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-6", "name":"EBV infection: IKBKG", "shortname":"IKBKG", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-56", "name":"EBV infection: HLA-DRB1", "shortname":"HLA-DRB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-60", "name":"EBV infection: HLA-DRA", "shortname":"HLA-DRA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-57", "name":"EBV infection: IFNB1", "shortname":"IFNB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-58", "name":"EBV infection: IRF3", "shortname":"IRF3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-50", "name":"EBV infection: CD19", "shortname":"CD19", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-65", "name":"EBV infection: STAT3", "shortname":"STAT3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-59", "name":"EBV infection: TBK1", "shortname":"TBK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0EI-61 62", "name":"EBV infection: AP1", "shortname":"AP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0FapIXS",
+	"name":"FAP: Insulin-mediated adipogenesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0FapIXS-8", "name":"FAP: Insulin-mediated adipogenesis: INSR", "shortname":"Insulin-mediated adipogenesis", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FapIXS-11", "name":"FAP: Insulin-mediated adipogenesis: PPARG", "shortname":"Insulin-mediated adipogenesis", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FapIXS-9", "name":"FAP: Insulin-mediated adipogenesis: FOXO1", "shortname":"Insulin-mediated adipogenesis", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FapIXS-10", "name":"FAP: Insulin-mediated adipogenesis: FOXA2", "shortname":"Insulin-mediated adipogenesis", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0FattyAcidSynthesis",
+	"name":"Fatty Acid Synthesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0FattyAcidSynthesis-25", "name":"Fatty Acid Synthesis: pyruvate", "shortname":"pyruvate", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FattyAcidSynthesis-30", "name":"Fatty Acid Synthesis: NADPH(4-)", "shortname":"NADPH(4-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FattyAcidSynthesis-26", "name":"Fatty Acid Synthesis: arachidonoyl-CoA", "shortname":"arachidonoyl-CoA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FattyAcidSynthesis-29", "name":"Fatty Acid Synthesis: 3-hydroxyoctadecanoyl-CoA", "shortname":"3-hydroxyoctadecanoyl-CoA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FattyAcidSynthesis-28", "name":"Fatty Acid Synthesis: CPT1A", "shortname":"CPT1A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FattyAcidSynthesis-27", "name":"Fatty Acid Synthesis: oxaloacetate(2-)", "shortname":"oxaloacetate(2-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FattyAcidSynthesis-31", "name":"Fatty Acid Synthesis: very long-chain 2,3-trans-enoyl CoA(4-)", "shortname":"very long-chain 2,3-trans-enoyl CoA(4-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0FIIA",
+	"name":"FLT3-ITD in AML",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0FIIA-25", "name":"FLT3-ITD in AML: TP53", "shortname":"TP53", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIIA-24", "name":"FLT3-ITD in AML: BAD", "shortname":"BAD", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIIA-26", "name":"FLT3-ITD in AML: MTOR", "shortname":"MTOR", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIIA-27", "name":"FLT3-ITD in AML: FOXO", "shortname":"FOXO", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIIA-28", "name":"FLT3-ITD in AML: HES1", "shortname":"HES1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIIA-23", "name":"FLT3-ITD in AML: CTNNB1", "shortname":"CTNNB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0FIS",
+	"name":"FLT3-ITD signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0FIS-80", "name":"FLT3-ITD signaling: RB1", "shortname":"RB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-83", "name":"FLT3-ITD signaling: RAD51", "shortname":"RAD51", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-77", "name":"FLT3-ITD signaling: BAX", "shortname":"BAX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-73", "name":"FLT3-ITD signaling: STAT3", "shortname":"STAT3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-67", "name":"FLT3-ITD signaling: FOXO", "shortname":"FOXO", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-81", "name":"FLT3-ITD signaling: H2AX", "shortname":"H2AX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-70 71", "name":"FLT3-ITD signaling: NfKb-p65/p50", "shortname":"NfKb-p65/p50", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-68 69", "name":"FLT3-ITD signaling: CyclinE/CDK2", "shortname":"CyclinE/CDK2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-76", "name":"FLT3-ITD signaling: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-74 75", "name":"FLT3-ITD signaling: AP1", "shortname":"AP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-78", "name":"FLT3-ITD signaling: STK11", "shortname":"STK11", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-72", "name":"FLT3-ITD signaling: CTNNB1", "shortname":"CTNNB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-82", "name":"FLT3-ITD signaling: RPS6KB1", "shortname":"RPS6KB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FIS-79", "name":"FLT3-ITD signaling: STAT5A", "shortname":"STAT5A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0FSGS",
+	"name":"Focal segmental glomerulosclerosis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0FSGS-16", "name":"Focal segmental glomerulosclerosis: ITGB3", "shortname":"ITGB3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FSGS-14", "name":"Focal segmental glomerulosclerosis: AGTR1", "shortname":"AGTR1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FSGS-13", "name":"Focal segmental glomerulosclerosis: bradykinin", "shortname":"bradykinin", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0FSGS-15", "name":"Focal segmental glomerulosclerosis: PAX2", "shortname":"PAX2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0GBM",
+	"name":"Glioblastoma Multiforme",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0GBM-19", "name":"Glioblastoma Multiforme: ELK1", "shortname":"ELK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GBM-21", "name":"Glioblastoma Multiforme: JUN", "shortname":"JUN", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GBM-18", "name":"Glioblastoma Multiforme: CREB1", "shortname":"CREB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GBM-22 23 24 25 26", "name":"Glioblastoma Multiforme: mTORC1", "shortname":"mTORC1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GBM-20", "name":"Glioblastoma Multiforme: PIK3R1", "shortname":"PIK3R1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0GCR",
+	"name":"Glucocorticoid receptor Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0GCR-18", "name":"Glucocorticoid receptor Signaling: STAT5A", "shortname":"STAT5A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GCR-15", "name":"Glucocorticoid receptor Signaling: HNF4A", "shortname":"HNF4A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GCR-16", "name":"Glucocorticoid receptor Signaling: JUN", "shortname":"JUN", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GCR-17", "name":"Glucocorticoid receptor Signaling: NFKB1", "shortname":"NFKB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0Glycolysis",
+	"name":"Glycolysis and Gluconeogenesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0Glycolysis-56", "name":"Glycolysis and Gluconeogenesis: (S)-lactate", "shortname":"(S)-lactate", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Glycolysis-57", "name":"Glycolysis and Gluconeogenesis: acetyl-CoA", "shortname":"acetyl-CoA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0GX",
+	"name":"Glutamine metabolism",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0GX-23", "name":"Glutamine metabolism: 2-oxoglutarate(2-)", "shortname":"2-oxoglutarate(2-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GX-21", "name":"Glutamine metabolism: carbamoyl phosphate(2-)", "shortname":"carbamoyl phosphate(2-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GX-24", "name":"Glutamine metabolism: AMP", "shortname":"AMP", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GX-22", "name":"Glutamine metabolism: GLUD1", "shortname":"GLUD1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GX-25", "name":"Glutamine metabolism: 5-phospho-beta-D-ribosylaminium(1-)", "shortname":"5-phospho-beta-D-ribosylaminium(1-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0GS",
+	"name":"Glutamatergic synapse",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0GS-19", "name":"Glutamatergic synapse: calcium(2+)", "shortname":"calcium(2+)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GS-23", "name":"Glutamatergic synapse: ACTN1", "shortname":"ACTN1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GS-22", "name":"Glutamatergic synapse: SHANK1", "shortname":"SHANK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GS-20", "name":"Glutamatergic synapse: PKA", "shortname":"PKA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0GS-21", "name":"Glutamatergic synapse: PLCB1", "shortname":"PLCB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0Hedgehog",
+	"name":"Sonic Hedgehog",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0Hedgehog-16", "name":"Sonic Hedgehog: GLI2", "shortname":"GLI2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0HT",
+	"name":"Hepatocellular Tumor",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0HT-8", "name":"Hepatocellular Tumor: SMAD4", "shortname":"SMAD4", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0HT-42", "name":"Hepatocellular Tumor: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0HT-40", "name":"Hepatocellular Tumor: Frizzled", "shortname":"Frizzled", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0HT-36 37", "name":"Hepatocellular Tumor: AP1", "shortname":"AP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0HT-39", "name":"Hepatocellular Tumor: GSTA1", "shortname":"GSTA1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0HT-41", "name":"Hepatocellular Tumor: HMOX1", "shortname":"HMOX1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0HT-44", "name":"Hepatocellular Tumor: NQO1", "shortname":"NQO1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0HT-43", "name":"Hepatocellular Tumor: TGFBR1", "shortname":"TGFBR1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0HT-38", "name":"Hepatocellular Tumor: TERT", "shortname":"TERT", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0HT-45", "name":"Hepatocellular Tumor: ERK1/2", "shortname":"ERK1/2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0IL1R",
+	"name":"IL1 Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0IL1R-20", "name":"IL1 Signaling: BIRC3", "shortname":"BIRC3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0Inflammosome",
+	"name":"Inflammosome Activation",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0Inflammosome-29 30 6", "name":"Inflammosome Activation: NLRP3 inflammasome", "shortname":"NLRP3 inflammasome", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-32", "name":"Inflammosome Activation: TNF", "shortname":"TNF", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-38", "name":"Inflammosome Activation: CCL2", "shortname":"CCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-31 30 6", "name":"Inflammosome Activation: AIM2 inflammasome", "shortname":"AIM2 inflammasome", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-6 35 30", "name":"Inflammosome Activation: NLRP1 inflammasome", "shortname":"NLRP1 inflammasome", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-6 30 36 37", "name":"Inflammosome Activation: NLRC4 inflammasome", "shortname":"NLRC4 inflammasome", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-28", "name":"Inflammosome Activation: IL18", "shortname":"IL18", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-40", "name":"Inflammosome Activation: GSDMD", "shortname":"GSDMD", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-33", "name":"Inflammosome Activation: TLRs", "shortname":"TLRs", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-34", "name":"Inflammosome Activation: IRF3", "shortname":"IRF3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0Inflammosome-39", "name":"Inflammosome Activation: RIPK1", "shortname":"RIPK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0IXSR",
+	"name":"Insulin Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0IXSR-29", "name":"Insulin Signaling: SREBF1", "shortname":"SREBF1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IXSR-28", "name":"Insulin Signaling: FOXO3", "shortname":"FOXO3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IXSR-30", "name":"Insulin Signaling: JUN", "shortname":"JUN", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IXSR-32", "name":"Insulin Signaling: GYS1", "shortname":"GYS1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IXSR-31", "name":"Insulin Signaling: EIF4E", "shortname":"EIF4E", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0IOA",
+	"name":"Inhibition of Apoptosis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0IOA-30", "name":"Inhibition of Apoptosis: BAX", "shortname":"BAX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IOA-28 29", "name":"Inhibition of Apoptosis: NfKb-p65/p50", "shortname":"NfKb-p65/p50", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0IoT",
+	"name":"Initiation of Translation",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0IoT-64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116", "name":"Initiation of Translation: 60S cytosolic large ribosomal subunit", "shortname":"60S cytosolic large ribosomal subunit", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IoT-20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54", "name":"Initiation of Translation: 40S cytosolic small ribosomal subunit", "shortname":"40S cytosolic small ribosomal subunit", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IoT-57", "name":"Initiation of Translation: Met-tRNA(Met)", "shortname":"Met-tRNA(Met)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IoT-18", "name":"Initiation of Translation: EIF4B", "shortname":"EIF4B", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IoT-55 56 57 58 59", "name":"Initiation of Translation: Ternary_GTP_eIF2_tRNA_complex", "shortname":"Ternary_GTP_eIF2_tRNA_complex", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IoT-58", "name":"Initiation of Translation: EIF2S1", "shortname":"EIF2S1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0IS",
+	"name":"Integrin Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0IS-31", "name":"Integrin Signaling: ILK", "shortname":"ILK", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IS-28", "name":"Integrin Signaling: TLN1", "shortname":"TLN1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IS-27", "name":"Integrin Signaling: ELK1", "shortname":"ELK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IS-32", "name":"Integrin Signaling: FOXO3", "shortname":"FOXO3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IS-29", "name":"Integrin Signaling: YAP1", "shortname":"YAP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IS-30", "name":"Integrin Signaling: WWTR1", "shortname":"WWTR1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0IS-33 34", "name":"Integrin Signaling: CyclinE/CDK2", "shortname":"CyclinE/CDK2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0LR",
+	"name":"Leptin Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0LR-28", "name":"Leptin Signaling: MC4R", "shortname":"MC4R", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0LR-30", "name":"Leptin Signaling: NPY", "shortname":"NPY", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0LR-31", "name":"Leptin Signaling: AKT", "shortname":"AKT", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0LR-26", "name":"Leptin Signaling: FOS", "shortname":"FOS", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0LR-29", "name":"Leptin Signaling: ACACA", "shortname":"ACACA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0LR-27", "name":"Leptin Signaling: PPARG", "shortname":"PPARG", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0MC",
+	"name":"mTOR in cancer",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0MC-27", "name":"mTOR in cancer: AKT", "shortname":"AKT", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MC-28", "name":"mTOR in cancer: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0MCAXO",
+	"name":"Mitochondrial Control of Apoptosis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0MCAXO-24", "name":"Mitochondrial Control of Apoptosis: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0MD",
+	"name":"Mitochondrial dynamics in T cell exhaustion",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0MD-57 58", "name":"Mitochondrial dynamics in T cell exhaustion: NfKb-p65/p50", "shortname":"NfKb-p65/p50", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-63", "name":"Mitochondrial dynamics in T cell exhaustion: NFKBIA", "shortname":"NFKBIA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-66 29 30 31 32 67", "name":"Mitochondrial dynamics in T cell exhaustion: TCR", "shortname":"TCR", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-69", "name":"Mitochondrial dynamics in T cell exhaustion: CD4", "shortname":"CD4", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-61", "name":"Mitochondrial dynamics in T cell exhaustion: IL2", "shortname":"IL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-64", "name":"Mitochondrial dynamics in T cell exhaustion: NCK1", "shortname":"NCK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-59", "name":"Mitochondrial dynamics in T cell exhaustion: DNM1L", "shortname":"DNM1L", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-60", "name":"Mitochondrial dynamics in T cell exhaustion: LCP2", "shortname":"LCP2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-62", "name":"Mitochondrial dynamics in T cell exhaustion: EIF4E", "shortname":"EIF4E", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-68", "name":"Mitochondrial dynamics in T cell exhaustion: RPTOR", "shortname":"RPTOR", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MD-65", "name":"Mitochondrial dynamics in T cell exhaustion: CD8A", "shortname":"CD8A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0MM",
+	"name":"Malignant Melanoma",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0MM-27", "name":"Malignant Melanoma: BAK1", "shortname":"BAK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MM-28", "name":"Malignant Melanoma: BAX", "shortname":"BAX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MM-26", "name":"Malignant Melanoma: BCL2L1", "shortname":"BCL2L1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MM-25", "name":"Malignant Melanoma: E2F1", "shortname":"E2F1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MM-29", "name":"Malignant Melanoma: MITF", "shortname":"MITF", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0MS",
+	"name":"MTOR Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0MS-39", "name":"MTOR Signaling: SREBF1", "shortname":"SREBF1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MS-37", "name":"MTOR Signaling: RPS6", "shortname":"RPS6", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MS-38", "name":"MTOR Signaling: AKT", "shortname":"AKT", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MS-44", "name":"MTOR Signaling: PPARG", "shortname":"PPARG", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MS-43", "name":"MTOR Signaling: IRS1", "shortname":"IRS1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MS-41", "name":"MTOR Signaling: PPARGC1A", "shortname":"PPARGC1A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MS-45", "name":"MTOR Signaling: EIF4E", "shortname":"EIF4E", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MS-40", "name":"MTOR Signaling: RPTOR", "shortname":"RPTOR", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MS-42", "name":"MTOR Signaling: TFEB", "shortname":"TFEB", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0MS-46", "name":"MTOR Signaling: AKT1S1", "shortname":"AKT1S1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XFKBC",
+	"name":"NF-KB Canonical",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XFKBC-24 25", "name":"NF-KB Canonical: NfKb-p65/p50", "shortname":"NfKb-p65/p50", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XFKBC-23", "name":"NF-KB Canonical: TRAF2", "shortname":"TRAF2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XFKBXC",
+	"name":"NF-KB Non Canonical",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XFKBXC-16", "name":"NF-KB Non Canonical: TRAF3", "shortname":"TRAF3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XFKBXC-15", "name":"NF-KB Non Canonical: RELB", "shortname":"RELB", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XFKBXC-17 18 8", "name":"NF-KB Non Canonical: IKK-complex", "shortname":"IKK-complex", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XM",
+	"name":"Nucleotide Biosynthesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XM-62", "name":"Nucleotide Biosynthesis: L-glutamate(1-)", "shortname":"L-glutamate(1-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XM-68", "name":"Nucleotide Biosynthesis: guanosine 5-monophosphate", "shortname":"guanosine 5-monophosphate", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XM-69", "name":"Nucleotide Biosynthesis: (6S)-5,6,7,8-tetrahydrofolate(2-)", "shortname":"(6S)-5,6,7,8-tetrahydrofolate(2-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XM-70", "name":"Nucleotide Biosynthesis: fumarate(2-)", "shortname":"fumarate(2-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XM-67", "name":"Nucleotide Biosynthesis: UMP", "shortname":"UMP", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XM-63", "name":"Nucleotide Biosynthesis: AMP", "shortname":"AMP", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XM-71", "name":"Nucleotide Biosynthesis: ubiquinol", "shortname":"ubiquinol", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XM-65", "name":"Nucleotide Biosynthesis: GDP", "shortname":"GDP", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XM-66", "name":"Nucleotide Biosynthesis: ADP(3-)", "shortname":"ADP(3-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XM-64", "name":"Nucleotide Biosynthesis: PKA", "shortname":"PKA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XOTCH",
+	"name":"NOTCH Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XOTCH-21", "name":"NOTCH Signaling: VEGFA", "shortname":"VEGFA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XOTCH-20", "name":"NOTCH Signaling: NFKB1", "shortname":"NFKB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XOTCH-17", "name":"NOTCH Signaling: HEY1", "shortname":"HEY1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XOTCH-18", "name":"NOTCH Signaling: MYOD1", "shortname":"MYOD1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XOTCH-22", "name":"NOTCH Signaling: NRARP", "shortname":"NRARP", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XOTCH-19", "name":"NOTCH Signaling: JAG1", "shortname":"JAG1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XOTCH_Myogenesis",
+	"name":"NOTCH Signaling and Myogenesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XOTCH_Myogenesis-18", "name":"NOTCH Signaling and Myogenesis: MYOG", "shortname":"MYOG", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XOTCH_Myogenesis-19", "name":"NOTCH Signaling and Myogenesis: NRARP", "shortname":"NRARP", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XOTCH_Myogenesis-20", "name":"NOTCH Signaling and Myogenesis: HEY1", "shortname":"HEY1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XXM10FLT30DXMT3A",
+	"name":"Triple mutant AML",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XXM10FLT30DXMT3A-11", "name":"Triple mutant AML: BCL2", "shortname":"BCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXM10FLT30DXMT3A-12", "name":"Triple mutant AML: CCND1", "shortname":"CCND1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXM10FLT30DXMT3A-13", "name":"Triple mutant AML: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXM10FLT30DXMT3A-14", "name":"Triple mutant AML: SOX4", "shortname":"SOX4", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXM10FLT30DXMT3A-16", "name":"Triple mutant AML: MEIS1", "shortname":"MEIS1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXM10FLT30DXMT3A-15", "name":"Triple mutant AML: HOXA9", "shortname":"HOXA9", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XR",
+	"name":"Neurotransmitters release",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XR-24", "name":"Neurotransmitters release: STX1A", "shortname":"STX1A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XR-27", "name":"Neurotransmitters release: SNAP25", "shortname":"SNAP25", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XR-25", "name":"Neurotransmitters release: VAMP2", "shortname":"VAMP2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XR-29", "name":"Neurotransmitters release: SCRIB", "shortname":"SCRIB", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XR-28", "name":"Neurotransmitters release: SYN1", "shortname":"SYN1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XR-25 27 24", "name":"Neurotransmitters release: SNARE_complex", "shortname":"SNARE_complex", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XR-26", "name":"Neurotransmitters release: RAB3A", "shortname":"RAB3A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XS",
+	"name":"Noonan syndrome",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XS-16", "name":"Noonan syndrome: ELK1", "shortname":"ELK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XS-15", "name":"Noonan syndrome: GAB1", "shortname":"GAB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XS-17", "name":"Noonan syndrome: SHC1", "shortname":"SHC1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XSCLCX",
+	"name":"Non-small-cell lung cancer (NSCLC)",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XSCLCX-20", "name":"Non-small-cell lung cancer (NSCLC): AKT", "shortname":"AKT", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XSCLCX-22", "name":"Non-small-cell lung cancer (NSCLC): ERK1/2", "shortname":"ERK1/2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XSCLCX-21", "name":"Non-small-cell lung cancer (NSCLC): RASSF1", "shortname":"RASSF1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XSCLCX-19", "name":"Non-small-cell lung cancer (NSCLC): BAK1", "shortname":"BAK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0OS",
+	"name":"Oxytocin signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0OS-31", "name":"Oxytocin signaling: OXT", "shortname":"OXT", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0OS-34 35", "name":"Oxytocin signaling: Calcineurin", "shortname":"Calcineurin", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0OS-33", "name":"Oxytocin signaling: ERK1/2", "shortname":"ERK1/2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0OS-32", "name":"Oxytocin signaling: PLCB1", "shortname":"PLCB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0OS-37", "name":"Oxytocin signaling: CREB1", "shortname":"CREB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0OS-36", "name":"Oxytocin signaling: GABA-A", "shortname":"GABA-A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0X38",
+	"name":"P38 Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0X38-33", "name":"P38 Signaling: CREB1", "shortname":"CREB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38-29", "name":"P38 Signaling: TP53", "shortname":"TP53", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38-30", "name":"P38 Signaling: STAT1", "shortname":"STAT1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38-31", "name":"P38 Signaling: DDIT3", "shortname":"DDIT3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38-32", "name":"P38 Signaling: USF1", "shortname":"USF1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38-34", "name":"P38 Signaling: MAPT", "shortname":"MAPT", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0X38_Myogenesis",
+	"name":"P38 Signaling and Myogenesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0X38_Myogenesis-31", "name":"P38 Signaling and Myogenesis: MYOG", "shortname":"MYOG", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38_Myogenesis-26", "name":"P38 Signaling and Myogenesis: EZH2", "shortname":"EZH2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38_Myogenesis-33", "name":"P38 Signaling and Myogenesis: MEF2D", "shortname":"MEF2D", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38_Myogenesis-27 28 29", "name":"P38 Signaling and Myogenesis: P300/PCAF", "shortname":"P300/PCAF", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38_Myogenesis-30", "name":"P38 Signaling and Myogenesis: KHSRP", "shortname":"KHSRP", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0X38_Myogenesis-32", "name":"P38 Signaling and Myogenesis: IGF1R", "shortname":"IGF1R", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XC",
+	"name":"Prostate Cancer",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XC-16", "name":"Prostate Cancer: TP53", "shortname":"TP53", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XC-22", "name":"Prostate Cancer: MET", "shortname":"MET", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XC-17", "name":"Prostate Cancer: UBE2C", "shortname":"UBE2C", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XC-21", "name":"Prostate Cancer: HDAC1", "shortname":"HDAC1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XC-20", "name":"Prostate Cancer: PIP3", "shortname":"PIP3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XC-18", "name":"Prostate Cancer: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XC-19", "name":"Prostate Cancer: NCOA3", "shortname":"NCOA3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XDAX",
+	"name":"Pancreatic ductal adenocarcinoma (PDA)",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XDAX-12", "name":"Pancreatic ductal adenocarcinoma (PDA): CDK4", "shortname":"CDK4", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-39 40", "name":"Pancreatic ductal adenocarcinoma (PDA): AP1", "shortname":"AP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-4", "name":"Pancreatic ductal adenocarcinoma (PDA): SMAD4", "shortname":"SMAD4", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-46", "name":"Pancreatic ductal adenocarcinoma (PDA): E2F1", "shortname":"E2F1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-45 13", "name":"Pancreatic ductal adenocarcinoma (PDA): CyclinD1/CDK6", "shortname":"CyclinD1/CDK6", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-44", "name":"Pancreatic ductal adenocarcinoma (PDA): TGFBR1", "shortname":"TGFBR1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-30", "name":"Pancreatic ductal adenocarcinoma (PDA): ERK1/2", "shortname":"ERK1/2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-32 33", "name":"Pancreatic ductal adenocarcinoma (PDA): NfKb-p65/p50", "shortname":"NfKb-p65/p50", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-43", "name":"Pancreatic ductal adenocarcinoma (PDA): TP53", "shortname":"TP53", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-31", "name":"Pancreatic ductal adenocarcinoma (PDA): TERT", "shortname":"TERT", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-34 35 36 37 38", "name":"Pancreatic ductal adenocarcinoma (PDA): mTORC1", "shortname":"mTORC1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-29", "name":"Pancreatic ductal adenocarcinoma (PDA): VEGFA", "shortname":"VEGFA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XDAX-41 6 42", "name":"Pancreatic ductal adenocarcinoma (PDA): JAK1/STAT1/STAT3", "shortname":"JAK1/STAT1/STAT3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XI3K0AKT",
+	"name":"PI3K/AKT Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XI3K0AKT-27", "name":"PI3K/AKT Signaling: FOXO", "shortname":"FOXO", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XI3K0AKT-29", "name":"PI3K/AKT Signaling: GSK3B", "shortname":"GSK3B", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XI3K0AKT-30", "name":"PI3K/AKT Signaling: CREB1", "shortname":"CREB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XI3K0AKT-28", "name":"PI3K/AKT Signaling: EIF4E", "shortname":"EIF4E", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XXX",
+	"name":"Pentose phosphate pathway",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XXX-34", "name":"Pentose phosphate pathway: NADPH(4-)", "shortname":"NADPH(4-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXX-36", "name":"Pentose phosphate pathway: D-erythrose 4-phosphate(2-)", "shortname":"D-erythrose 4-phosphate(2-)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXX-35", "name":"Pentose phosphate pathway: 5-phospho-α-D-ribose 1-diphosphate", "shortname":"5-phospho-α-D-ribose 1-diphosphate", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXX-38", "name":"Pentose phosphate pathway: β-D-fructose 6-phosphate", "shortname":"β-D-fructose 6-phosphate", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXX-37", "name":"Pentose phosphate pathway: 2-deoxy-D-ribose 5-phosphate", "shortname":"2-deoxy-D-ribose 5-phosphate", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XXX-39", "name":"Pentose phosphate pathway: acetaldehyde", "shortname":"acetaldehyde", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0XU",
+	"name":"Ubiquitin activation",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0XU-9", "name":"Ubiquitin activation: RING E3 ligase", "shortname":"RING E3 ligase", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XU-12", "name":"Ubiquitin activation: HECT E3 ligase", "shortname":"HECT E3 ligase", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XU-13", "name":"Ubiquitin activation: RBR E3 ligase", "shortname":"RBR E3 ligase", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XU-10", "name":"Ubiquitin activation: Ubiquitin", "shortname":"Ubiquitin", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0XU-11", "name":"Ubiquitin activation: E2 conjugating enzyme", "shortname":"E2 conjugating enzyme", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0RAM",
+	"name":"Retinoic Acid Metabolism",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0RAM-12", "name":"Retinoic Acid Metabolism: all-trans-retinoic acid", "shortname":"all-trans-retinoic acid", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0RAS",
+	"name":"Retinoic acid Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0RAS-9", "name":"Retinoic acid Signaling: CTNNB1", "shortname":"CTNNB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0RAS-10", "name":"Retinoic acid Signaling: ASCL1", "shortname":"ASCL1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0ReS",
+	"name":"Rett syndrome",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0ReS-17", "name":"Rett syndrome: GRB2", "shortname":"GRB2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0ReS-16", "name":"Rett syndrome: NOTCH1", "shortname":"NOTCH1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0ReS-18", "name":"Rett syndrome: BRAF", "shortname":"BRAF", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0ReS-19", "name":"Rett syndrome: ERK1/2", "shortname":"ERK1/2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0ReS-13", "name":"Rett syndrome: GAD1", "shortname":"GAD1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0ReS-14", "name":"Rett syndrome: IGFBP3", "shortname":"IGFBP3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0ReS-15", "name":"Rett syndrome: RELN", "shortname":"RELN", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0SAXK0JXK",
+	"name":"SAPK/JNK Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0SAXK0JXK-18", "name":"SAPK/JNK Signaling: SMAD3", "shortname":"SMAD3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SAXK0JXK-22", "name":"SAPK/JNK Signaling: BAX", "shortname":"BAX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SAXK0JXK-19", "name":"SAPK/JNK Signaling: ATF2", "shortname":"ATF2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SAXK0JXK-20", "name":"SAPK/JNK Signaling: YWHAZ", "shortname":"YWHAZ", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SAXK0JXK-21", "name":"SAPK/JNK Signaling: ELK1", "shortname":"ELK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SAXK0JXK-23", "name":"SAPK/JNK Signaling: NFATC2", "shortname":"NFATC2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0SARS0COV0AXOXTOSIS",
+	"name":"SARS-COV APOPTOSIS",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0SARS0COV0AXOXTOSIS-25", "name":"SARS-COV APOPTOSIS: CASP6", "shortname":"CASP6", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SARS0COV0AXOXTOSIS-26", "name":"SARS-COV APOPTOSIS: p38", "shortname":"p38", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0SARS0CoV0MAXK0Xathway",
+	"name":"SARS-CoV MAPK PERTURBATION",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0SARS0CoV0MAXK0Xathway-25", "name":"SARS-CoV MAPK PERTURBATION: CCL2", "shortname":"CCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SARS0CoV0MAXK0Xathway-27", "name":"SARS-CoV MAPK PERTURBATION: IL6", "shortname":"IL6", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SARS0CoV0MAXK0Xathway-24", "name":"SARS-CoV MAPK PERTURBATION: p38", "shortname":"p38", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SARS0CoV0MAXK0Xathway-26", "name":"SARS-CoV MAPK PERTURBATION: EGFR", "shortname":"EGFR", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SARS0CoV0MAXK0Xathway-28", "name":"SARS-CoV MAPK PERTURBATION: MAP3K7", "shortname":"MAP3K7", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0SCIR",
+	"name":"SARS-CoV INFLAMMATORY RESPONSE",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0SCIR-43", "name":"SARS-CoV INFLAMMATORY RESPONSE: CCL2", "shortname":"CCL2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCIR-46", "name":"SARS-CoV INFLAMMATORY RESPONSE: TNF", "shortname":"TNF", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCIR-48 49 36", "name":"SARS-CoV INFLAMMATORY RESPONSE: NLRP3 inflammasome", "shortname":"NLRP3 inflammasome", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCIR-40", "name":"SARS-CoV INFLAMMATORY RESPONSE: IRF3", "shortname":"IRF3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCIR-45", "name":"SARS-CoV INFLAMMATORY RESPONSE: PTGS2", "shortname":"PTGS2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCIR-41", "name":"SARS-CoV INFLAMMATORY RESPONSE: RIPK1", "shortname":"RIPK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCIR-42", "name":"SARS-CoV INFLAMMATORY RESPONSE: EIF2AK2", "shortname":"EIF2AK2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCIR-44", "name":"SARS-CoV INFLAMMATORY RESPONSE: TLRs", "shortname":"TLRs", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCIR-47", "name":"SARS-CoV INFLAMMATORY RESPONSE: IL18", "shortname":"IL18", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0SCISOVG",
+	"name":"SARS-CoV INNATE RESPONSE TO dsRNA",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0SCISOVG-27", "name":"SARS-CoV INNATE RESPONSE TO dsRNA: IRF3", "shortname":"IRF3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCISOVG-28 29", "name":"SARS-CoV INNATE RESPONSE TO dsRNA: NfKb-p65/p50", "shortname":"NfKb-p65/p50", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCISOVG-30", "name":"SARS-CoV INNATE RESPONSE TO dsRNA: RIPK1", "shortname":"RIPK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0SCUX",
+	"name":"SARS-CoV ER STRESS",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0SCUX-64", "name":"SARS-CoV ER STRESS: JNK", "shortname":"JNK", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SCUX-29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63", "name":"SARS-CoV ER STRESS: 40S cytosolic small ribosomal subunit", "shortname":"40S cytosolic small ribosomal subunit", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0SHB",
+	"name":"Sex Hormone Biosynthesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0SHB-26", "name":"Sex Hormone Biosynthesis: cortisol", "shortname":"cortisol", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SHB-25", "name":"Sex Hormone Biosynthesis: aldosterone", "shortname":"aldosterone", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0SHB-24", "name":"Sex Hormone Biosynthesis: androst-5-ene-3beta,17beta-diol", "shortname":"androst-5-ene-3beta,17beta-diol", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0TA",
+	"name":"TNF-alpha Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0TA-21", "name":"TNF-alpha Signaling: MAPK8", "shortname":"MAPK8", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TA-24", "name":"TNF-alpha Signaling: BAX", "shortname":"BAX", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TA-23", "name":"TNF-alpha Signaling: CASP3", "shortname":"CASP3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TA-22", "name":"TNF-alpha Signaling: JUN", "shortname":"JUN", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0TCA",
+	"name":"T cell activation",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0TCA-42 43 44 45 46 47 48", "name":"T cell activation: ARP2/3", "shortname":"ARP2/3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TCA-56", "name":"T cell activation: NCK1", "shortname":"NCK1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TCA-50 51", "name":"T cell activation: NfKb-p65/p50", "shortname":"NfKb-p65/p50", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TCA-52", "name":"T cell activation: NFATC1", "shortname":"NFATC1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TCA-49", "name":"T cell activation: LCP2", "shortname":"LCP2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TCA-53 38 39 40 41 54", "name":"T cell activation: TCR", "shortname":"TCR", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TCA-55", "name":"T cell activation: CD8A", "shortname":"CD8A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TCA-57", "name":"T cell activation: CD4", "shortname":"CD4", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0TEAT",
+	"name":"Translation elongation and termination",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0TEAT-38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72", "name":"Translation elongation and termination: 40S cytosolic small ribosomal subunit", "shortname":"40S cytosolic small ribosomal subunit", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-137", "name":"Translation elongation and termination: Phe-tRNA(Phe)", "shortname":"Phe-tRNA(Phe)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-138", "name":"Translation elongation and termination: Gln-tRNA(Gln)", "shortname":"Gln-tRNA(Gln)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-139", "name":"Translation elongation and termination: Pro-tRNA(Pro)", "shortname":"Pro-tRNA(Pro)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-140", "name":"Translation elongation and termination: Ile-tRNA(Ile)", "shortname":"Ile-tRNA(Ile)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-142", "name":"Translation elongation and termination: Arg-tRNA(Arg)", "shortname":"Arg-tRNA(Arg)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-143", "name":"Translation elongation and termination: Glu-tRNA(Glu)", "shortname":"Glu-tRNA(Glu)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-145", "name":"Translation elongation and termination: Met-tRNA(Met)", "shortname":"Met-tRNA(Met)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-147", "name":"Translation elongation and termination: Leu-tRNA(Leu)", "shortname":"Leu-tRNA(Leu)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-150", "name":"Translation elongation and termination: Asp-tRNA(Asp)", "shortname":"Asp-tRNA(Asp)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-155", "name":"Translation elongation and termination: Lys-tRNA(Lys)", "shortname":"Lys-tRNA(Lys)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-141", "name":"Translation elongation and termination: Asn-tRNA(Asn)", "shortname":"Asn-tRNA(Asn)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-157", "name":"Translation elongation and termination: protein polypeptide chain", "shortname":"protein polypeptide chain", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-148", "name":"Translation elongation and termination: Trp-tRNA(Trp)", "shortname":"Trp-tRNA(Trp)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-149", "name":"Translation elongation and termination: Val-tRNA(Val)", "shortname":"Val-tRNA(Val)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-151", "name":"Translation elongation and termination: Cys-tRNA(Cys)", "shortname":"Cys-tRNA(Cys)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-153", "name":"Translation elongation and termination: His-tRNA(His)", "shortname":"His-tRNA(His)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-146", "name":"Translation elongation and termination: Thr-tRNA(Thr)", "shortname":"Thr-tRNA(Thr)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-144", "name":"Translation elongation and termination: Ser-tRNA(Ser)", "shortname":"Ser-tRNA(Ser)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-152", "name":"Translation elongation and termination: Ala-tRNA(Ala)", "shortname":"Ala-tRNA(Ala)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-154", "name":"Translation elongation and termination: Tyr-tRNA(Tyr)", "shortname":"Tyr-tRNA(Tyr)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TEAT-156", "name":"Translation elongation and termination: Gly-tRNA(Gly)", "shortname":"Gly-tRNA(Gly)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0THM",
+	"name":"Thyroid Hormone Metabolism",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0THM-38", "name":"Thyroid Hormone Metabolism: TSHB", "shortname":"TSHB", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-39", "name":"Thyroid Hormone Metabolism: CGA", "shortname":"CGA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-53", "name":"Thyroid Hormone Metabolism: SLC5A5", "shortname":"SLC5A5", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-48", "name":"Thyroid Hormone Metabolism: IRF9", "shortname":"IRF9", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-54", "name":"Thyroid Hormone Metabolism: THRA", "shortname":"THRA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-61", "name":"Thyroid Hormone Metabolism: THRB", "shortname":"THRB", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-51", "name":"Thyroid Hormone Metabolism: L-alanine zwitterion", "shortname":"L-alanine zwitterion", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-52", "name":"Thyroid Hormone Metabolism: TG", "shortname":"TG", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-49", "name":"Thyroid Hormone Metabolism: PLCB1", "shortname":"PLCB1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-55", "name":"Thyroid Hormone Metabolism: CAMKK2", "shortname":"CAMKK2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-50", "name":"Thyroid Hormone Metabolism: FOXO", "shortname":"FOXO", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0THM-56 57 58 59 60", "name":"Thyroid Hormone Metabolism: mTORC1", "shortname":"mTORC1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0TI",
+	"name":"Transcription initiation",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0TI-108", "name":"Transcription initiation: ribosomal RNA", "shortname":"ribosomal RNA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TI-37", "name":"Transcription initiation: POLR2A", "shortname":"POLR2A", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TI-110", "name":"Transcription initiation: transfer RNA", "shortname":"transfer RNA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TI-109", "name":"Transcription initiation: precursor messenger RNA", "shortname":"precursor messenger RNA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0TLR",
+	"name":"Toll like receptors",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0TLR-28 29", "name":"Toll like receptors: NfKb-p65/p50", "shortname":"NfKb-p65/p50", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TLR-24", "name":"Toll like receptors: MAPK14", "shortname":"MAPK14", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TLR-26 27", "name":"Toll like receptors: AP1", "shortname":"AP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TLR-25", "name":"Toll like receptors: IRF3", "shortname":"IRF3", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TLR-30", "name":"Toll like receptors: MYD88", "shortname":"MYD88", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0TSC",
+	"name":"TGFb in cancer",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0TSC-9", "name":"TGFb in cancer: TGFBR1", "shortname":"TGFBR1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TSC-3", "name":"TGFb in cancer: SMAD4", "shortname":"SMAD4", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TSC-6 7", "name":"TGFb in cancer: AP1", "shortname":"AP1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0TSC-8", "name":"TGFb in cancer: CDKN2B", "shortname":"CDKN2B", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0VEGF",
+	"name":"VEGF Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0VEGF-24", "name":"VEGF Signaling: nitric oxide", "shortname":"nitric oxide", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VEGF-25", "name":"VEGF Signaling: BAD", "shortname":"BAD", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VEGF-23", "name":"VEGF Signaling: calcium(2+)", "shortname":"calcium(2+)", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VEGF-27", "name":"VEGF Signaling: PRKCA", "shortname":"PRKCA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VEGF-22", "name":"VEGF Signaling: PXN", "shortname":"PXN", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VEGF-26", "name":"VEGF Signaling: ERK1/2", "shortname":"ERK1/2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0VKC",
+	"name":"Vitamin-K cycle",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0VKC-7", "name":"Vitamin-K cycle: F9", "shortname":"F9", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VKC-8", "name":"Vitamin-K cycle: GAS6", "shortname":"GAS6", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VKC-9", "name":"Vitamin-K cycle: PROS1", "shortname":"PROS1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VKC-10", "name":"Vitamin-K cycle: PROC", "shortname":"PROC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VKC-11", "name":"Vitamin-K cycle: F2", "shortname":"F2", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VKC-12", "name":"Vitamin-K cycle: F10", "shortname":"F10", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VKC-13", "name":"Vitamin-K cycle: F7", "shortname":"F7", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VKC-14", "name":"Vitamin-K cycle: BGLAP", "shortname":"BGLAP", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0VKC-15", "name":"Vitamin-K cycle: PROZ", "shortname":"PROZ", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0WC",
+	"name":"Wnt in cancer",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0WC-12", "name":"Wnt in cancer: MYC", "shortname":"MYC", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0WC-13", "name":"Wnt in cancer: Frizzled", "shortname":"Frizzled", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0WXT",
+	"name":"WNT Signaling",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0WXT-28", "name":"WNT Signaling: RHOA", "shortname":"RHOA", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+},{
+	"id":"hsaSIGXOR0WXT_Myogenesis",
+	"name":"WNT Signaling and Myogenesis",
+	"haschanged":true,
+	"sig":false,
+	"up":false,
+	"down":false,
+	"upsig":false,
+	"downsig":false,
+	"paths":[
+		{"id":"P-hsaSIGXOR0WXT_Myogenesis-28", "name":"WNT Signaling and Myogenesis: MYOD1", "shortname":"MYOD1", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""},
+		{"id":"P-hsaSIGXOR0WXT_Myogenesis-29", "name":"WNT Signaling and Myogenesis: MYF5", "shortname":"MYF5", "pvalue":1, "status":"0", "sig":"false", "haschanged":true, "up":false, "down":false, "upsig":false, "downsig":false, "color":""}
+	]
+}
+]

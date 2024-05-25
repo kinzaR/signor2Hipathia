@@ -1,0 +1,23 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0DD-15	P-hsaSIGXOR0DD-11	P-hsaSIGXOR0DD-12	P-hsaSIGXOR0DD-13	P-hsaSIGXOR0DD-14	P-hsaSIGXOR0DD-16 17
+N-hsaSIGXOR0DD-1	ATM	10	400	50	white	lightgrey	2	ellipse	node	0.62	black	22	472	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13315>Q13315</a> (ATM)	1	1	1	1	0	0
+N-hsaSIGXOR0DD-2	DNA_damage	10	400	150	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-ST1>SIGNOR-ST1</a> (DNA_damage)	1	1	1	1	1	0
+N-hsaSIGXOR0DD-3	ATR	10	300	150	white	lightgrey	2	ellipse	node	0.62	black	22	545	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13535>Q13535</a> (ATR)	1	1	1	1	1	0
+N-hsaSIGXOR0DD-4	PALB2	10	400	200	white	lightgrey	2	ellipse	node	0.62	black	22	79728	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q86YC2>Q86YC2</a> (PALB2)	1	1	1	1	1	0
+N-hsaSIGXOR0DD-5	BRCA2	10	300	250	white	lightgrey	2	ellipse	node	0.62	black	22	675	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P51587>P51587</a> (BRCA2)	0	0	0	0	1	0
+N-hsaSIGXOR0DD-6	RAD50	10	200	50	white	lightgrey	2	ellipse	node	0.62	black	22	10111	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q92878>Q92878</a> (RAD50)	1	1	1	1	0	0
+N-hsaSIGXOR0DD-7	BRCA1	10	300	100	white	lightgrey	2	ellipse	node	0.62	black	22	672	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P38398>P38398</a> (BRCA1)	1	1	1	1	0	0
+N-hsaSIGXOR0DD-8	SLX4	10	0	150	white	lightgrey	2	ellipse	node	0.62	black	22	84464	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8IY92>Q8IY92</a> (SLX4)	0	0	0	0	0	1
+N-hsaSIGXOR0DD-9	CHEK1	10	500	150	white	lightgrey	2	ellipse	node	0.62	black	22	1111	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O14757>O14757</a> (CHEK1)	1	0	0	0	0	0
+N-hsaSIGXOR0DD-10	CHEK2	10	499.957647775079	100.000000000022	white	lightgrey	2	ellipse	node	0.62	black	22	11200	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O96017>O96017</a> (CHEK2)	1	1	1	1	0	0
+N-hsaSIGXOR0DD-11	RIF1	10	500	50	white	lightgrey	2	ellipse	node	0.62	black	22	55183	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q5UIP0>Q5UIP0</a> (RIF1)	0	1	0	0	0	0
+N-hsaSIGXOR0DD-12	MRE11	10	300	0	white	lightgrey	2	ellipse	node	0.62	black	22	4361	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P49959>P49959</a> (MRE11)	0	0	1	0	0	0
+N-hsaSIGXOR0DD-13	TP53BP1	10	400	0	white	lightgrey	2	ellipse	node	0.62	black	22	7158	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q12888>Q12888</a> (TP53BP1)	0	0	0	1	0	0
+N-hsaSIGXOR0DD-14	POLH	10	300	200	white	lightgrey	2	ellipse	node	0.62	black	22	5429	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y253>Q9Y253</a> (POLH)	0	0	0	0	1	0
+N-hsaSIGXOR0DD-15	RAD51	10	500	200	white	lightgrey	2	ellipse	node	0.62	black	22	5888	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06609>Q06609</a> (RAD51)	1	0	0	0	0	0
+N-hsaSIGXOR0DD-16 17	ERCC4/ERCC1	10	0	100	white	lightgrey	2	ellipse	node	0.62	black	22	2072,/,2067	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C50>SIGNOR-C50</a> (ERCC4/ERCC1)	0	0	0	0	0	1
+N-hsaSIGXOR0DD-11_func	DNA damage	10	699.989412907423	50	white	lightgrey	2	rectangle	node	0.62	black	-1		DNA damage	0	1	0	0	0	0
+N-hsaSIGXOR0DD-12_func	DNA damage	10	499.989412907423	0	white	lightgrey	2	rectangle	node	0.62	black	-1		DNA damage	0	0	1	0	0	0
+N-hsaSIGXOR0DD-13_func	DNA damage	10	599.989412907423	0	white	lightgrey	2	rectangle	node	0.62	black	-1		DNA damage	0	0	0	1	0	0
+N-hsaSIGXOR0DD-14_func	DNA damage	10	485.714043059148	200	white	lightgrey	2	rectangle	node	0.62	black	-1		DNA damage	0	0	0	0	1	0
+N-hsaSIGXOR0DD-15_func	DNA damage	10	699.989412907423	200	white	lightgrey	2	rectangle	node	0.62	black	-1		DNA damage	1	0	0	0	0	0
+N-hsaSIGXOR0DD-16 17_func	DNA damage	10	199.989412907423	100	white	lightgrey	2	rectangle	node	0.62	black	-1		DNA damage	0	0	0	0	0	1

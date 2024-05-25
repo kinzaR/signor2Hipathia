@@ -1,0 +1,22 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0AML0DXMT3A-13	P-hsaSIGXOR0AML0DXMT3A-12	P-hsaSIGXOR0AML0DXMT3A-14	P-hsaSIGXOR0AML0DXMT3A-15	P-hsaSIGXOR0AML0DXMT3A-16
+N-hsaSIGXOR0AML0DXMT3A-1	DNMT3A	10	100	100	white	lightgrey	2	ellipse	node	0.62	black	22	1788	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y6K1>Q9Y6K1</a> (DNMT3A)	1	1	1	1	0
+N-hsaSIGXOR0AML0DXMT3A-2	IDH2	10	300	200	white	lightgrey	2	ellipse	node	0.62	black	22	3418	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P48735>P48735</a> (IDH2)	0	0	0	0	1
+N-hsaSIGXOR0AML0DXMT3A-3	MDM2	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	4193	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q00987>Q00987</a> (MDM2)	1	0	0	0	0
+N-hsaSIGXOR0AML0DXMT3A-4	TP53	10	500	100	white	lightgrey	2	ellipse	node	0.62	black	22	7157	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P04637>P04637</a> (TP53)	1	0	0	0	0
+N-hsaSIGXOR0AML0DXMT3A-5	CDKN2A	10	200	100	white	lightgrey	2	ellipse	node	0.62	black	22	1029	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q8N726>Q8N726</a> (CDKN2A)	1	0	0	0	0
+N-hsaSIGXOR0AML0DXMT3A-6	NPM1	10	100	250	white	lightgrey	2	ellipse	node	0.62	black	22	4869	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P06748>P06748</a> (NPM1)	0	0	0	1	0
+N-hsaSIGXOR0AML0DXMT3A-7	FBXW7	10	300	0	white	lightgrey	2	ellipse	node	0.62	black	22	55294	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q969H0>Q969H0</a> (FBXW7)	1	0	0	0	0
+N-hsaSIGXOR0AML0DXMT3A-8	IDH1	10	200	300	white	lightgrey	2	ellipse	node	0.62	black	22	3417	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O75874>O75874</a> (IDH1)	0	0	0	0	1
+N-hsaSIGXOR0AML0DXMT3A-9	2-oxoglutarate(2-)	10	300	250	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16810>CHEBI:16810</a> (2-oxoglutarate(2-))	0	0	0	0	1
+N-hsaSIGXOR0AML0DXMT3A-10	MYC	10	300	50	white	lightgrey	2	ellipse	node	0.62	black	22	4609	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01106>P01106</a> (MYC)	1	0	0	0	0
+N-hsaSIGXOR0AML0DXMT3A-11	TET2	10	400	250	white	lightgrey	2	ellipse	node	0.62	black	22	54790	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q6N021>Q6N021</a> (TET2)	0	0	0	0	1
+N-hsaSIGXOR0AML0DXMT3A-12	MEIS1	10	0	150	white	lightgrey	2	ellipse	node	0.62	black	22	4211	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O00470>O00470</a> (MEIS1)	0	1	0	0	0
+N-hsaSIGXOR0AML0DXMT3A-13	BCL2	10	600	100	white	lightgrey	2	ellipse	node	0.62	black	22	596	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P10415>P10415</a> (BCL2)	1	0	0	0	0
+N-hsaSIGXOR0AML0DXMT3A-14	CCND1	10	100	50	white	lightgrey	2	ellipse	node	0.62	black	22	595	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P24385>P24385</a> (CCND1)	0	0	1	0	0
+N-hsaSIGXOR0AML0DXMT3A-15	HOXA9	10	100	200	white	lightgrey	2	ellipse	node	0.62	black	22	3205	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P31269>P31269</a> (HOXA9)	0	0	0	1	0
+N-hsaSIGXOR0AML0DXMT3A-16	WT1	10	500	250	white	lightgrey	2	ellipse	node	0.62	black	22	7490	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P19544>P19544</a> (WT1)	0	0	0	0	1
+N-hsaSIGXOR0AML0DXMT3A-12_func	Proliferation	10	199.959105295981	150	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	1	0	0	0
+N-hsaSIGXOR0AML0DXMT3A-13_func	Apoptosis	10	799.959105295981	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	1	0	0	0	0
+N-hsaSIGXOR0AML0DXMT3A-14_func	Proliferation	10	285.712665840391	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	1	0	0
+N-hsaSIGXOR0AML0DXMT3A-15_func	Transcription	10	285.712665840391	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription	0	0	0	1	0
+N-hsaSIGXOR0AML0DXMT3A-16_func	Proliferation	10	699.959105295981	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	0	0	1

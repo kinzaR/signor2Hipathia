@@ -1,0 +1,15 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0TSC-9	P-hsaSIGXOR0TSC-3	P-hsaSIGXOR0TSC-6 7	P-hsaSIGXOR0TSC-8
+N-hsaSIGXOR0TSC-1	TGFb	10	300	0	white	lightgrey	2	ellipse	node	0.62	black	22	7040,7043,7042	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF5>SIGNOR-PF5</a> (TGFb)	1	0	0	0
+N-hsaSIGXOR0TSC-2	SMAD3	10	400	50	white	lightgrey	2	ellipse	node	0.62	black	22	4088	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P84022>P84022</a> (SMAD3)	0	1	0	0
+N-hsaSIGXOR0TSC-3 4	SMAD2/SMAD4	10	200	150	white	lightgrey	2	ellipse	node	0.62	black	22	4089,/,4087	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C8>SIGNOR-C8</a> (SMAD2/SMAD4)	0	0	1	1
+N-hsaSIGXOR0TSC-2 3	SMAD3/SMAD4	10	200	200	white	lightgrey	2	ellipse	node	0.62	black	22	4088,/,4089	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C9>SIGNOR-C9</a> (SMAD3/SMAD4)	0	0	1	1
+N-hsaSIGXOR0TSC-4	SMAD2	10	500	150	white	lightgrey	2	ellipse	node	0.62	black	22	4087	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q15796>Q15796</a> (SMAD2)	0	1	0	0
+N-hsaSIGXOR0TSC-5	TGFBR2	10	200	0	white	lightgrey	2	ellipse	node	0.62	black	22	7048	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P37173>P37173</a> (TGFBR2)	1	0	0	0
+N-hsaSIGXOR0TSC-3	SMAD4	10	500	100	white	lightgrey	2	ellipse	node	0.62	black	22	4089	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q13485>Q13485</a> (SMAD4)	0	1	0	0
+N-hsaSIGXOR0TSC-6 7	AP1	10	100	150	white	lightgrey	2	ellipse	node	0.62	black	22	2353,/,3725	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C154>SIGNOR-C154</a> (AP1)	0	0	1	0
+N-hsaSIGXOR0TSC-8	CDKN2B	10	300	200	white	lightgrey	2	ellipse	node	0.62	black	22	1030	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P42772>P42772</a> (CDKN2B)	0	0	0	1
+N-hsaSIGXOR0TSC-9	TGFBR1	10	100	50	white	lightgrey	2	ellipse	node	0.62	black	22	7046	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P36897>P36897</a> (TGFBR1)	1	0	0	0
+N-hsaSIGXOR0TSC-3_func	Transcription regulation	10	699.973112111568	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Transcription regulation	0	1	0	0
+N-hsaSIGXOR0TSC-6 7_func	Proliferation	10	299.973112111568	150	white	lightgrey	2	rectangle	node	0.62	black	-1		Proliferation	0	0	1	0
+N-hsaSIGXOR0TSC-8_func	Cell cycle	10	499.973112111568	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Cell cycle	0	0	0	1
+N-hsaSIGXOR0TSC-9_func	Growth regulation	10	299.973112111568	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Growth regulation	1	0	0	0

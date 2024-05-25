@@ -1,0 +1,77 @@
+N-hsaSIGXOR0EI-1	inhibition	N-hsaSIGXOR0EI-48
+N-hsaSIGXOR0EI-1	inhibition	N-hsaSIGXOR0EI-64
+N-hsaSIGXOR0EI-35	inhibition	N-hsaSIGXOR0EI-64
+N-hsaSIGXOR0EI-10	activation	N-hsaSIGXOR0EI-54
+N-hsaSIGXOR0EI-5 6 7	activation	N-hsaSIGXOR0EI-8 9
+N-hsaSIGXOR0EI-8 9	activation	N-hsaSIGXOR0EI-51 52 53
+N-hsaSIGXOR0EI-11	activation	N-hsaSIGXOR0EI-16
+N-hsaSIGXOR0EI-12	activation	N-hsaSIGXOR0EI-11
+N-hsaSIGXOR0EI-13	activation	N-hsaSIGXOR0EI-12
+N-hsaSIGXOR0EI-14	activation	N-hsaSIGXOR0EI-43
+N-hsaSIGXOR0EI-15	activation	N-hsaSIGXOR0EI-2 3
+N-hsaSIGXOR0EI-16	activation	N-hsaSIGXOR0EI-8 9
+N-hsaSIGXOR0EI-17	inhibition	N-hsaSIGXOR0EI-8 9
+N-hsaSIGXOR0EI-18	activation	N-hsaSIGXOR0EI-17
+N-hsaSIGXOR0EI-19	inhibition	N-hsaSIGXOR0EI-37
+N-hsaSIGXOR0EI-24	inhibition	N-hsaSIGXOR0EI-2 3
+N-hsaSIGXOR0EI-2 3	activation	N-hsaSIGXOR0EI-36
+N-hsaSIGXOR0EI-28	activation	N-hsaSIGXOR0EI-30 31
+N-hsaSIGXOR0EI-30 31	activation	N-hsaSIGXOR0EI-33
+N-hsaSIGXOR0EI-28	activation	N-hsaSIGXOR0EI-8 9
+N-hsaSIGXOR0EI-32	activation	N-hsaSIGXOR0EI-15
+N-hsaSIGXOR0EI-33	activation	N-hsaSIGXOR0EI-5 6 7
+N-hsaSIGXOR0EI-8 9	activation	N-hsaSIGXOR0EI-20
+N-hsaSIGXOR0EI-35	activation	N-hsaSIGXOR0EI-38
+N-hsaSIGXOR0EI-36	activation	N-hsaSIGXOR0EI-41 42
+N-hsaSIGXOR0EI-37	inhibition	N-hsaSIGXOR0EI-8 9
+N-hsaSIGXOR0EI-38	inhibition	N-hsaSIGXOR0EI-32
+N-hsaSIGXOR0EI-39	inhibition	N-hsaSIGXOR0EI-32
+N-hsaSIGXOR0EI-25	inhibition	N-hsaSIGXOR0EI-32
+N-hsaSIGXOR0EI-35	inhibition	N-hsaSIGXOR0EI-32
+N-hsaSIGXOR0EI-40	inhibition	N-hsaSIGXOR0EI-32
+N-hsaSIGXOR0EI-41 42	activation	N-hsaSIGXOR0EI-17
+N-hsaSIGXOR0EI-29	activation	N-hsaSIGXOR0EI-16
+N-hsaSIGXOR0EI-17	activation	N-hsaSIGXOR0EI-32
+N-hsaSIGXOR0EI-16	activation	N-hsaSIGXOR0EI-5 6 7
+N-hsaSIGXOR0EI-43	activation	N-hsaSIGXOR0EI-30 31
+N-hsaSIGXOR0EI-2 3	activation	N-hsaSIGXOR0EI-30 31
+N-hsaSIGXOR0EI-35	activation	N-hsaSIGXOR0EI-30 31
+N-hsaSIGXOR0EI-20	activation	N-hsaSIGXOR0EI-17
+N-hsaSIGXOR0EI-5 6 7	inhibition	N-hsaSIGXOR0EI-37
+N-hsaSIGXOR0EI-46	activation	N-hsaSIGXOR0EI-8 9
+N-hsaSIGXOR0EI-24	inhibition	N-hsaSIGXOR0EI-41 42
+N-hsaSIGXOR0EI-20	inhibition	N-hsaSIGXOR0EI-5 6 7
+N-hsaSIGXOR0EI-41 42	activation	N-hsaSIGXOR0EI-18
+N-hsaSIGXOR0EI-35	activation	N-hsaSIGXOR0EI-8 9
+N-hsaSIGXOR0EI-19	inhibition	N-hsaSIGXOR0EI-11
+N-hsaSIGXOR0EI-2 3	activation	N-hsaSIGXOR0EI-49
+N-hsaSIGXOR0EI-20	inhibition	N-hsaSIGXOR0EI-55
+N-hsaSIGXOR0EI-43	activation	N-hsaSIGXOR0EI-45
+N-hsaSIGXOR0EI-45	inhibition	N-hsaSIGXOR0EI-63
+N-hsaSIGXOR0EI-19	inhibition	N-hsaSIGXOR0EI-6
+N-hsaSIGXOR0EI-21 22 23	activation	N-hsaSIGXOR0EI-56
+N-hsaSIGXOR0EI-21 22 23	activation	N-hsaSIGXOR0EI-60
+N-hsaSIGXOR0EI-25	inhibition	N-hsaSIGXOR0EI-57
+N-hsaSIGXOR0EI-25	inhibition	N-hsaSIGXOR0EI-58
+N-hsaSIGXOR0EI-26	inhibition	N-hsaSIGXOR0EI-58
+N-hsaSIGXOR0EI-4	activation	N-hsaSIGXOR0EI-50
+N-hsaSIGXOR0EI-27	activation	N-hsaSIGXOR0EI-4
+N-hsaSIGXOR0EI-29	activation	N-hsaSIGXOR0EI-47
+N-hsaSIGXOR0EI-47	activation	N-hsaSIGXOR0EI-65
+N-hsaSIGXOR0EI-34	activation	N-hsaSIGXOR0EI-59
+N-hsaSIGXOR0EI-35	activation	N-hsaSIGXOR0EI-44
+N-hsaSIGXOR0EI-44	activation	N-hsaSIGXOR0EI-61 62
+N-hsaSIGXOR0EI-48	activation	N-hsaSIGXOR0EI-48_func
+N-hsaSIGXOR0EI-51 52 53	activation	N-hsaSIGXOR0EI-51 52 53_func
+N-hsaSIGXOR0EI-54	activation	N-hsaSIGXOR0EI-54_func
+N-hsaSIGXOR0EI-6	activation	N-hsaSIGXOR0EI-6_func
+N-hsaSIGXOR0EI-55	activation	N-hsaSIGXOR0EI-55_func
+N-hsaSIGXOR0EI-56	activation	N-hsaSIGXOR0EI-56_func
+N-hsaSIGXOR0EI-57	activation	N-hsaSIGXOR0EI-57_func
+N-hsaSIGXOR0EI-58	activation	N-hsaSIGXOR0EI-58_func
+N-hsaSIGXOR0EI-59	activation	N-hsaSIGXOR0EI-59_func
+N-hsaSIGXOR0EI-60	activation	N-hsaSIGXOR0EI-60_func
+N-hsaSIGXOR0EI-61 62	activation	N-hsaSIGXOR0EI-61 62_func
+N-hsaSIGXOR0EI-63	activation	N-hsaSIGXOR0EI-63_func
+N-hsaSIGXOR0EI-64	activation	N-hsaSIGXOR0EI-64_func
+N-hsaSIGXOR0EI-65	activation	N-hsaSIGXOR0EI-65_func

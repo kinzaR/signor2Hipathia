@@ -1,0 +1,18 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0FSGS-16	P-hsaSIGXOR0FSGS-14	P-hsaSIGXOR0FSGS-13	P-hsaSIGXOR0FSGS-15
+N-hsaSIGXOR0FSGS-1	ACE	10	100	150	white	lightgrey	2	ellipse	node	0.62	black	22	1636	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P12821>P12821</a> (ACE)	1	1	1	0
+N-hsaSIGXOR0FSGS-2	NFATC1	10	500	100	white	lightgrey	2	ellipse	node	0.62	black	22	4772	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O95644>O95644</a> (NFATC1)	1	0	0	0
+N-hsaSIGXOR0FSGS-3	TRPC6	10	200	50	white	lightgrey	2	ellipse	node	0.62	black	22	7225	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9Y210>Q9Y210</a> (TRPC6)	1	0	0	0
+N-hsaSIGXOR0FSGS-4	cyclosporin A	10	400	0	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:4031>CHEBI:4031</a> (cyclosporin A)	1	0	0	0
+N-hsaSIGXOR0FSGS-5	benazepril	10	200	200	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:3011>CHEBI:3011</a> (benazepril)	1	1	1	0
+N-hsaSIGXOR0FSGS-6 7	Calcineurin	10	400	50	white	lightgrey	2	ellipse	node	0.62	black	22	5534,/,5530	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-C155>SIGNOR-C155</a> (Calcineurin)	1	0	0	0
+N-hsaSIGXOR0FSGS-8	REN	10	100	50	white	lightgrey	2	ellipse	node	0.62	black	22	5972	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P00797>P00797</a> (REN)	1	1	0	0
+N-hsaSIGXOR0FSGS-9	AGT	10	100	100	white	lightgrey	2	ellipse	node	0.62	black	22	183	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01019>P01019</a> (AGT)	1	1	0	0
+N-hsaSIGXOR0FSGS-10	PAXIP1	10	300	250	white	lightgrey	2	ellipse	node	0.62	black	22	22976	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q6ZW49>Q6ZW49</a> (PAXIP1)	0	0	0	1
+N-hsaSIGXOR0FSGS-11	PLAUR	10	500	150	white	lightgrey	2	ellipse	node	0.62	black	22	5329	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q03405>Q03405</a> (PLAUR)	1	0	0	0
+N-hsaSIGXOR0FSGS-12	calcium(2+)	10	300	50	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:29108>CHEBI:29108</a> (calcium(2+))	1	0	0	0
+N-hsaSIGXOR0FSGS-15	PAX2	10	400	250	white	lightgrey	2	ellipse	node	0.62	black	22	5076	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q02962>Q02962</a> (PAX2)	0	0	0	1
+N-hsaSIGXOR0FSGS-16	ITGB3	10	500	200	white	lightgrey	2	ellipse	node	0.62	black	22	3690	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P05106>P05106</a> (ITGB3)	1	0	0	0
+N-hsaSIGXOR0FSGS-13	bradykinin	10	100	200	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:3165>CHEBI:3165</a> (bradykinin)	0	0	1	0
+N-hsaSIGXOR0FSGS-14	AGTR1	10	0	100	white	lightgrey	2	ellipse	node	0.62	black	22	185	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P30556>P30556</a> (AGTR1)	0	1	0	0
+N-hsaSIGXOR0FSGS-15_func	Differentiation	10	599.967671494974	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Differentiation	0	0	0	1
+N-hsaSIGXOR0FSGS-16_func	Host-virus interaction	10	699.967671494974	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Host-virus interaction	1	0	0	0

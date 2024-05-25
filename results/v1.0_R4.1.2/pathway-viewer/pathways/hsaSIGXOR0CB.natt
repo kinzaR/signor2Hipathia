@@ -1,0 +1,13 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0CB-12	P-hsaSIGXOR0CB-11	P-hsaSIGXOR0CB-10
+N-hsaSIGXOR0CB-1	N(6),N(6),N(6)-trimethyl-L-lysine	10	200	0	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:17311>CHEBI:17311</a> (N(6),N(6),N(6)-trimethyl-L-lysine)	1	1	0
+N-hsaSIGXOR0CB-2	2-oxoglutarate(2-)	10	700	100	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16810>CHEBI:16810</a> (2-oxoglutarate(2-))	0	0	1
+N-hsaSIGXOR0CB-3	ALDH9A1	10	100	350	white	lightgrey	2	ellipse	node	0.5	black	22	223	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P49189>P49189</a> (ALDH9A1)	1	0	0
+N-hsaSIGXOR0CB-4	TMLHE	10	400	100	white	lightgrey	2	ellipse	node	0.5	black	22	55217	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9NVH6>Q9NVH6</a> (TMLHE)	1	1	1
+N-hsaSIGXOR0CB-5	3-hydroxy-N(6),N(6),N(6)-trimethyl-L-lysine	10	200	100	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:15786>CHEBI:15786</a> (3-hydroxy-N(6),N(6),N(6)-trimethyl-L-lysine)	1	1	0
+N-hsaSIGXOR0CB-6	BBOX1	10	500	200	white	lightgrey	2	ellipse	node	0.5	black	22	8424	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O75936>O75936</a> (BBOX1)	1	0	1
+N-hsaSIGXOR0CB-7	SHMT1	10	0	150	white	lightgrey	2	ellipse	node	0.5	black	22	6470	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P34896>P34896</a> (SHMT1)	1	1	0
+N-hsaSIGXOR0CB-8	4-trimethylammoniobutanal	10	100	150	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:18020>CHEBI:18020</a> (4-trimethylammoniobutanal)	1	0	0
+N-hsaSIGXOR0CB-9	4-(trimethylammonio)butanoate	10	200	250	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:16244>CHEBI:16244</a> (4-(trimethylammonio)butanoate)	1	0	0
+N-hsaSIGXOR0CB-10	succinate(2-)	10	600	150	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:30031>CHEBI:30031</a> (succinate(2-))	0	0	1
+N-hsaSIGXOR0CB-11	glycine zwitterion	10	100	50	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:57305>CHEBI:57305</a> (glycine zwitterion)	0	1	0
+N-hsaSIGXOR0CB-12	carnitine	10	400	250	white	lightgrey	2	circle	node	0.5	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:17126>CHEBI:17126</a> (carnitine)	1	0	0

@@ -1,0 +1,9 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList	tooltip
+N-hsaSIGXOR0CS-1	C3	0	100	white	rectangle	gene	0.5	black	46	17	718	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01024>P01024</a> (C3)
+N-hsaSIGXOR0CS-2	MASP1	300	100	white	rectangle	gene	0.5	black	46	17	5648	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P48740>P48740</a> (MASP1)
+N-hsaSIGXOR0CS-3	MBL2	300	150	white	rectangle	gene	0.5	black	46	17	4153	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P11226>P11226</a> (MBL2)
+N-hsaSIGXOR0CS-4	MASP2	300	200	white	rectangle	gene	0.5	black	46	17	10747	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O00187>O00187</a> (MASP2)
+N-hsaSIGXOR0CS-5	C5	0	200	white	rectangle	gene	0.5	black	46	17	727	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01031>P01031</a> (C5)
+N-hsaSIGXOR0CS-6	C3AR1	100	50	white	rectangle	gene	0.5	black	46	17	719	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q16581>Q16581</a> (C3AR1)
+N-hsaSIGXOR0CS-7	C2	200	150	white	rectangle	gene	0.5	black	46	17	717	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P06681>P06681</a> (C2)
+N-hsaSIGXOR0CS-8	C5AR1	100	200	white	rectangle	gene	0.5	black	46	17	728	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P21730>P21730</a> (C5AR1)

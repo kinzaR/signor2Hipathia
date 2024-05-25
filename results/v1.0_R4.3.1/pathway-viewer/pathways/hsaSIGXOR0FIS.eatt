@@ -1,0 +1,112 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0FIS-77	P-hsaSIGXOR0FIS-67	P-hsaSIGXOR0FIS-68 69	P-hsaSIGXOR0FIS-71	P-hsaSIGXOR0FIS-72 73	P-hsaSIGXOR0FIS-70	P-hsaSIGXOR0FIS-75 76	P-hsaSIGXOR0FIS-81	P-hsaSIGXOR0FIS-74	P-hsaSIGXOR0FIS-80	P-hsaSIGXOR0FIS-83	P-hsaSIGXOR0FIS-78	P-hsaSIGXOR0FIS-79	P-hsaSIGXOR0FIS-82
+N-hsaSIGXOR0FIS-3 4_activation_N-hsaSIGXOR0FIS-48	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+N-hsaSIGXOR0FIS-5_inhibition_N-hsaSIGXOR0FIS-36	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-1_activation_N-hsaSIGXOR0FIS-37	0	darkgrey	1	1	directed	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-8_activation_N-hsaSIGXOR0FIS-3 4	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+N-hsaSIGXOR0FIS-9_inhibition_N-hsaSIGXOR0FIS-38	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-11_inhibition_N-hsaSIGXOR0FIS-38	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-12_activation_N-hsaSIGXOR0FIS-38	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-13_activation_N-hsaSIGXOR0FIS-5	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-1_inhibition_N-hsaSIGXOR0FIS-61	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-14_inhibition_N-hsaSIGXOR0FIS-37	0	darkgrey	1	1	inhibited	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-15_inhibition_N-hsaSIGXOR0FIS-9	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-1_activation_N-hsaSIGXOR0FIS-11	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-17_inhibition_N-hsaSIGXOR0FIS-11	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-14_activation_N-hsaSIGXOR0FIS-38	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-19_inhibition_N-hsaSIGXOR0FIS-3 4	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+N-hsaSIGXOR0FIS-20_activation_N-hsaSIGXOR0FIS-37	0	darkgrey	1	1	directed	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-21_activation_N-hsaSIGXOR0FIS-14	0	darkgrey	1	1	directed	1	1	0	0	0	1	0	0	0	1	1	0	1	0
+N-hsaSIGXOR0FIS-22_inhibition_N-hsaSIGXOR0FIS-30	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-21_activation_N-hsaSIGXOR0FIS-17	0	darkgrey	1	1	directed	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-23_activation_N-hsaSIGXOR0FIS-11	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-25_inhibition_N-hsaSIGXOR0FIS-14	0	darkgrey	1	1	inhibited	1	1	0	0	0	1	0	0	0	1	1	0	1	0
+N-hsaSIGXOR0FIS-26_inhibition_N-hsaSIGXOR0FIS-77	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-27_inhibition_N-hsaSIGXOR0FIS-10	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-10_activation_N-hsaSIGXOR0FIS-1	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-2_inhibition_N-hsaSIGXOR0FIS-31	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-17_inhibition_N-hsaSIGXOR0FIS-37	0	darkgrey	1	1	inhibited	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-29_inhibition_N-hsaSIGXOR0FIS-47	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-31_activation_N-hsaSIGXOR0FIS-38	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-32_activation_N-hsaSIGXOR0FIS-37	0	darkgrey	1	1	directed	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-34_inhibition_N-hsaSIGXOR0FIS-36	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-35_inhibition_N-hsaSIGXOR0FIS-5	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-13_activation_N-hsaSIGXOR0FIS-24	0	darkgrey	1	1	directed	1	0	0	0	0	0	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-36_activation_N-hsaSIGXOR0FIS-30	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-24_activation_N-hsaSIGXOR0FIS-26	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-36_activation_N-hsaSIGXOR0FIS-24	0	darkgrey	1	1	directed	1	0	0	0	0	0	1	1	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-38_activation_N-hsaSIGXOR0FIS-77	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-17_activation_N-hsaSIGXOR0FIS-38	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-5_inhibition_N-hsaSIGXOR0FIS-30	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-14_inhibition_N-hsaSIGXOR0FIS-11	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-37_activation_N-hsaSIGXOR0FIS-26	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-30_activation_N-hsaSIGXOR0FIS-60	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-41 42 10 43 44 45_activation_N-hsaSIGXOR0FIS-1	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-8_activation_N-hsaSIGXOR0FIS-61	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-47_activation_N-hsaSIGXOR0FIS-38	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-48_activation_N-hsaSIGXOR0FIS-39	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+N-hsaSIGXOR0FIS-49_activation_N-hsaSIGXOR0FIS-20	0	darkgrey	1	1	directed	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-50_activation_N-hsaSIGXOR0FIS-37	0	darkgrey	1	1	directed	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-39_activation_N-hsaSIGXOR0FIS-1	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-60_inhibition_N-hsaSIGXOR0FIS-10	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-61_activation_N-hsaSIGXOR0FIS-36	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-62_activation_N-hsaSIGXOR0FIS-13	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-24_activation_N-hsaSIGXOR0FIS-47	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-1_inhibition_N-hsaSIGXOR0FIS-31	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-64_activation_N-hsaSIGXOR0FIS-8	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+N-hsaSIGXOR0FIS-21_activation_N-hsaSIGXOR0FIS-12	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0FIS-66_activation_N-hsaSIGXOR0FIS-62	0	darkgrey	1	1	directed	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-32_inhibition_N-hsaSIGXOR0FIS-30	0	darkgrey	1	1	inhibited	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+N-hsaSIGXOR0FIS-1_inhibition_N-hsaSIGXOR0FIS-67	0	darkgrey	1	1	inhibited	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-2_inhibition_N-hsaSIGXOR0FIS-67	0	darkgrey	1	1	inhibited	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-23_inhibition_N-hsaSIGXOR0FIS-67	0	darkgrey	1	1	inhibited	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-37_inhibition_N-hsaSIGXOR0FIS-67	0	darkgrey	1	1	inhibited	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-53 54 55 56 57 58 59_activation_N-hsaSIGXOR0FIS-67	0	darkgrey	1	1	directed	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-1_activation_N-hsaSIGXOR0FIS-2 6 7	0	darkgrey	1	1	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-2_inhibition_N-hsaSIGXOR0FIS-68 69	0	darkgrey	1	1	inhibited	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-2 6 7_activation_N-hsaSIGXOR0FIS-68 69	0	darkgrey	1	1	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-30_activation_N-hsaSIGXOR0FIS-68 69	0	darkgrey	1	1	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-52_inhibition_N-hsaSIGXOR0FIS-68 69	0	darkgrey	1	1	inhibited	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-16_activation_N-hsaSIGXOR0FIS-71	0	darkgrey	1	1	directed	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-30_inhibition_N-hsaSIGXOR0FIS-71	0	darkgrey	1	1	inhibited	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-1_activation_N-hsaSIGXOR0FIS-18	0	darkgrey	1	1	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-18_inhibition_N-hsaSIGXOR0FIS-72 73	0	darkgrey	1	1	inhibited	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-23_activation_N-hsaSIGXOR0FIS-18	0	darkgrey	1	1	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-5_activation_N-hsaSIGXOR0FIS-70	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-10_activation_N-hsaSIGXOR0FIS-70	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-37_activation_N-hsaSIGXOR0FIS-40	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-40_activation_N-hsaSIGXOR0FIS-70	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-13_activation_N-hsaSIGXOR0FIS-33	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-24_activation_N-hsaSIGXOR0FIS-75 76	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-33_activation_N-hsaSIGXOR0FIS-75 76	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-24_inhibition_N-hsaSIGXOR0FIS-81	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-32_inhibition_N-hsaSIGXOR0FIS-81	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-23_activation_N-hsaSIGXOR0FIS-74	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0FIS-30_activation_N-hsaSIGXOR0FIS-51	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0FIS-30_inhibition_N-hsaSIGXOR0FIS-74	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0FIS-41 42 10 43 44 45_activation_N-hsaSIGXOR0FIS-74	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0FIS-51_activation_N-hsaSIGXOR0FIS-74	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0FIS-12_activation_N-hsaSIGXOR0FIS-80	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0FIS-14_activation_N-hsaSIGXOR0FIS-63	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+N-hsaSIGXOR0FIS-21_activation_N-hsaSIGXOR0FIS-63	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+N-hsaSIGXOR0FIS-28_inhibition_N-hsaSIGXOR0FIS-63	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+N-hsaSIGXOR0FIS-36_activation_N-hsaSIGXOR0FIS-63	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+N-hsaSIGXOR0FIS-46_inhibition_N-hsaSIGXOR0FIS-63	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+N-hsaSIGXOR0FIS-63_activation_N-hsaSIGXOR0FIS-80	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0FIS-63_activation_N-hsaSIGXOR0FIS-83	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+N-hsaSIGXOR0FIS-39_activation_N-hsaSIGXOR0FIS-78	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0FIS-14_activation_N-hsaSIGXOR0FIS-79	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0FIS-65_inhibition_N-hsaSIGXOR0FIS-82	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+N-hsaSIGXOR0FIS-67_activation_N-hsaSIGXOR0FIS-67_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-67_activation_N-hsaSIGXOR0FIS-67_func	DOWN	directed	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-68 69_activation_N-hsaSIGXOR0FIS-68 69_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-68 69_activation_N-hsaSIGXOR0FIS-68 69_func	DOWN	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-70_activation_N-hsaSIGXOR0FIS-70_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-70_activation_N-hsaSIGXOR0FIS-70_func	DOWN	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-71_activation_N-hsaSIGXOR0FIS-71_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-71_activation_N-hsaSIGXOR0FIS-71_func	DOWN	directed	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-72 73_activation_N-hsaSIGXOR0FIS-72 73_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-72 73_activation_N-hsaSIGXOR0FIS-72 73_func	DOWN	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-74_activation_N-hsaSIGXOR0FIS-74_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-74_activation_N-hsaSIGXOR0FIS-74_func	DOWN	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0FIS-75 76_activation_N-hsaSIGXOR0FIS-75 76_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-75 76_activation_N-hsaSIGXOR0FIS-75 76_func	DOWN	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-77_activation_N-hsaSIGXOR0FIS-77_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-77_activation_N-hsaSIGXOR0FIS-77_func	DOWN	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-78_activation_N-hsaSIGXOR0FIS-78_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-78_activation_N-hsaSIGXOR0FIS-78_func	DOWN	directed	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0FIS-79_activation_N-hsaSIGXOR0FIS-79_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-79_activation_N-hsaSIGXOR0FIS-79_func	DOWN	directed	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0FIS-80_activation_N-hsaSIGXOR0FIS-80_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-80_activation_N-hsaSIGXOR0FIS-80_func	DOWN	directed	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0FIS-81_activation_N-hsaSIGXOR0FIS-81_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-81_activation_N-hsaSIGXOR0FIS-81_func	DOWN	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0FIS-82_activation_N-hsaSIGXOR0FIS-82_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-82_activation_N-hsaSIGXOR0FIS-82_func	DOWN	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+N-hsaSIGXOR0FIS-83_activation_N-hsaSIGXOR0FIS-83_func	DOWN	darkgrey	N-hsaSIGXOR0FIS-83_activation_N-hsaSIGXOR0FIS-83_func	DOWN	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0

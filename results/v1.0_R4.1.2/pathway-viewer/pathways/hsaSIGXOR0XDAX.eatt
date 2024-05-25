@@ -1,0 +1,49 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0XDAX-12	P-hsaSIGXOR0XDAX-39 40	P-hsaSIGXOR0XDAX-4	P-hsaSIGXOR0XDAX-46	P-hsaSIGXOR0XDAX-45 13	P-hsaSIGXOR0XDAX-44	P-hsaSIGXOR0XDAX-30	P-hsaSIGXOR0XDAX-32 33	P-hsaSIGXOR0XDAX-43	P-hsaSIGXOR0XDAX-31	P-hsaSIGXOR0XDAX-34 35 36 37 38	P-hsaSIGXOR0XDAX-29	P-hsaSIGXOR0XDAX-41 6 42
+N-hsaSIGXOR0XDAX-4 5_activation_N-hsaSIGXOR0XDAX-28	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-15 4_activation_N-hsaSIGXOR0XDAX-28	0	darkgrey	1	1	directed	1	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-28_inhibition_N-hsaSIGXOR0XDAX-12	0	darkgrey	1	1	inhibited	1	0	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-4 5_activation_N-hsaSIGXOR0XDAX-39 40	0	darkgrey	1	1	directed	0	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-15 4_activation_N-hsaSIGXOR0XDAX-39 40	0	darkgrey	1	1	directed	0	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-5_activation_N-hsaSIGXOR0XDAX-4	0	darkgrey	1	1	directed	0	0	1	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-15_activation_N-hsaSIGXOR0XDAX-4	0	darkgrey	1	1	directed	0	0	1	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-8_inhibition_N-hsaSIGXOR0XDAX-12 13	0	darkgrey	1	1	inhibited	0	0	0	1	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-12 13_inhibition_N-hsaSIGXOR0XDAX-26	0	darkgrey	1	1	inhibited	0	0	0	1	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-26_inhibition_N-hsaSIGXOR0XDAX-46	0	darkgrey	1	1	inhibited	0	0	0	1	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-8_inhibition_N-hsaSIGXOR0XDAX-45 13	0	darkgrey	1	1	inhibited	0	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-19_activation_N-hsaSIGXOR0XDAX-44	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-20_activation_N-hsaSIGXOR0XDAX-19	0	darkgrey	1	1	directed	0	0	0	0	0	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-7_activation_N-hsaSIGXOR0XDAX-30	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-11_activation_N-hsaSIGXOR0XDAX-7	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-21_activation_N-hsaSIGXOR0XDAX-11	0	darkgrey	1	1	directed	0	0	0	0	0	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-1 2 3_inhibition_N-hsaSIGXOR0XDAX-22	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0XDAX-1 2 3_activation_N-hsaSIGXOR0XDAX-32 33	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0XDAX-9_activation_N-hsaSIGXOR0XDAX-16 17	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	1	1	1	0	0
+N-hsaSIGXOR0XDAX-10_activation_N-hsaSIGXOR0XDAX-1 2 3	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0XDAX-14_activation_N-hsaSIGXOR0XDAX-10	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	1	1	1	0	0
+N-hsaSIGXOR0XDAX-16 17_activation_N-hsaSIGXOR0XDAX-10	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	1	1	1	0	0
+N-hsaSIGXOR0XDAX-16 17_activation_N-hsaSIGXOR0XDAX-14	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	1	1	1	0	0
+N-hsaSIGXOR0XDAX-21_activation_N-hsaSIGXOR0XDAX-16 17	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	1	1	1	0	0
+N-hsaSIGXOR0XDAX-22_inhibition_N-hsaSIGXOR0XDAX-32 33	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0XDAX-24_activation_N-hsaSIGXOR0XDAX-9	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	1	1	1	1	1
+N-hsaSIGXOR0XDAX-25_activation_N-hsaSIGXOR0XDAX-9	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	1	1	1	1	1
+N-hsaSIGXOR0XDAX-27_activation_N-hsaSIGXOR0XDAX-16 17	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	1	1	1	1	0	0
+N-hsaSIGXOR0XDAX-10_activation_N-hsaSIGXOR0XDAX-18	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0XDAX-18_inhibition_N-hsaSIGXOR0XDAX-43	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0XDAX-23_inhibition_N-hsaSIGXOR0XDAX-18	0	darkgrey	1	1	inhibited	0	0	0	0	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0XDAX-10_activation_N-hsaSIGXOR0XDAX-31	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	1	0	0	0
+N-hsaSIGXOR0XDAX-10_activation_N-hsaSIGXOR0XDAX-34 35 36 37 38	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0XDAX-6_activation_N-hsaSIGXOR0XDAX-29	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0XDAX-9_activation_N-hsaSIGXOR0XDAX-6	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0XDAX-9_activation_N-hsaSIGXOR0XDAX-41 6 42	0	darkgrey	1	1	directed	0	0	0	0	0	0	0	0	0	0	0	0	1
+N-hsaSIGXOR0XDAX-29_activation_N-hsaSIGXOR0XDAX-29_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-29_activation_N-hsaSIGXOR0XDAX-29_func	DOWN	directed	0	0	0	0	0	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0XDAX-4_activation_N-hsaSIGXOR0XDAX-4_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-4_activation_N-hsaSIGXOR0XDAX-4_func	DOWN	directed	0	0	1	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-30_activation_N-hsaSIGXOR0XDAX-30_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-30_activation_N-hsaSIGXOR0XDAX-30_func	DOWN	directed	0	0	0	0	0	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-32 33_activation_N-hsaSIGXOR0XDAX-32 33_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-32 33_activation_N-hsaSIGXOR0XDAX-32 33_func	DOWN	directed	0	0	0	0	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0XDAX-34 35 36 37 38_activation_N-hsaSIGXOR0XDAX-34 35 36 37 38_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-34 35 36 37 38_activation_N-hsaSIGXOR0XDAX-34 35 36 37 38_func	DOWN	directed	0	0	0	0	0	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0XDAX-39 40_activation_N-hsaSIGXOR0XDAX-39 40_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-39 40_activation_N-hsaSIGXOR0XDAX-39 40_func	DOWN	directed	0	1	0	0	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-41 6 42_activation_N-hsaSIGXOR0XDAX-41 6 42_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-41 6 42_activation_N-hsaSIGXOR0XDAX-41 6 42_func	DOWN	directed	0	0	0	0	0	0	0	0	0	0	0	0	1
+N-hsaSIGXOR0XDAX-43_activation_N-hsaSIGXOR0XDAX-43_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-43_activation_N-hsaSIGXOR0XDAX-43_func	DOWN	directed	0	0	0	0	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0XDAX-44_activation_N-hsaSIGXOR0XDAX-44_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-44_activation_N-hsaSIGXOR0XDAX-44_func	DOWN	directed	0	0	0	0	0	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-45 13_activation_N-hsaSIGXOR0XDAX-45 13_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-45 13_activation_N-hsaSIGXOR0XDAX-45 13_func	DOWN	directed	0	0	0	0	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-46_activation_N-hsaSIGXOR0XDAX-46_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-46_activation_N-hsaSIGXOR0XDAX-46_func	DOWN	directed	0	0	0	1	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0XDAX-12_activation_N-hsaSIGXOR0XDAX-12_func	DOWN	darkgrey	N-hsaSIGXOR0XDAX-12_activation_N-hsaSIGXOR0XDAX-12_func	DOWN	directed	1	0	0	0	0	0	0	0	0	0	0	0	0

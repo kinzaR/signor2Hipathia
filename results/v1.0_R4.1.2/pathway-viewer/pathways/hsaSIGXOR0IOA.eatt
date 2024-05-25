@@ -1,0 +1,27 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0IOA-30	P-hsaSIGXOR0IOA-28 29
+N-hsaSIGXOR0IOA-2 3 4_inhibition_N-hsaSIGXOR0IOA-19	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-5_inhibition_N-hsaSIGXOR0IOA-6	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-6_inhibition_N-hsaSIGXOR0IOA-12	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-2 3 4_inhibition_N-hsaSIGXOR0IOA-6	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-7_inhibition_N-hsaSIGXOR0IOA-12	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-8_inhibition_N-hsaSIGXOR0IOA-6	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-9_activation_N-hsaSIGXOR0IOA-6	0	darkgrey	1	1	directed	1	0
+N-hsaSIGXOR0IOA-11_inhibition_N-hsaSIGXOR0IOA-16	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-11_inhibition_N-hsaSIGXOR0IOA-9	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-12_inhibition_N-hsaSIGXOR0IOA-30	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-14_activation_N-hsaSIGXOR0IOA-18	0	darkgrey	1	1	directed	1	1
+N-hsaSIGXOR0IOA-16_activation_N-hsaSIGXOR0IOA-9	0	darkgrey	1	1	directed	1	0
+N-hsaSIGXOR0IOA-17_activation_N-hsaSIGXOR0IOA-21	0	darkgrey	1	1	directed	1	1
+N-hsaSIGXOR0IOA-18_activation_N-hsaSIGXOR0IOA-17	0	darkgrey	1	1	directed	1	1
+N-hsaSIGXOR0IOA-19_activation_N-hsaSIGXOR0IOA-7	0	darkgrey	1	1	directed	1	0
+N-hsaSIGXOR0IOA-9_activation_N-hsaSIGXOR0IOA-16	0	darkgrey	1	1	directed	1	0
+N-hsaSIGXOR0IOA-5_activation_N-hsaSIGXOR0IOA-26	0	darkgrey	1	1	directed	1	0
+N-hsaSIGXOR0IOA-21_activation_N-hsaSIGXOR0IOA-22	0	darkgrey	1	1	directed	1	1
+N-hsaSIGXOR0IOA-22_activation_N-hsaSIGXOR0IOA-2 3 4	0	darkgrey	1	1	directed	1	1
+N-hsaSIGXOR0IOA-24_inhibition_N-hsaSIGXOR0IOA-6	0	darkgrey	1	1	inhibited	1	0
+N-hsaSIGXOR0IOA-25_activation_N-hsaSIGXOR0IOA-7	0	darkgrey	1	1	directed	1	0
+N-hsaSIGXOR0IOA-26_activation_N-hsaSIGXOR0IOA-12	0	darkgrey	1	1	directed	1	0
+N-hsaSIGXOR0IOA-2 3 4_inhibition_N-hsaSIGXOR0IOA-10	0	darkgrey	1	1	inhibited	0	1
+N-hsaSIGXOR0IOA-10_inhibition_N-hsaSIGXOR0IOA-28 29	0	darkgrey	1	1	inhibited	0	1
+N-hsaSIGXOR0IOA-28 29_activation_N-hsaSIGXOR0IOA-28 29_func	DOWN	darkgrey	N-hsaSIGXOR0IOA-28 29_activation_N-hsaSIGXOR0IOA-28 29_func	DOWN	directed	0	1
+N-hsaSIGXOR0IOA-30_activation_N-hsaSIGXOR0IOA-30_func	DOWN	darkgrey	N-hsaSIGXOR0IOA-30_activation_N-hsaSIGXOR0IOA-30_func	DOWN	directed	1	0

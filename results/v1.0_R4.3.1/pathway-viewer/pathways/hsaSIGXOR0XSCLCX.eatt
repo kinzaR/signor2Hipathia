@@ -1,0 +1,27 @@
+id	status	color	pvalue	adj.pvalue	shape	P-hsaSIGXOR0XSCLCX-19	P-hsaSIGXOR0XSCLCX-22	P-hsaSIGXOR0XSCLCX-21	P-hsaSIGXOR0XSCLCX-20
+N-hsaSIGXOR0XSCLCX-1_activation_N-hsaSIGXOR0XSCLCX-6 7	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-2_activation_N-hsaSIGXOR0XSCLCX-12	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-4_activation_N-hsaSIGXOR0XSCLCX-9	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-4_activation_N-hsaSIGXOR0XSCLCX-19	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-6 7_activation_N-hsaSIGXOR0XSCLCX-4	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-8_activation_N-hsaSIGXOR0XSCLCX-12	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-9_activation_N-hsaSIGXOR0XSCLCX-19	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-10_activation_N-hsaSIGXOR0XSCLCX-6 7	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-12_activation_N-hsaSIGXOR0XSCLCX-6 7	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-13_activation_N-hsaSIGXOR0XSCLCX-6 7	0	darkgrey	1	1	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-1_activation_N-hsaSIGXOR0XSCLCX-15	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0XSCLCX-3_activation_N-hsaSIGXOR0XSCLCX-16	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0XSCLCX-5_activation_N-hsaSIGXOR0XSCLCX-15	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0XSCLCX-10_activation_N-hsaSIGXOR0XSCLCX-3	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0XSCLCX-15_activation_N-hsaSIGXOR0XSCLCX-17	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0XSCLCX-16_activation_N-hsaSIGXOR0XSCLCX-5	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0XSCLCX-17_activation_N-hsaSIGXOR0XSCLCX-22	0	darkgrey	1	1	directed	0	1	0	0
+N-hsaSIGXOR0XSCLCX-1_activation_N-hsaSIGXOR0XSCLCX-21	0	darkgrey	1	1	directed	0	0	1	0
+N-hsaSIGXOR0XSCLCX-11_activation_N-hsaSIGXOR0XSCLCX-18	0	darkgrey	1	1	directed	0	0	0	1
+N-hsaSIGXOR0XSCLCX-14_inhibition_N-hsaSIGXOR0XSCLCX-20	0	darkgrey	1	1	inhibited	0	0	0	1
+N-hsaSIGXOR0XSCLCX-18_inhibition_N-hsaSIGXOR0XSCLCX-14	0	darkgrey	1	1	inhibited	0	0	0	1
+N-hsaSIGXOR0XSCLCX-18_activation_N-hsaSIGXOR0XSCLCX-20	0	darkgrey	1	1	directed	0	0	0	1
+N-hsaSIGXOR0XSCLCX-19_activation_N-hsaSIGXOR0XSCLCX-19_func	DOWN	darkgrey	N-hsaSIGXOR0XSCLCX-19_activation_N-hsaSIGXOR0XSCLCX-19_func	DOWN	directed	1	0	0	0
+N-hsaSIGXOR0XSCLCX-20_activation_N-hsaSIGXOR0XSCLCX-20_func	DOWN	darkgrey	N-hsaSIGXOR0XSCLCX-20_activation_N-hsaSIGXOR0XSCLCX-20_func	DOWN	directed	0	0	0	1
+N-hsaSIGXOR0XSCLCX-21_activation_N-hsaSIGXOR0XSCLCX-21_func	DOWN	darkgrey	N-hsaSIGXOR0XSCLCX-21_activation_N-hsaSIGXOR0XSCLCX-21_func	DOWN	directed	0	0	1	0
+N-hsaSIGXOR0XSCLCX-22_activation_N-hsaSIGXOR0XSCLCX-22_func	DOWN	darkgrey	N-hsaSIGXOR0XSCLCX-22_activation_N-hsaSIGXOR0XSCLCX-22_func	DOWN	directed	0	1	0	0

@@ -1,0 +1,548 @@
+* path_id : 	SIGXOR0AAAM
+	P30520,CHEBI:16810,Q8N142	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0AC
+	Parsed!
+* path_id : 	SIGXOR0AD
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0AG
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0AML
+	P04637,SIGNOR-C156,P19544,Q01196,P78396,SIGNOR-PF27,SIGNOR-PF34,SIGNOR-FP2,P49715,Q9Y6K1,P42771,P42229,P01106,Q06945,SIGNOR-FP3,P46531,P42345,Q6N021	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0AML_miRXA
+	P42345,Q01196,P42229	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0AML_TF
+	P11161	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0AML_TRIXLETS
+	P04637,P49715	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0AML0ASXL1
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0AML0BCRABL
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0AML0DXMT3A
+	Q9Y6K1,P04637,P01106	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0AML0FLT3
+	P42345,P42229,Q06945	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0AML0FusionXroteins
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0AML0IDH_TET
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0AML0IDH0TET
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0AML0KIT
+	P42345,SIGNOR-FP3	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0AML0MLL
+	Q01196	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0AML0XX1
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0AML10ETO
+	Q06945	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0AMXK
+	SIGNOR-C100,SIGNOR-C3	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0Autophagy
+	Parsed!
+* path_id : 	SIGXOR0B0cell
+	P0DOX6	has no Entrez gene ID, NA has been returned!
+	P0DOX8	has no Entrez gene ID, NA has been returned!
+	P0DOX3	has no Entrez gene ID, NA has been returned!
+	P0DOX8	has no Entrez gene ID, NA has been returned!
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	P0DOX7	has no Entrez gene ID, NA has been returned!
+	P0DOX6	has no Entrez gene ID, NA has been returned!
+	P0DOX3	has no Entrez gene ID, NA has been returned!
+	P0DOX7	has no Entrez gene ID, NA has been returned!
+	P0DOX6	has no Entrez gene ID, NA has been returned!
+	P0DOX8	has no Entrez gene ID, NA has been returned!
+	P0DOX3	has no Entrez gene ID, NA has been returned!
+	P0DOX8	has no Entrez gene ID, NA has been returned!
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	P0DOX7	has no Entrez gene ID, NA has been returned!
+	P0DOX6	has no Entrez gene ID, NA has been returned!
+	P0DOX3	has no Entrez gene ID, NA has been returned!
+	P0DOX7	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0CAC
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0CB
+	Parsed!
+* path_id : 	SIGXOR0CC
+	Q9UBK2	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Q92753	has no Entrez gene ID, NA has been returned!
+	Q92753	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0CCX
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0CM
+	Parsed!
+* path_id : 	SIGXOR0CRC
+	SIGNOR-PF1,P35222,P04637,Q9UJU2	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0CS
+	Parsed!
+* path_id : 	SIGXOR0DD
+	Parsed!
+* path_id : 	SIGXOR0DR
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0DS
+	Parsed!
+* path_id : 	SIGXOR0EGF
+	Parsed!
+* path_id : 	SIGXOR0EI
+	SIGNOR-C13,P01375,SIGNOR-PF15	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	P03186	has no Entrez gene ID, NA has been returned!
+	P03200	has no Entrez gene ID, NA has been returned!
+	P01562	3439,3447	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	P03217	has no Entrez gene ID, NA has been returned!
+	P03209	has no Entrez gene ID, NA has been returned!
+	P03205	has no Entrez gene ID, NA has been returned!
+	P03212	has no Entrez gene ID, NA has been returned!
+	P03231	has no Entrez gene ID, NA has been returned!
+	P03230	has no Entrez gene ID, NA has been returned!
+	P03211	has no Entrez gene ID, NA has been returned!
+	P13285	has no Entrez gene ID, NA has been returned!
+	P13288	has no Entrez gene ID, NA has been returned!
+	P03206	has no Entrez gene ID, NA has been returned!
+	P0C725	has no Entrez gene ID, NA has been returned!
+	P03186	has no Entrez gene ID, NA has been returned!
+	P03200	has no Entrez gene ID, NA has been returned!
+	P01562	3439,3447	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	P03217	has no Entrez gene ID, NA has been returned!
+	P03209	has no Entrez gene ID, NA has been returned!
+	P03205	has no Entrez gene ID, NA has been returned!
+	P03212	has no Entrez gene ID, NA has been returned!
+	P03231	has no Entrez gene ID, NA has been returned!
+	P03230	has no Entrez gene ID, NA has been returned!
+	P03211	has no Entrez gene ID, NA has been returned!
+	P13285	has no Entrez gene ID, NA has been returned!
+	P13288	has no Entrez gene ID, NA has been returned!
+	P03206	has no Entrez gene ID, NA has been returned!
+	P0C725	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0ES
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0FapIXS
+	Parsed!
+* path_id : 	SIGXOR0FattyAcidSynthesis
+	Parsed!
+* path_id : 	SIGXOR0Fibrosis
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0FIIA
+	P42229,P46531	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0FIS
+	P42345,P10415,Q92934	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0FM
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0FSGS
+	Parsed!
+* path_id : 	SIGXOR0G
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0G10S_trans
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0G20M_trans
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0GBM
+	SIGNOR-PF1	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0GCR
+	P04150,Q16539	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0Glycogenolysis
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0Glycolysis
+	CHEBI:15361	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0GS
+	Q9BYB0,Q7Z6G8,P78352	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Q9BYB0	has no Entrez gene ID, NA has been returned!
+	Q9BYB0	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0GSX
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0GX
+	P31327,P27708,Q06203	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0HC
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0Hedgehog
+	P08151	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0HT
+	P35222,SIGNOR-PF24,Q9UJU2	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0HXX
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0IIS
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0IL1R
+	SIGNOR-C13	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0IL6
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0Inflammosome
+	P19525,SIGNOR-C13	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	P01562	3439,3447	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	P01562	3439,3447	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Parsed!
+* path_id : 	SIGXOR0IOA
+	O43524,SIGNOR-PF24,P16220	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0IoT
+	SIGNOR-C454	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	CHEBI:33699	has no Entrez gene ID, NA has been returned!
+	P62861	has no Entrez gene ID, NA has been returned!
+	CHEBI:15996	has no Entrez gene ID, NA has been returned!
+	CHEBI:16635	has no Entrez gene ID, NA has been returned!
+	CHEBI:33699	has no Entrez gene ID, NA has been returned!
+	P62861	has no Entrez gene ID, NA has been returned!
+	CHEBI:15996	has no Entrez gene ID, NA has been returned!
+	CHEBI:16635	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0IS
+	Parsed!
+* path_id : 	SIGXOR0IXSR
+	SIGNOR-C3	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0LBC
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0LR
+	P40763	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0M1M2
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0MC
+	SIGNOR-C3	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0MCAXO
+	P04637	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0MD
+	Q15116,SIGNOR-C154,P18627,P42345,Q9GZY8,P16410	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	CHEBI:166824	has no Entrez gene ID, NA has been returned!
+	CHEBI:53000	has no Entrez gene ID, NA has been returned!
+	CHEBI:166824	has no Entrez gene ID, NA has been returned!
+	P01848	has no Entrez gene ID, NA has been returned!
+	P01850	has no Entrez gene ID, NA has been returned!
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	CHEBI:166824	has no Entrez gene ID, NA has been returned!
+	CHEBI:53000	has no Entrez gene ID, NA has been returned!
+	CHEBI:166824	has no Entrez gene ID, NA has been returned!
+	P01848	has no Entrez gene ID, NA has been returned!
+	P01850	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0MM
+	SIGNOR-PF1,P10415,Q92934,P16220,P04637,P06400	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0mRXA_Maturation
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0MS
+	Parsed!
+* path_id : 	SIGXOR0MSX
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0OS
+	CHEBI:29108,SIGNOR-PF17	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	P01178-PRO_0000020496	has no Entrez gene ID, NA has been returned!
+	P01178-PRO_0000020495	has no Entrez gene ID, NA has been returned!
+	P01178-PRO_0000020496	has no Entrez gene ID, NA has been returned!
+	P01178-PRO_0000020495	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0RAM
+	Parsed!
+* path_id : 	SIGXOR0RAS
+	Parsed!
+* path_id : 	SIGXOR0ReS
+	P51608,Q9H2X6	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0RMS
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0RS
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0SARS0COV0AXOXTOSIS
+	Q14790	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	P59596	has no Entrez gene ID, NA has been returned!
+	P59632	has no Entrez gene ID, NA has been returned!
+	P59635	has no Entrez gene ID, NA has been returned!
+	P59637	has no Entrez gene ID, NA has been returned!
+	P59596	has no Entrez gene ID, NA has been returned!
+	P59632	has no Entrez gene ID, NA has been returned!
+	P59635	has no Entrez gene ID, NA has been returned!
+	P59637	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0SARS0CoV0MAXK0Xathway
+	SIGNOR-C154	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	P59633	has no Entrez gene ID, NA has been returned!
+	P59632	has no Entrez gene ID, NA has been returned!
+	P59635	has no Entrez gene ID, NA has been returned!
+	P59595	has no Entrez gene ID, NA has been returned!
+	P59633	has no Entrez gene ID, NA has been returned!
+	P59632	has no Entrez gene ID, NA has been returned!
+	P59635	has no Entrez gene ID, NA has been returned!
+	P59595	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0SAXK0JXK
+	Parsed!
+* path_id : 	SIGXOR0SCAAE
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0SCCS
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0SCFI
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0SCIR
+	SIGNOR-C13	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	P0C6X7-PRO_0000037311	has no Entrez gene ID, NA has been returned!
+	P59636	has no Entrez gene ID, NA has been returned!
+	Q7TFA0	has no Entrez gene ID, NA has been returned!
+	P59634	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449630	has no Entrez gene ID, NA has been returned!
+	P59596	has no Entrez gene ID, NA has been returned!
+	Q80H93	has no Entrez gene ID, NA has been returned!
+	P59595	has no Entrez gene ID, NA has been returned!
+	P59632	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037309	has no Entrez gene ID, NA has been returned!
+	P59633	has no Entrez gene ID, NA has been returned!
+	P0DTC6	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449624	has no Entrez gene ID, NA has been returned!
+	P59594	has no Entrez gene ID, NA has been returned!
+	P01562	3439,3447	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	P0C6X7-PRO_0000037311	has no Entrez gene ID, NA has been returned!
+	P59636	has no Entrez gene ID, NA has been returned!
+	Q7TFA0	has no Entrez gene ID, NA has been returned!
+	P59634	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449630	has no Entrez gene ID, NA has been returned!
+	P59596	has no Entrez gene ID, NA has been returned!
+	Q80H93	has no Entrez gene ID, NA has been returned!
+	P59595	has no Entrez gene ID, NA has been returned!
+	P59632	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037309	has no Entrez gene ID, NA has been returned!
+	P59633	has no Entrez gene ID, NA has been returned!
+	P0DTC6	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449624	has no Entrez gene ID, NA has been returned!
+	P59594	has no Entrez gene ID, NA has been returned!
+	P01562	3439,3447	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Parsed!
+* path_id : 	SIGXOR0SCISOVG
+	Viral_dsRNA	These stimuli are detected as targets. Should they be treated as phenotypes? Otherwise, they may introduce unnecessary noise during the mechanistic modeling process in the HiPathia method.
+	P0DTC6	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449630	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037321	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449624	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037311	has no Entrez gene ID, NA has been returned!
+	P59634	has no Entrez gene ID, NA has been returned!
+	Q7TFA0	has no Entrez gene ID, NA has been returned!
+	K9N643	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037309	has no Entrez gene ID, NA has been returned!
+	P59633	has no Entrez gene ID, NA has been returned!
+	P59636	has no Entrez gene ID, NA has been returned!
+	P0DTC5	has no Entrez gene ID, NA has been returned!
+	P59595	has no Entrez gene ID, NA has been returned!
+	Q80H93	has no Entrez gene ID, NA has been returned!
+	P0DTC6	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449630	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037321	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449624	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037311	has no Entrez gene ID, NA has been returned!
+	P59634	has no Entrez gene ID, NA has been returned!
+	Q7TFA0	has no Entrez gene ID, NA has been returned!
+	K9N643	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037309	has no Entrez gene ID, NA has been returned!
+	P59633	has no Entrez gene ID, NA has been returned!
+	P59636	has no Entrez gene ID, NA has been returned!
+	P0DTC5	has no Entrez gene ID, NA has been returned!
+	P59595	has no Entrez gene ID, NA has been returned!
+	Q80H93	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0SCSG
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0SCUX
+	P05198,P35638	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Unfolded_Proteins	These stimuli are detected as targets. Should they be treated as phenotypes? Otherwise, they may introduce unnecessary noise during the mechanistic modeling process in the HiPathia method.
+	CHEBI:18420	has no Entrez gene ID, NA has been returned!
+	P59594	has no Entrez gene ID, NA has been returned!
+	P17861-2	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449619	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037321	has no Entrez gene ID, NA has been returned!
+	P62861	has no Entrez gene ID, NA has been returned!
+	CHEBI:18420	has no Entrez gene ID, NA has been returned!
+	P59594	has no Entrez gene ID, NA has been returned!
+	P17861-2	has no Entrez gene ID, NA has been returned!
+	P0DTD1-PRO_0000449619	has no Entrez gene ID, NA has been returned!
+	P0C6X7-PRO_0000037321	has no Entrez gene ID, NA has been returned!
+	P62861	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0SHB
+	Parsed!
+* path_id : 	SIGXOR0TA
+	SIGNOR-C13	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0TC
+	SIGNOR-PF24	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Not parsed ------> Unreachable last nodes (effectors):MYC. Hipathia requires all last nodes (effectors) to be reachable from the first nodes (receptors).
+* path_id : 	SIGXOR0TCA
+	SIGNOR-C154	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	CHEBI:166824	has no Entrez gene ID, NA has been returned!
+	CHEBI:166824	has no Entrez gene ID, NA has been returned!
+	CHEBI:53000	has no Entrez gene ID, NA has been returned!
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	P01848	has no Entrez gene ID, NA has been returned!
+	P01850	has no Entrez gene ID, NA has been returned!
+	CHEBI:166824	has no Entrez gene ID, NA has been returned!
+	CHEBI:166824	has no Entrez gene ID, NA has been returned!
+	CHEBI:53000	has no Entrez gene ID, NA has been returned!
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	P01848	has no Entrez gene ID, NA has been returned!
+	P01850	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0TEAT
+	CHEBI:2651	has no Entrez gene ID, NA has been returned!
+	CHEBI:15996	has no Entrez gene ID, NA has been returned!
+	CHEBI:33699	has no Entrez gene ID, NA has been returned!
+	CHEBI:15996	has no Entrez gene ID, NA has been returned!
+	P62861	has no Entrez gene ID, NA has been returned!
+	CHEBI:2651	has no Entrez gene ID, NA has been returned!
+	CHEBI:15996	has no Entrez gene ID, NA has been returned!
+	CHEBI:33699	has no Entrez gene ID, NA has been returned!
+	CHEBI:15996	has no Entrez gene ID, NA has been returned!
+	P62861	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0TGFb
+	SIGNOR-C8,SIGNOR-C9	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Not parsed ------> Unreachable last nodes (effectors):SMAD4. Hipathia requires all last nodes (effectors) to be reachable from the first nodes (receptors).
+* path_id : 	SIGXOR0THM
+	CHEBI:28774,CHEBI:18332	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0TI
+	Q6P1K8	728340,730394	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Q9H1A7	has no Entrez gene ID, NA has been returned!
+	Q9GZM3	246721,548644	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Q6P1K8	728340,730394	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Q9H1A7	has no Entrez gene ID, NA has been returned!
+	Q9GZM3	246721,548644	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Parsed!
+* path_id : 	SIGXOR0TLR
+	Q86XR7	353376,100302736	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Q86XR7	353376,100302736	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Parsed!
+* path_id : 	SIGXOR0TSC
+	Parsed!
+* path_id : 	SIGXOR0VDM
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0VEGF
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	P0DP23	801,805,808	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Parsed!
+* path_id : 	SIGXOR0VKC
+	Parsed!
+* path_id : 	SIGXOR0WC
+	P35222,Q9UJU2	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0WXT
+	Q9UJU2,P01106	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0WXT_Myogenesis
+	Q13464	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0WXT0FLT3
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0X38
+	Parsed!
+* path_id : 	SIGXOR0X38_Myogenesis
+	P15172,Q06413	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0XC
+	SIGNOR-PF24,P10275	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0XCX
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0XD
+	Not parsed ------> Phenotype(s) activates/inhibits other molecules.
+* path_id : 	SIGXOR0XDAX
+	SIGNOR-PF24,P06400	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0XFKBC
+	Q13404	7335,387522	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Q13404	7335,387522	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Parsed!
+* path_id : 	SIGXOR0XFKBXC
+	Q96RJ3,P36941	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0XGC
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0XI3K0AKT
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	A8MYZ6	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0XM
+	Parsed!
+* path_id : 	SIGXOR0XOTCH
+	P46531	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0XOTCH_Myogenesis
+	P15172,Q06413,P23759	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0XR
+	P08247,CHEBI:29108,Q05193	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	character(0)	has no Entrez gene ID, NA has been returned!
+	character(0)	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0XS
+	Parsed!
+* path_id : 	SIGXOR0XSCLCX
+	Parsed!
+* path_id : 	SIGXOR0XU
+	Q9Y4D8	has no Entrez gene ID, NA has been returned!
+	Q13404	7335,387522	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	A0A1B0GUS4	has no Entrez gene ID, NA has been returned!
+	Q96P09	has no Entrez gene ID, NA has been returned!
+	O34567	has no Entrez gene ID, NA has been returned!
+	P35226	648,100532731	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	A6NK02	has no Entrez gene ID, NA has been returned!
+	Q6ZMK1	50626,84773,157542	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Q13434	has no Entrez gene ID, NA has been returned!
+	Q9HC17	has no Entrez gene ID, NA has been returned!
+	C9J1S8	399939,729384	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	A6NLI5	has no Entrez gene ID, NA has been returned!
+	Q9Y4D8	has no Entrez gene ID, NA has been returned!
+	Q13404	7335,387522	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	A0A1B0GUS4	has no Entrez gene ID, NA has been returned!
+	Q96P09	has no Entrez gene ID, NA has been returned!
+	O34567	has no Entrez gene ID, NA has been returned!
+	P35226	648,100532731	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	A6NK02	has no Entrez gene ID, NA has been returned!
+	Q6ZMK1	50626,84773,157542	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	Q13434	has no Entrez gene ID, NA has been returned!
+	Q9HC17	has no Entrez gene ID, NA has been returned!
+	C9J1S8	399939,729384	has more than 1 Entrez gene ID, first one has been chosen! (Future enhancement to be confirmed: consider this as a family?)
+	A6NLI5	has no Entrez gene ID, NA has been returned!
+	Parsed!
+* path_id : 	SIGXOR0XXM1_new
+	Not parsed ------> No final node found! All Signor effectors are activating/inhibiting other molecule(s). This cyclic issue will be addressed in future versions.
+* path_id : 	SIGXOR0XXM10FLT30DXMT3A
+	P04637,P49715	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!
+* path_id : 	SIGXOR0XXX
+	CHEBI:78346	These effectors will not be considered as effectors in the parsed pathways because they have other interactions as a source and will not be detected as outnodes while performing HiPathia.
+	Parsed!

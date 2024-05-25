@@ -1,0 +1,14 @@
+N-hsaSIGXOR0FapIXS-1	activation	N-hsaSIGXOR0FapIXS-8
+N-hsaSIGXOR0FapIXS-3 4	activation	N-hsaSIGXOR0FapIXS-5
+N-hsaSIGXOR0FapIXS-5	activation	N-hsaSIGXOR0FapIXS-2
+N-hsaSIGXOR0FapIXS-5	activation	N-hsaSIGXOR0FapIXS-6
+N-hsaSIGXOR0FapIXS-6	activation	N-hsaSIGXOR0FapIXS-2
+N-hsaSIGXOR0FapIXS-3 4	activation	N-hsaSIGXOR0FapIXS-2
+N-hsaSIGXOR0FapIXS-7	inhibition	N-hsaSIGXOR0FapIXS-11
+N-hsaSIGXOR0FapIXS-2	inhibition	N-hsaSIGXOR0FapIXS-7
+N-hsaSIGXOR0FapIXS-2	inhibition	N-hsaSIGXOR0FapIXS-9
+N-hsaSIGXOR0FapIXS-2	inhibition	N-hsaSIGXOR0FapIXS-10
+N-hsaSIGXOR0FapIXS-8	activation	N-hsaSIGXOR0FapIXS-8_func
+N-hsaSIGXOR0FapIXS-9	activation	N-hsaSIGXOR0FapIXS-9_func
+N-hsaSIGXOR0FapIXS-10	activation	N-hsaSIGXOR0FapIXS-10_func
+N-hsaSIGXOR0FapIXS-11	activation	N-hsaSIGXOR0FapIXS-11_func

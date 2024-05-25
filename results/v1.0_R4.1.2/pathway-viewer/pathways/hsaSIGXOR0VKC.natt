@@ -1,0 +1,25 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0VKC-7	P-hsaSIGXOR0VKC-8	P-hsaSIGXOR0VKC-9	P-hsaSIGXOR0VKC-10	P-hsaSIGXOR0VKC-11	P-hsaSIGXOR0VKC-12	P-hsaSIGXOR0VKC-13	P-hsaSIGXOR0VKC-14	P-hsaSIGXOR0VKC-15
+N-hsaSIGXOR0VKC-1	warfarin	10	0	0	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:10033>CHEBI:10033</a> (warfarin)	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-2	vitamin K epoxide	10	500	100	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:28371>CHEBI:28371</a> (vitamin K epoxide)	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-3	GGCX	10	800	150	white	lightgrey	2	ellipse	node	0.62	black	22	2677	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P38435>P38435</a> (GGCX)	1	1	1	1	1	1	1	1	1
+N-hsaSIGXOR0VKC-4	VKORC1	10	100	50	white	lightgrey	2	ellipse	node	0.62	black	22	79001	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9BQB6>Q9BQB6</a> (VKORC1)	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-5	vitamin K	10	200	100	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:28384>CHEBI:28384</a> (vitamin K)	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-6	Reduced Vitamin K	10	300	100	white	lightgrey	2	circle	node	0.62	black	15	NA	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=CHEBI:8784>CHEBI:8784</a> (Reduced Vitamin K)	0	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-7	F9	10	800	50	white	lightgrey	2	ellipse	node	0.62	black	22	2158	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P00740>P00740</a> (F9)	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-8	GAS6	10	600	200	white	lightgrey	2	ellipse	node	0.62	black	22	2621	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q14393>Q14393</a> (GAS6)	0	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-9	PROS1	10	800	250	white	lightgrey	2	ellipse	node	0.62	black	22	5627	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P07225>P07225</a> (PROS1)	0	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-10	PROC	10	1000	150	white	lightgrey	2	ellipse	node	0.62	black	22	5624	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P04070>P04070</a> (PROC)	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0VKC-11	F2	10	1000	200	white	lightgrey	2	ellipse	node	0.62	black	22	2147	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P00734>P00734</a> (F2)	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0VKC-12	F10	10	900	100	white	lightgrey	2	ellipse	node	0.62	black	22	2159	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P00742>P00742</a> (F10)	0	0	0	0	0	1	0	0	0
+N-hsaSIGXOR0VKC-13	F7	10	900	250	white	lightgrey	2	ellipse	node	0.62	black	22	2155	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P08709>P08709</a> (F7)	0	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0VKC-14	BGLAP	10	700	250	white	lightgrey	2	ellipse	node	0.62	black	22	632	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P02818>P02818</a> (BGLAP)	0	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0VKC-15	PROZ	10	700	100	white	lightgrey	2	ellipse	node	0.62	black	22	8858	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P22891>P22891</a> (PROZ)	0	0	0	0	0	0	0	0	1
+N-hsaSIGXOR0VKC-7_func	Blood coagulation	10	1065.60246528632	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Blood coagulation	1	0	0	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-8_func	Growth regulation	10	865.602465286318	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Growth regulation	0	1	0	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-9_func	Blood coagulation	10	1065.60246528632	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Blood coagulation	0	0	1	0	0	0	0	0	0
+N-hsaSIGXOR0VKC-10_func	Blood coagulation	10	1265.60246528632	150	white	lightgrey	2	rectangle	node	0.62	black	-1		Blood coagulation	0	0	0	1	0	0	0	0	0
+N-hsaSIGXOR0VKC-11_func	Blood coagulation	10	1265.60246528632	200	white	lightgrey	2	rectangle	node	0.62	black	-1		Blood coagulation	0	0	0	0	1	0	0	0	0
+N-hsaSIGXOR0VKC-12_func	Blood coagulation	10	1165.60246528632	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Blood coagulation	0	0	0	0	0	1	0	0	0
+N-hsaSIGXOR0VKC-13_func	Blood coagulation	10	1165.60246528632	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Blood coagulation	0	0	0	0	0	0	1	0	0
+N-hsaSIGXOR0VKC-14_func	Biomineralization	10	966.014767292953	250	white	lightgrey	2	rectangle	node	0.62	black	-1		Biomineralization	0	0	0	0	0	0	0	1	0
+N-hsaSIGXOR0VKC-15_func	Blood coagulation	10	966.014767292953	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Blood coagulation	0	0	0	0	0	0	0	0	1

@@ -1,0 +1,9 @@
+N-hsaSIGXOR0WC-1 2 3	inhibition	N-hsaSIGXOR0WC-5
+N-hsaSIGXOR0WC-4	activation	N-hsaSIGXOR0WC-12
+N-hsaSIGXOR0WC-5	activation	N-hsaSIGXOR0WC-7
+N-hsaSIGXOR0WC-6	inhibition	N-hsaSIGXOR0WC-1 2 3
+N-hsaSIGXOR0WC-7	activation	N-hsaSIGXOR0WC-13
+N-hsaSIGXOR0WC-8 9	inhibition	N-hsaSIGXOR0WC-1 2 3
+N-hsaSIGXOR0WC-10	inhibition	N-hsaSIGXOR0WC-5
+N-hsaSIGXOR0WC-11	inhibition	N-hsaSIGXOR0WC-1 2 3
+N-hsaSIGXOR0WC-4	activation	N-hsaSIGXOR0WC-8 9

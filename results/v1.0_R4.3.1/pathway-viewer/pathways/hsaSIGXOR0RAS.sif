@@ -1,0 +1,8 @@
+N-hsaSIGXOR0RAS-1	inhibition	N-hsaSIGXOR0RAS-9
+N-hsaSIGXOR0RAS-2	activation	N-hsaSIGXOR0RAS-1
+N-hsaSIGXOR0RAS-4	activation	N-hsaSIGXOR0RAS-1
+N-hsaSIGXOR0RAS-5	activation	N-hsaSIGXOR0RAS-1
+N-hsaSIGXOR0RAS-3	inhibition	N-hsaSIGXOR0RAS-10
+N-hsaSIGXOR0RAS-6 7 8	activation	N-hsaSIGXOR0RAS-3
+N-hsaSIGXOR0RAS-9	activation	N-hsaSIGXOR0RAS-9_func
+N-hsaSIGXOR0RAS-10	activation	N-hsaSIGXOR0RAS-10_func

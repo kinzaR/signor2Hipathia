@@ -1,0 +1,25 @@
+ID	label	labelSize	X	Y	color	strokeColor	strokeSize	shape	type	labelCex	labelColor	size	genesList	tooltip	P-hsaSIGXOR0ReS-18	P-hsaSIGXOR0ReS-17	P-hsaSIGXOR0ReS-16	P-hsaSIGXOR0ReS-13	P-hsaSIGXOR0ReS-14	P-hsaSIGXOR0ReS-15	P-hsaSIGXOR0ReS-19
+N-hsaSIGXOR0ReS-1	BDNF	10	200	200	white	lightgrey	2	ellipse	node	0.62	black	22	627	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P23560>P23560</a> (BDNF)	1	0	0	0	0	0	0
+N-hsaSIGXOR0ReS-2	MECP2	10	400	50	white	lightgrey	2	ellipse	node	0.62	black	22	4204	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P51608>P51608</a> (MECP2)	1	0	0	1	1	1	0
+N-hsaSIGXOR0ReS-3	DNMT1	10	400	0	white	lightgrey	2	ellipse	node	0.62	black	22	1786	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P26358>P26358</a> (DNMT1)	0	0	0	1	0	0	0
+N-hsaSIGXOR0ReS-4	PTPN1	10	300	100	white	lightgrey	2	ellipse	node	0.62	black	22	5770	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P18031>P18031</a> (PTPN1)	1	0	0	0	0	0	0
+N-hsaSIGXOR0ReS-5	SOS1	10	500	250	white	lightgrey	2	ellipse	node	0.62	black	22	6654	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q07889>Q07889</a> (SOS1)	0	1	0	0	0	0	0
+N-hsaSIGXOR0ReS-6	DLL1	10	300	300	white	lightgrey	2	ellipse	node	0.62	black	22	28514	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=O00548>O00548</a> (DLL1)	0	0	1	0	0	0	0
+N-hsaSIGXOR0ReS-7	HRAS	10	399.214508186132	200	white	lightgrey	2	ellipse	node	0.62	black	22	3265	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P01112>P01112</a> (HRAS)	0	1	0	0	0	0	0
+N-hsaSIGXOR0ReS-8	NTRK2	10	200	150	white	lightgrey	2	ellipse	node	0.62	black	22	4915	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q16620>Q16620</a> (NTRK2)	1	0	0	0	0	0	0
+N-hsaSIGXOR0ReS-9	SHC3	10	100	150	white	lightgrey	2	ellipse	node	0.62	black	22	53358	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q92529>Q92529</a> (SHC3)	1	0	0	0	0	0	0
+N-hsaSIGXOR0ReS-10	HIPK2	10	400	100	white	lightgrey	2	ellipse	node	0.62	black	22	28996	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q9H2X6>Q9H2X6</a> (HIPK2)	1	0	0	1	1	1	0
+N-hsaSIGXOR0ReS-11	MEF2C	10	500	50	white	lightgrey	2	ellipse	node	0.62	black	22	4208	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q06413>Q06413</a> (MEF2C)	1	0	0	1	1	1	0
+N-hsaSIGXOR0ReS-12	MEK1/2	10	100	50	white	lightgrey	2	ellipse	node	0.62	black	22	5605,5604	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF25>SIGNOR-PF25</a> (MEK1/2)	0	0	0	0	0	0	1
+N-hsaSIGXOR0ReS-13	GAD1	10	205.146730643026	-2.08972160186855	white	lightgrey	2	ellipse	node	0.62	black	22	2571	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=Q99259>Q99259</a> (GAD1)	0	0	0	1	0	0	0
+N-hsaSIGXOR0ReS-14	RELN	10	300	50	white	lightgrey	2	ellipse	node	0.62	black	22	5649	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P78509>P78509</a> (RELN)	0	0	0	0	1	0	0
+N-hsaSIGXOR0ReS-15	IGFBP3	10	500	100	white	lightgrey	2	ellipse	node	0.62	black	22	3486	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P17936>P17936</a> (IGFBP3)	0	0	0	0	0	1	0
+N-hsaSIGXOR0ReS-16	NOTCH1	10	200	300	white	lightgrey	2	ellipse	node	0.62	black	22	4851	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P46531>P46531</a> (NOTCH1)	0	0	1	0	0	0	0
+N-hsaSIGXOR0ReS-19	ERK1/2	10	0	50	white	lightgrey	2	ellipse	node	0.62	black	22	5594,5595	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=SIGNOR-PF1>SIGNOR-PF1</a> (ERK1/2)	0	0	0	0	0	0	1
+N-hsaSIGXOR0ReS-17	BRAF	10	600	200	white	lightgrey	2	ellipse	node	0.62	black	22	673	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P15056>P15056</a> (BRAF)	0	1	0	0	0	0	0
+N-hsaSIGXOR0ReS-18	GRB2	10	0	200	white	lightgrey	2	ellipse	node	0.62	black	22	2885	<a target=_blank href=https://signor.uniroma2.it/relation_result.php?id=P62993>P62993</a> (GRB2)	1	0	0	0	0	0	0
+N-hsaSIGXOR0ReS-13_func	Neurotransmitter biosynthesis	10	419.677370637069	-12.2454801882662	white	lightgrey	2	rectangle	node	0.62	black	-1		Neurotransmitter biosynthesis	0	0	0	1	0	0	0
+N-hsaSIGXOR0ReS-14_func	Cell adhesion	10	485.714285714281	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Cell adhesion	0	0	0	0	1	0	0
+N-hsaSIGXOR0ReS-15_func	Apoptosis	10	699.999999963294	100	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	0	0	0	0	0	1	0
+N-hsaSIGXOR0ReS-16_func	Notch signaling pathway	10	399.999999963294	300	white	lightgrey	2	rectangle	node	0.62	black	-1		Notch signaling pathway	0	0	1	0	0	0	0
+N-hsaSIGXOR0ReS-19_func	Apoptosis	10	199.999999963294	50	white	lightgrey	2	rectangle	node	0.62	black	-1		Apoptosis	0	0	0	0	0	0	1

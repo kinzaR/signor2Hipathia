@@ -1,0 +1,16 @@
+N-hsaSIGXOR0Autophagy-1	activation	N-hsaSIGXOR0Autophagy-24
+N-hsaSIGXOR0Autophagy-2	activation	N-hsaSIGXOR0Autophagy-25
+N-hsaSIGXOR0Autophagy-3	activation	N-hsaSIGXOR0Autophagy-26
+N-hsaSIGXOR0Autophagy-4	inhibition	N-hsaSIGXOR0Autophagy-27
+N-hsaSIGXOR0Autophagy-5 6 7 8 9 10 11	inhibition	N-hsaSIGXOR0Autophagy-17 18 19 20 21
+N-hsaSIGXOR0Autophagy-12	activation	N-hsaSIGXOR0Autophagy-17 18 19 20 21
+N-hsaSIGXOR0Autophagy-13	activation	N-hsaSIGXOR0Autophagy-28
+N-hsaSIGXOR0Autophagy-5 6 7 8 9 10 11	activation	N-hsaSIGXOR0Autophagy-29 30 31
+N-hsaSIGXOR0Autophagy-14	activation	N-hsaSIGXOR0Autophagy-27
+N-hsaSIGXOR0Autophagy-15	activation	N-hsaSIGXOR0Autophagy-17 18 19 20 21
+N-hsaSIGXOR0Autophagy-16	activation	N-hsaSIGXOR0Autophagy-5 6 7 8 9 10 11
+N-hsaSIGXOR0Autophagy-17 18 19 20 21	inhibition	N-hsaSIGXOR0Autophagy-29 30 31
+N-hsaSIGXOR0Autophagy-3	activation	N-hsaSIGXOR0Autophagy-27
+N-hsaSIGXOR0Autophagy-22	activation	N-hsaSIGXOR0Autophagy-24
+N-hsaSIGXOR0Autophagy-23	activation	N-hsaSIGXOR0Autophagy-4
+N-hsaSIGXOR0Autophagy-2	activation	N-hsaSIGXOR0Autophagy-32 25 33
