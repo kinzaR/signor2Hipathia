@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Default R version
+# Default R version for web object, Moreover the recommended is the 4.3.1!
 R_VERSION="4.1.2"
 
 # Check if an R version is provided as an argument
@@ -19,7 +19,8 @@ fi
 
 # Path to your R script
 RSCRIPT_FILE="main.R"
+
 shift;  # will remove first (which is the version) arg from the "$@"
+
 # Execute the R script with the specified R version and forward any additional arguments
 "$RSCRIPT_PATH" "$RSCRIPT_FILE" "$@"
-

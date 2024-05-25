@@ -139,4 +139,4 @@ capsule <- list()
 capsule$'SIGNOR Pathways' <- list()
 capsule$`SIGNOR Pathways`$'from apis pathways' <- path_j_list
 paths_j <- toJSON(capsule, pretty = T, auto_unbox = T)
-write(paths_j, file = file.path(opt$output_folder,paste0(now,"Vhi_",package.version("hipathia"),opt$spe,"_pathway_list_signor")))
+write(paths_j, file = file.path(opt$output_folder,paste0(now,"Vhi_",package.version("hipathia"),opt$spe,"_pathway_list_signor.json")))
