@@ -100,6 +100,7 @@ write_Sif_Att_FromRow <- function(pathway_tsv, spe="hsa",
     write(x = c("", "Not parsed ------> This pathway has become a closed-loop pathway after technical curation!"), file = log_file, append = T, sep = "\t", ncolumns = 2)
     return()
   }
+  
   ## change same label for different entity_id
   pathway_tsv <-  pathway_tsv %>% group_by(entitya) %>% mutate(n1 = n()) %>% group_by(entitya,ida) %>% mutate(n2=n()) %>% mutate(entitya_tmp = ifelse(n1!=n2, paste0(entitya,"(",ida,")"),entitya)) %>%
                                   group_by(entityb) %>% mutate(n1 = n()) %>% group_by(entityb,idb) %>% mutate(n2=n()) %>% mutate(entityb_tmp = ifelse(n1!=n2, paste0(entityb,"(",idb,")"),entityb)) %>%
@@ -110,6 +111,19 @@ write_Sif_Att_FromRow <- function(pathway_tsv, spe="hsa",
   pathway_tsv <- pathway_tsv %>% rowwise %>% mutate(entitya = ifelse(!entitya %in% graph$att$label & entitya_tmp %in% graph$att$label,entitya_tmp,entitya))  %>% 
                               mutate(entityb = ifelse(!entityb %in% graph$att$label & entityb_tmp %in% graph$att$label,entityb_tmp,entityb))
   graph$sif <- get_hi_sif(pathway_tsv, graph$att ,verbose)
+  # detect cyclic sub-paths in the whole pathway:
+  unreachable_out_nodes<-get_unreachable_out_nodes(sif=graph$sif, verbose)
+  if(length(unreachable_out_nodes) > 0){
+    unreachable_out_nodes_labels <- graph$att %>%
+      filter(ID %in% unreachable_out_nodes$name) %>%
+      select(label) %>%
+      pull()
+    write(x = c("", "Not parsed ------> Unreachable last nodes (effectors):",
+                paste0(unreachable_out_nodes_labels, collapse = ","),
+                ". Hipathia requires all last nodes (effectors) to be reachable from the first nodes (receptors)."),
+          file = log_file, append = TRUE, sep = "\t", ncolumns = 2)
+    return()
+  }
   graph <- add_layout2att(graph, verbose)
   # graph$att %>% filter(label %in% pheno_as_out$entitya) %%
   graph$stimulus_as_out <-  stimulus_as_out #only capturing the stimuli
@@ -243,6 +257,50 @@ getEntrezFromComposed <- function(sigID, sigMapper,sep=",", verbose=F, log_file 
   if(length(uniprots)>1) stop("Not a unique entry for signor IDS")
   return(new_genesList)
 }
+
+get_unreachable_out_nodes <- function(sif, verbose=F) {
+  ig <- graph_from_data_frame(sif[, c("hi_ida", "hi_idb")], directed = TRUE)
+  last_nodes<-V(ig)[degree(ig, mode = "out") == 0]
+  first_nodes<-V(ig)[degree(ig, mode = "in") == 0]
+  unreachable_out_nodes <- last_nodes[!last_nodes%in%igraph::dfs(ig, first_nodes, unreachable = F)$order]
+  if(verbose){
+    if (length(unreachable_out_nodes) > 0) {
+      cat("The following out nodes are not reachable from any in nodes:", paste(unreachable_out_nodes$name, collapse = ", "), "\n")
+    } else {
+      cat("All out nodes are reachable from at least one in node.\n")
+    }
+  }
+  return(unreachable_out_nodes)
+}
+# Function to check if all in_nodes can reach all out_nodes
+get_unreachable_out_nodes_loopBased <- function(sif, verbose=F) {
+  ig <- graph_from_data_frame(sif[, c("hi_ida", "hi_idb")], directed = TRUE)
+  last_nodes<-V(ig)[degree(ig, mode = "out") == 0]
+  first_nodes<-V(ig)[degree(ig, mode = "in") == 0]
+  
+  unreachable_out_nodes <- c()
+  
+  for (last_node in last_nodes) {
+    # Check if out_node is reachable from any of the in_nodes
+    reachable <- sapply(first_nodes, function(in_node) {
+      lengths(shortest_paths(ig, from = in_node, to = last_node)$vpath) > 0
+    })
+    
+    if (!any(reachable)) {
+      unreachable_out_nodes <- c(unreachable_out_nodes, V(ig)$name[last_node])
+    }
+  }
+  if(verbose){
+    if (length(unreachable_out_nodes) > 0) {
+      cat("The following out nodes are not reachable from any in nodes:", paste(unreachable_out_nodes, collapse = ", "), "\n")
+    } else {
+      cat("All out nodes are reachable from at least one in node.\n")
+    }
+  }
+  return(unreachable_out_nodes)
+}
+
+## Adding layout to graph 
 add_layout2att <-function(graph, verbose=F){
   ig <- graph_from_data_frame(graph$sif[, c("hi_ida", "hi_idb")], directed = TRUE)
   l <- layout_nicely(graph = ig,dim = 2)
