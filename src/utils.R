@@ -52,7 +52,7 @@ write_Sif_Att_FromRow <- function(pathway_tsv, spe="hsa",
   
   log_file <- file.path(output_folder,"log.txt")
   path_id <- pathway_tsv$pathway_id %>% unique
-  dir.create(output_folder, showWarnings = FALSE)
+  dir.create(output_folder, showWarnings = FALSE, recursive = T)
   write(x = c("* path_id : ", path_id), file = log_file, append = T, sep = "\t", ncolumns = 2)
   if(verbose) cat("Parsing the ",pathway_tsv$pathway_id %>% unique, "...")
   pathway_tsv <- add_hi_effect(pathway_tsv)# Change the interaction to hipathia standard 
@@ -255,7 +255,7 @@ add_layout2att <-function(graph, verbose=F){
 ## write sif and att files
 write_sif_att_files<- function(graph,spe, path_id,output_folder,verbose){
   file_pre <- paste0(spe,path_id)
-  dir.create(output_folder, showWarnings = FALSE)
+  dir.create(output_folder, showWarnings = FALSE, recursive = T)
   write.table(graph$att, file = file.path(output_folder,paste0(file_pre,".att")), append = F, quote = F, sep = "\t", row.names = F, col.names = T)
   write.table(graph$sif, file = file.path(output_folder,paste0(file_pre,".sif")), append = F, quote = F, sep = "\t", row.names = F, col.names = F)
 }

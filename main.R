@@ -1,4 +1,5 @@
-#!/usr/bin/env /opt/R/4.1.2/bin/Rscript
+#!/usr/bin/env Rscript
+# # !/usr/bin/env /opt/R/4.1.2/bin/Rscript # these are removed to sh file
 #  #!/usr/bin/env /opt/R/4.1.2/bin/Rscript
 ## # !/usr/bin/env /opt/R/4.3.1/bin/Rscript <- new version  is imcompatible with web !
 # Load needed lirbrary
@@ -120,7 +121,7 @@ cat("hipathia version is : ",package.version("hipathia"))
 if(!exists("all_pheno_as_out"))
   all_pheno_as_out <- read_table(file = file.path(opt$output_folder,paste0("phenotypes_annot_",opt$spe,".tsv")), show_col_types = F)
 annotations <- get_annots(signor_annot = all_pheno_as_out, spe=opt$spe, db = "uniprot")
-if(package.version("hipathia")=="2.10.0"){
+if(packageVersion("hipathia")<package_version("3.0.0")){
   mgi <- hipathia::mgi_from_sif(sif.folder = opt$output_folder, spe = opt$spe, entrez_symbol = as.data.frame(annotations$signor_entrez_hgnc), dbannot = as.data.frame(annotations$signor_annot))
 }else{
   mgi <- mgi_from_sif_patched(sif.folder = opt$output_folder, spe = opt$spe, verbose=opt$verbose, entrez_symbol = as.data.frame(annotations$signor_entrez_hgnc), dbannot = as.data.frame(annotations$signor_annot))
