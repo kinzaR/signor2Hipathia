@@ -118,9 +118,7 @@ write_Sif_Att_FromRow <- function(pathway_tsv, spe="hsa",
       filter(ID %in% unreachable_out_nodes$name) %>%
       select(label) %>%
       pull()
-    write(x = c("", "Not parsed ------> Unreachable last nodes (effectors):",
-                paste0(unreachable_out_nodes_labels, collapse = ","),
-                ". Hipathia requires all last nodes (effectors) to be reachable from the first nodes (receptors)."),
+    write(x = c("", paste0("Not parsed ------> Unreachable last nodes (effectors):", paste0(unreachable_out_nodes_labels, collapse = ","),". Hipathia requires all last nodes (effectors) to be reachable from the first nodes (receptors).")),
           file = log_file, append = TRUE, sep = "\t", ncolumns = 2)
     return()
   }
@@ -262,12 +260,12 @@ get_unreachable_out_nodes <- function(sif, verbose=F) {
   ig <- graph_from_data_frame(sif[, c("hi_ida", "hi_idb")], directed = TRUE)
   last_nodes<-V(ig)[degree(ig, mode = "out") == 0]
   first_nodes<-V(ig)[degree(ig, mode = "in") == 0]
-  unreachable_out_nodes <- last_nodes[!last_nodes%in%igraph::dfs(ig, first_nodes, unreachable = F)$order]
+  unreachable_out_nodes <- last_nodes[!sapply(last_nodes, function(last_node){
+                                          any(first_nodes %in% igraph::dfs(ig, last_node, unreachable = F, mode= "in")$order)
+                                        })]
   if(verbose){
     if (length(unreachable_out_nodes) > 0) {
       cat("The following out nodes are not reachable from any in nodes:", paste(unreachable_out_nodes$name, collapse = ", "), "\n")
-    } else {
-      cat("All out nodes are reachable from at least one in node.\n")
     }
   }
   return(unreachable_out_nodes)
@@ -293,8 +291,6 @@ get_unreachable_out_nodes_loopBased <- function(sif, verbose=F) {
   if(verbose){
     if (length(unreachable_out_nodes) > 0) {
       cat("The following out nodes are not reachable from any in nodes:", paste(unreachable_out_nodes, collapse = ", "), "\n")
-    } else {
-      cat("All out nodes are reachable from at least one in node.\n")
     }
   }
   return(unreachable_out_nodes)
@@ -468,6 +464,20 @@ get_annots<- function(signor_annot, spe, db="uniprot"){
   return(annotations)
 }
 
+# this is an Hipathia example
+getHipathia_report <- function(mgi, output_folder, verbose){
+  port<- servr::random_port()
+  fake_comp<- data.frame(row.names = names(mgi$eff.norm)) %>%
+    mutate(name= hipathia::get_path_names(mgi, rownames(.)),
+           "UP/DOWN"=0,
+           statistic=0,
+           p.value=1,
+           FDRp.value=1)
+  hipathia::create_report(comp = fake_comp, metaginfo = mgi, output_folder = "", path = output_folder, verbose = verbose)
+  cat("Open a web browser and go to URL http://127.0.0.1:", port, "\n", sep = "")
+  message("Press Ctrl + C to stop serving the report...\n")
+  servr::httd(paste0(output_folder, "/pathway-viewer"), port = port, browser = TRUE, daemon = F)
+}
 ### general functions
 setdiff_all <- function(vec1, vec2) {
   return(setdiff(union(vec1, vec2), intersect(vec1, vec2)))
