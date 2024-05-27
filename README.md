@@ -92,7 +92,8 @@ The output of the main R script includes:
 
 This parser is currently undergoing testing and validation. A generated report using all parsed 84 pathways from Signor and the Breast Cancer (BRCA) dataset can be found [here](http://hipathia.babelomics.org/signor_tests/pathway-viewer/). Please note that this report is still under review by the team.
 
-![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/9b085a9a-d263-4103-9004-a3e19f8280ba)
+![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/442cece7-6748-414e-a7d2-09bc5eba1746)
+
 
 Reproducibility: To work with the Breast Cancer dataset from The Cancer Genome Atlas repository, you can download the expression matrix and the experimental design from these links:
 
