@@ -61,14 +61,16 @@ To use the main R script, follow these steps:
     ./signor2Hipathia.sh 4.3.1 -p SIGNOR-AML -v -o tmp/my_first_report OR ./main.R -p SIGNOR-AML -v -o tmp/my_first_report
    ```
    This command selects only the "SIGNOR-AML: Acute Myeloid Leukemia" pathway for parsing [https://signor.uniroma2.it/pathway_browser.php?pathway_list=SIGNOR-AML]. as a result from the commandLine, you will see:
-    ![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/c41df08d-a5ba-4f0d-ab16-1d1a7871863a)
+   
+      ![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/c41df08d-a5ba-4f0d-ab16-1d1a7871863a)
 
    You can also view the web report:
-   ![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/b1be3af5-c7d9-4478-98ac-3b575ce5a87b)
+   
+      ![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/b1be3af5-c7d9-4478-98ac-3b575ce5a87b)
 
    For more information about all molecules/nodes, a tooltip has been added containing a direct link to its record in the Signor database:
    
-   ![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/3b3c5d75-b862-48d7-9eb8-ff9c148f1353)
+      ![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/3b3c5d75-b862-48d7-9eb8-ff9c148f1353)
 
 
 ## Dependencies
