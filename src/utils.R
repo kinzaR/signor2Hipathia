@@ -474,6 +474,8 @@ getHipathia_report <- function(mgi, output_folder, verbose){
            p.value=1,
            FDRp.value=1)
   hipathia::create_report(comp = fake_comp, metaginfo = mgi, output_folder = "", path = output_folder, verbose = verbose)
+  file.copy("files/img/report_title.png", paste0(output_folder, "/pathway-viewer"), overwrite = T)
+  file.copy("files/img/report_legend.png", paste0(output_folder, "/pathway-viewer"), overwrite = T)
   cat("Open a web browser and go to URL http://127.0.0.1:", port, "\n", sep = "")
   message("Press Ctrl + C to stop serving the report...\n")
   servr::httd(paste0(output_folder, "/pathway-viewer"), port = port, browser = TRUE, daemon = F)
