@@ -87,6 +87,15 @@ The output of the main R script includes:
 - A folder of pathway-viewer after parsing it, to visualize it localy.
 - `log.txt` file: Contains all warnings and information about all chosen pathways, indicating if they were parsed or not, and reasons if they were not parsed.
 - `not_parsed.tsv` file: Contains the IDs of pathways that were not parsed.
+- 
+## Testing and Validation
+
+This parser is currently undergoing testing and validation. A generated report using all parsed 84 pathways from Signor and the Breast Cancer (BRCA) dataset can be found [here](http://hipathia.babelomics.org/signor_tests/pathway-viewer/). Please note that this report is still under review by the team.
+
+To work with the Breast Cancer dataset from The Cancer Genome Atlas repository, you can download the expression matrix and the experimental design from these links:
+
+- Expression matrix: [brca_genes_vals_bn.txt](https://github.com/kinzaR/signor2Hipathia/blob/main/files/data/brca_genes_vals_bn.txt)
+- Experimental design: [brca_normal-basal_ed.txt](https://github.com/kinzaR/signor2Hipathia/blob/main/files/data/brca_normal-basal_ed.txt)
 
 ## Conclusion
 The signor2Hipathia project aims to facilitate the integration of Signor pathways into the Hipathia method. By following the instructions provided in this README, users can parse Signor pathways and prepare them for further analysis using Hipathia.
