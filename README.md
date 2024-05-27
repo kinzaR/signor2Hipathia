@@ -65,7 +65,10 @@ To use the main R script, follow these steps:
 
    You can also view the web report:
    ![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/b1be3af5-c7d9-4478-98ac-3b575ce5a87b)
-   
+
+   For more information about all molecules/nodes, a tooltip has been added containing a direct link to its record in the Signor database:
+   ![image](https://github.com/kinzaR/signor2Hipathia/assets/12510444/3b3c5d75-b862-48d7-9eb8-ff9c148f1353)
+
 
 ## Dependencies
 
