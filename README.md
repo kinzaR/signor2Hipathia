@@ -58,7 +58,11 @@ To use the main R script, follow these steps:
    ```
 6. Example to run the script:
    ```
-    ./signor2Hipathia.sh 4.3.1 -p SIGNOR-AML -v -o tmp/my_first_report OR ./main.R -p SIGNOR-AML -v -o tmp/my_first_report
+    ./signor2Hipathia.sh 4.3.1 -p SIGNOR-AML -v -o tmp/my_first_report
+   ```
+   OR
+   ```
+   ./main.R -p SIGNOR-AML -v -o tmp/my_first_report
    ```
    This command selects only the "SIGNOR-AML: Acute Myeloid Leukemia" pathway for parsing [https://signor.uniroma2.it/pathway_browser.php?pathway_list=SIGNOR-AML]. as a result from the commandLine, you will see:
    
